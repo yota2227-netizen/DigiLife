@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DigiLife アプリケーション仕様書</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+        }
+        h1 { margin-top: 0; }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: Consolas, monospace;
+        }
+        .note {
+            background-color: #e7f3fe;
+            border-left: 6px solid #2196F3;
+            margin-bottom: 15px;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DigiLife アプリケーション仕様書</h1>
+        
+        <h2>1. 概要</h2>
+        <p>
+            DigiLifeは、仮想生命体の状態（エネルギー、社交性、整合性）をシミュレーションし、ユーザーが対話的にケアを行うことができるWebアプリケーションです。
+            各パラメータは時間とともに自然減少し、閾値を下回るとユーザーにアクションを要求します。
+        </p>
+
+        <h2>2. システム構成</h2>
+        <table>
+            <tr>
+                <th>層</th>
+                <th>技術スタック</th>
+                <th>役割</th>
+            </tr>
+            <tr>
+                <td>バックエンド</td>
+                <td>Python, FastAPI</td>
+                <td>生命体モデルのシミュレーション、WebSocketサーバー、API提供</td>
+            </tr>
+            <tr>
+                <td>フロントエンド</td>
+                <td>React, Vite, Vanilla CSS</td>
+                <td>パラメータの可視化、ユーザーアクションの受付、WebSocketクライアント</td>
+            </tr>
+            <tr>
+                <td>通信</td>
+                <td>WebSocket, HTTP</td>
+                <td>リアルタイム状態更新 (WS)、アクション送信 (HTTP)</td>
+            </tr>
+        </table>
+
+        <h2>3. 生命体モデル仕様</h2>
+        <p>生命体は以下の3つのパラメータを持ちます。それぞれの範囲は <code>0.0</code> ～ <code>100.0</code> です。</p>
+        
+        <h3>3.1 パラメータ定義</h3>
+        <table>
+            <tr>
+                <th>パラメータ名</th>
+                <th>説明</th>
+                <th>減衰率 (per sec)</th>
+                <th>回復アクション</th>
+                <th>回復量</th>
+            </tr>
+            <tr>
+                <td>エネルギー (Energy)</td>
+                <td>生命活動に必要な活力</td>
+                <td>-0.5</td>
+                <td>食事 (Eat)</td>
+                <td>+30.0</td>
+            </tr>
+            <tr>
+                <td>社交性 (Social)</td>
+                <td>他者との関わりを求める欲求</td>
+                <td>-0.8</td>
+                <td>会話 (Talk)</td>
+                <td>+40.0</td>
+            </tr>
+            <tr>
+                <td>整合性 (Integrity)</td>
+                <td>精神的な安定度</td>
+                <td>-0.3</td>
+                <td>睡眠 (Sleep)</td>
+                <td>+20.0</td>
+            </tr>
+        </table>
+
+        <h3>3.2 状態変化ロジック</h3>
+        <ul>
+            <li><strong>減衰:</strong> 1秒ごとに各パラメータが設定された減衰率で減少します。下限は 0 です。</li>
+            <li><strong>要求 (Request):</strong> パラメータが閾値（20%）を下回ると、GUI上で警告が表示されます。</li>
+            <li><strong>回復:</strong> 各アクションを実行すると、設定された回復量が加算されます。上限は 100 です。</li>
+        </ul>
+
+        <h2>4. API / インターフェース仕様</h2>
+        
+        <h3>4.1 WebSocket (`ws://localhost:8000/ws`)</h3>
+        <p>クライアント接続時に確立され、生命体の状態（JSON）を1秒ごとにプッシュ通知します。</p>
+        <p><strong>データ形式:</strong></p>
+        <pre><code>{
+  "energy": 85.5,
+  "social": 42.0,
+  "integrity": 90.1,
+  ...
+}</code></pre>
+        <p>また、全クライアント切断後3秒でサーバーを自動停止する機能を有します。</p>
+
+        <h3>4.2 HTTP API</h3>
+        <p><strong>POST /action/{action_type}</strong></p>
+        <ul>
+            <li><code>action_type</code>: "eat", "talk", "sleep" のいずれか</li>
+            <li>レスポンス: 更新された生命体モデルのJSON</li>
+        </ul>
+
+        <h2>5. 実行環境</h2>
+        <p>
+            Windows環境での動作を前提としています。
+            起動には <code>start_digilife.vbs</code> を使用し、停止には <code>stop_digilife.bat</code> を使用します。
+        </p>
+    </div>
+</body>
+</html>

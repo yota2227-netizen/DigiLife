@@ -1,0 +1,46 @@
+.status-container {
+  margin-bottom: 1rem;
+}
+
+.status-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+}
+
+.status-label {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #1e3a8a; /* blue-900 */
+}
+
+.status-value {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #1e3a8a;
+}
+
+.progress-bar-bg {
+  width: 100%;
+  background-color: #e5e7eb; /* gray-200 */
+  border-radius: 9999px;
+  height: 0.625rem; /* 2.5 */
+}
+
+.progress-bar-fill {
+  height: 0.625rem;
+  border-radius: 9999px;
+  transition: width 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+.status-green {
+  background-color: #22c55e; /* green-500 */
+}
+
+.status-yellow {
+  background-color: #eab308; /* yellow-500 */
+}
+
+.status-red {
+  background-color: #ef4444; /* red-500 */
+}

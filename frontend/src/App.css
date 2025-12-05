@@ -1,0 +1,46 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  font-family: 'Inter', sans-serif;
+}
+
+.dashboard-card {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+.app-title {
+  text-align: center;
+  color: #111827;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.connection-status {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.text-green {
+  color: #10b981;
+  font-weight: 600;
+}
+
+.text-red {
+  color: #ef4444;
+  font-weight: 600;
+}
+
+.indicators-section {
+  margin-bottom: 2rem;
+}
