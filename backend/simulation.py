@@ -4,6 +4,14 @@ import subprocess
 from typing import List
 from fastapi import WebSocket
 from model import LifeForm
+import logging
+
+# Configure Logging
+logging.basicConfig(
+    filename='simulation.log',
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
 class Simulation:
     def __init__(self, life_form: LifeForm):
@@ -54,6 +62,18 @@ class Simulation:
         while self.running:
             self.life_form.decay()
             self.life_form.check_and_recover()
+            
+            # Log current state
+            logging.info(f"Energy: {self.life_form.energy:.1f}, Social: {self.life_form.social:.1f}, Integrity: {self.life_form.integrity:.1f}")
+
+            # Check for violations
+            if self.life_form.energy < self.life_form.THRESHOLD_ENERGY:
+                 logging.warning(f"VIOLATION: Energy is below threshold ({self.life_form.energy:.1f} < {self.life_form.THRESHOLD_ENERGY})")
+            if self.life_form.social < self.life_form.THRESHOLD_SOCIAL:
+                 logging.warning(f"VIOLATION: Social is below threshold ({self.life_form.social:.1f} < {self.life_form.THRESHOLD_SOCIAL})")
+            if self.life_form.integrity < self.life_form.THRESHOLD_INTEGRITY:
+                 logging.warning(f"VIOLATION: Integrity is below threshold ({self.life_form.integrity:.1f} < {self.life_form.THRESHOLD_INTEGRITY})")
+
             await self.broadcast()
             await asyncio.sleep(1)  # Decay every second
 
