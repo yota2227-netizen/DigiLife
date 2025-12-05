@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,38 +15,51 @@
             padding: 20px;
             background-color: #f9f9f9;
         }
-        h1, h2, h3 {
+
+        h1,
+        h2,
+        h3 {
             color: #2c3e50;
             border-bottom: 2px solid #eaeaea;
             padding-bottom: 10px;
         }
-        h1 { margin-top: 0; }
+
+        h1 {
+            margin-top: 0;
+        }
+
         .container {
             background: white;
             padding: 40px;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
+
         table {
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
         }
-        th, td {
+
+        th,
+        td {
             border: 1px solid #ddd;
             padding: 12px;
             text-align: left;
         }
+
         th {
             background-color: #f2f2f2;
             font-weight: bold;
         }
+
         code {
             background-color: #eee;
             padding: 2px 5px;
             border-radius: 3px;
             font-family: Consolas, monospace;
         }
+
         .note {
             background-color: #e7f3fe;
             border-left: 6px solid #2196F3;
@@ -54,10 +68,11 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>DigiLife アプリケーション仕様書</h1>
-        
+
         <h2>1. 概要</h2>
         <p>
             DigiLifeは、仮想生命体の状態（エネルギー、社交性、整合性）をシミュレーションし、ユーザーが対話的にケアを行うことができるWebアプリケーションです。
@@ -90,7 +105,7 @@
 
         <h2>3. 生命体モデル仕様</h2>
         <p>生命体は以下の3つのパラメータを持ちます。それぞれの範囲は <code>0.0</code> ～ <code>100.0</code> です。</p>
-        
+
         <h3>3.1 パラメータ定義</h3>
         <table>
             <tr>
@@ -128,10 +143,11 @@
             <li><strong>減衰:</strong> 1秒ごとに各パラメータが設定された減衰率で減少します。下限は 0 です。</li>
             <li><strong>要求 (Request):</strong> パラメータが閾値（20%）を下回ると、GUI上で警告が表示されます。</li>
             <li><strong>回復:</strong> 各アクションを実行すると、設定された回復量が加算されます。上限は 100 です。</li>
+            <li><strong>自律回復:</strong> パラメータが閾値を下回った場合、生命体は自律的に判断し、即座に対応するアクションを実行して回復を図ります。</li>
         </ul>
 
         <h2>4. API / インターフェース仕様</h2>
-        
+
         <h3>4.1 WebSocket (`ws://localhost:8000/ws`)</h3>
         <p>クライアント接続時に確立され、生命体の状態（JSON）を1秒ごとにプッシュ通知します。</p>
         <p><strong>データ形式:</strong></p>
@@ -157,4 +173,5 @@
         </p>
     </div>
 </body>
+
 </html>
