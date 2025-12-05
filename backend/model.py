@@ -1,4 +1,5 @@
 from pydantic import BaseModel
+import random
 
 class LifeForm(BaseModel):
     energy: float = 100.0
@@ -20,26 +21,63 @@ class LifeForm(BaseModel):
     COST_TALK: float = 10.0
     COST_SLEEP: float = 5.0
 
+    # State flags for time-based recovery
+    remaining_recovery_eat: float = 0.0
+    remaining_recovery_sleep: float = 0.0
+
     def decay(self):
-        self.energy = max(0.0, self.energy - self.DECAY_ENERGY)
+        # Update Energy (Eat)
+        if self.remaining_recovery_eat > 0:
+            recovery_rate = self.DECAY_ENERGY * 2
+            amount = min(self.remaining_recovery_eat, recovery_rate)
+            self.energy = min(100.0, self.energy + amount)
+            self.remaining_recovery_eat -= amount
+        else:
+            self.energy = max(0.0, self.energy - self.DECAY_ENERGY)
+
+        # Update Social (Normal decay, Talk is immediate)
         self.social = max(0.0, self.social - self.DECAY_SOCIAL)
-        self.integrity = max(0.0, self.integrity - self.DECAY_INTEGRITY)
+
+        # Update Integrity (Sleep)
+        if self.remaining_recovery_sleep > 0:
+            recovery_rate = self.DECAY_INTEGRITY * 2
+            amount = min(self.remaining_recovery_sleep, recovery_rate)
+            self.integrity = min(100.0, self.integrity + amount)
+            self.remaining_recovery_sleep -= amount
+        else:
+            self.integrity = max(0.0, self.integrity - self.DECAY_INTEGRITY)
 
     def eat(self):
-        # Gain 30 energy, but cost 5 energy to perform action (Net +25)
-        self.energy = min(100.0, self.energy + 30.0 - 5.0)
+        # Don't start if already eating
+        if self.remaining_recovery_eat > 0:
+            return
+            
+        # Cost is paid immediately
+        self.energy = max(0.0, self.energy - self.COST_EAT)
+        # Set recovery target (+30 total)
+        self.remaining_recovery_eat = 30.0
 
     def talk(self):
-        # Gain 40 social, cost 10 energy
-        self.social = min(100.0, self.social + 40.0)
-        self.energy = max(0.0, self.energy - 10.0)
+        # Gain random social (15-30), cost 10 energy
+        gain = random.uniform(15.0, 30.0)
+        self.social = min(100.0, self.social + gain)
+        self.energy = max(0.0, self.energy - self.COST_TALK)
 
     def sleep(self):
-        # Gain 20 integrity, cost 5 energy
-        self.integrity = min(100.0, self.integrity + 20.0)
-        self.energy = max(0.0, self.energy - 5.0)
+        # Don't start if already sleeping
+        if self.remaining_recovery_sleep > 0:
+            return
+
+        # Cost is paid immediately
+        self.energy = max(0.0, self.energy - self.COST_SLEEP)
+        # Set recovery target (+20 total)
+        self.remaining_recovery_sleep = 20.0
 
     def check_and_recover(self):
+        # If currently recovering (busy), do not initiate new actions
+        if self.remaining_recovery_eat > 0 or self.remaining_recovery_sleep > 0:
+            return
+
         # 1. Critical Energy Check (Highest Priority)
         if self.energy < self.THRESHOLD_ENERGY:
             self.eat()
