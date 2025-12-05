@@ -40,3 +40,4 @@ npm run dev
 
 ## 仕様詳細
 詳細な仕様については、[specification.html](./specification.html) を参照してください。
+現在の設定では、社交性の閾値は50%、エネルギーと整合性の閾値は20%となっています。

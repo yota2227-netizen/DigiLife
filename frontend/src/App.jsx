@@ -62,12 +62,12 @@ function App() {
         </div>
 
         <div className="indicators-section">
-          <StatusIndicator label="エネルギー (Energy)" value={lifeForm.energy} />
-          <StatusIndicator label="社交性 (Social)" value={lifeForm.social} />
-          <StatusIndicator label="整合性 (Integrity)" value={lifeForm.integrity} />
+          <StatusIndicator label="エネルギー (Energy)" value={lifeForm.energy} threshold={20} />
+          <StatusIndicator label="社交性 (Social)" value={lifeForm.social} threshold={50} />
+          <StatusIndicator label="整合性 (Integrity)" value={lifeForm.integrity} threshold={20} />
         </div>
 
-        <ActionPanel onAction={handleAction} state={lifeForm} />
+        <ActionPanel onAction={handleAction} state={lifeForm} thresholds={{ energy: 20, social: 50, integrity: 20 }} />
       </div>
     </div>
   );
