@@ -53,6 +53,7 @@ class Simulation:
         self.running = True
         while self.running:
             self.life_form.decay()
+            self.life_form.check_and_recover()
             await self.broadcast()
             await asyncio.sleep(1)  # Decay every second
 
