@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import StatusIndicator from './components/StatusIndicator';
 import ActionPanel from './components/ActionPanel';
+import CharacterDisplay from './components/CharacterDisplay';
 import './App.css';
 
 function App() {
@@ -61,13 +62,21 @@ function App() {
           </span>
         </div>
 
-        <div className="indicators-section">
-          <StatusIndicator label="エネルギー (Energy)" value={lifeForm.energy} threshold={20} />
-          <StatusIndicator label="社交性 (Social)" value={lifeForm.social} threshold={50} />
-          <StatusIndicator label="整合性 (Integrity)" value={lifeForm.integrity} threshold={20} />
-        </div>
+        <div className="dashboard-content">
+          <div className="left-panel">
+            <div className="indicators-section">
+              <StatusIndicator label="エネルギー (Energy)" value={lifeForm.energy} threshold={20} />
+              <StatusIndicator label="社交性 (Social)" value={lifeForm.social} threshold={50} />
+              <StatusIndicator label="整合性 (Integrity)" value={lifeForm.integrity} threshold={20} />
+            </div>
 
-        <ActionPanel onAction={handleAction} state={lifeForm} thresholds={{ energy: 20, social: 50, integrity: 20 }} />
+            <ActionPanel onAction={handleAction} state={lifeForm} thresholds={{ energy: 20, social: 50, integrity: 20 }} />
+          </div>
+
+          <div className="right-panel">
+            <CharacterDisplay state={lifeForm} thresholds={{ energy: 20, social: 50, integrity: 20 }} />
+          </div>
+        </div>
       </div>
     </div>
   );
