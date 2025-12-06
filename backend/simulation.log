@@ -725,3 +725,1089 @@
 2025-12-06 01:44:57,663 - INFO - Energy: 14.5, Social: 21.5, Integrity: 37.9
 2025-12-06 01:44:57,663 - WARNING - VIOLATION: Energy is below threshold (14.5 < 20.0)
 2025-12-06 01:44:57,663 - WARNING - VIOLATION: Social is below threshold (21.5 < 50.0)
+2025-12-06 16:03:59,709 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:04:00,713 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:04:01,718 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:04:02,721 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:04:03,753 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:04:04,758 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:04:05,760 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:04:06,777 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:04:07,780 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:04:08,783 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:04:09,787 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:09:52,962 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:09:53,967 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:09:54,972 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:09:55,975 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:09:56,976 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:09:57,979 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:09:58,996 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:10:00,001 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:10:01,003 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:10:02,006 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:10:03,008 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:10:04,008 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:10:05,014 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:10:06,016 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:10:07,030 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:10:08,034 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:10:09,049 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:10:10,052 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:10:16,542 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:10:17,543 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:10:18,547 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:10:19,551 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:10:20,556 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:10:21,558 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:10:22,561 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:10:23,563 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:10:24,568 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:10:25,582 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:10:26,589 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:10:27,590 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:10:28,596 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:10:29,597 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:10:30,600 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:10:31,606 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:10:32,607 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:10:33,608 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:10:34,611 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:10:35,613 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:10:43,730 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:10:44,745 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:10:45,749 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:10:46,752 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:10:47,758 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:10:48,762 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:10:49,777 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:10:50,782 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:10:51,788 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:10:52,803 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:10:53,805 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:10:54,810 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:10:55,811 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:10:56,813 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:10:57,816 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:10:58,817 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:10:59,825 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:11:00,830 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:11:01,839 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:11:02,841 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:11:03,846 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:11:04,848 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:11:05,851 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:13:04,958 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:13:05,960 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:13:06,973 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:13:07,976 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:13:08,984 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:13:09,988 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:13:11,003 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:13:12,019 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:13:13,021 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:13:14,025 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:13:15,026 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:13:16,041 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:13:17,042 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:13:18,057 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:13:19,061 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:13:20,080 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:13:21,094 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:13:22,098 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:13:23,113 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:13:24,120 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:13:25,123 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:13:26,126 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:13:27,129 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:13:28,133 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:13:29,137 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:13:30,142 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:13:31,146 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:13:32,162 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:13:33,163 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:13:34,168 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:13:35,169 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:15:19,141 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:15:20,151 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:15:21,153 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:15:22,168 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:15:23,172 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:15:24,175 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:15:25,176 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:15:26,180 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:15:27,184 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:15:28,191 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:15:29,204 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:15:30,207 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:15:31,223 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:15:32,226 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:15:33,228 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:15:34,261 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:15:35,268 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:15:36,283 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:15:37,300 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:15:38,301 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:15:39,303 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:15:40,320 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:15:41,337 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:15:42,339 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:15:43,344 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:15:44,360 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:15:45,374 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:15:46,377 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:15:47,393 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:15:48,397 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:15:49,412 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:15:50,414 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 16:15:51,416 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 16:15:52,428 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 16:15:53,443 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 16:15:54,445 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 16:15:55,446 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 16:15:56,461 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 16:15:57,463 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 16:15:58,477 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 16:15:59,492 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 16:16:00,495 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 16:16:01,515 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 16:16:02,516 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 16:22:26,113 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:22:27,126 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:22:28,128 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:22:29,132 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:22:30,133 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:22:31,137 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:22:32,140 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:22:33,156 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:22:34,172 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:22:35,176 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:22:36,180 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:22:37,182 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:22:38,197 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:22:39,198 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:22:40,211 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:22:41,251 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:22:42,254 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:22:43,258 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:22:44,261 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:22:45,278 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:22:46,294 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:22:47,296 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:22:48,312 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:22:49,318 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:22:50,321 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:22:51,323 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:22:52,340 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:22:53,341 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:22:54,356 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:22:55,359 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:22:56,362 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:22:57,365 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 16:22:58,381 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 16:22:59,382 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 16:23:00,384 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 16:23:01,388 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 16:23:02,389 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 16:23:03,391 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 16:23:04,409 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 16:23:05,424 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 16:23:06,426 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 16:23:07,442 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 16:23:08,448 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 16:23:09,453 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 16:23:10,455 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 16:23:11,459 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 16:23:12,463 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 16:23:13,463 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 16:23:14,469 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 16:23:15,486 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 16:23:16,488 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 16:23:17,490 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 16:23:18,493 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 16:23:19,495 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 16:23:20,498 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 16:23:21,510 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 16:23:22,513 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 16:23:23,516 - INFO - Energy: 71.0, Social: 53.6, Integrity: 82.6
+2025-12-06 16:25:37,537 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:25:38,551 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:25:39,554 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:25:40,556 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:25:41,556 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:25:42,572 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:25:43,586 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:25:44,591 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:25:45,595 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:25:46,598 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:25:47,599 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:25:48,603 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:25:49,606 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:25:50,614 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:25:51,617 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:25:52,621 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:25:53,636 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:25:54,642 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:25:55,645 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:25:56,647 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:25:57,663 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:25:58,666 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:28:50,947 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:28:51,958 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:28:52,963 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:28:53,964 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:28:54,966 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:28:55,973 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:28:56,978 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:28:57,983 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:28:58,998 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:29:00,001 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:29:01,004 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:29:02,005 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:29:03,020 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:29:04,023 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:29:05,027 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:29:06,028 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:29:07,031 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:29:08,033 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:29:09,035 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:29:10,037 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:29:11,041 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:29:12,059 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:29:13,065 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:29:14,066 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:29:15,073 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:29:16,073 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:29:17,076 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:29:18,094 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:29:19,097 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:29:20,112 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:29:21,127 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:29:22,142 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 16:29:23,144 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 16:35:23,590 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:35:24,591 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:35:25,593 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:35:26,594 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:35:27,597 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:35:28,603 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:35:29,606 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:35:30,609 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:35:31,610 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:35:32,624 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:35:33,640 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:35:34,645 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:35:35,650 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:35:36,655 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:35:37,671 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:35:38,677 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:35:39,681 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:35:40,682 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:35:41,685 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:35:42,692 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:35:43,708 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:35:44,710 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:35:45,715 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:35:46,730 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:35:47,732 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:35:48,737 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:35:49,741 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:35:50,745 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:35:51,750 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:35:52,753 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:35:53,755 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:35:54,760 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 16:35:55,762 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 16:35:56,763 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 16:35:57,799 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 16:35:58,802 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 16:35:59,817 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 16:36:00,819 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 16:36:01,823 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 16:36:02,832 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 16:36:03,832 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 16:36:04,835 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 16:36:05,837 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 16:36:06,854 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 16:36:07,860 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 16:36:08,864 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 16:36:09,868 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 16:36:10,875 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 16:36:11,879 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 16:36:12,896 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 16:36:13,911 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 16:36:14,927 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 16:36:15,942 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 16:36:16,946 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 16:36:17,953 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 16:36:18,956 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 16:36:19,959 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 16:36:20,962 - INFO - Energy: 71.0, Social: 53.6, Integrity: 82.6
+2025-12-06 16:36:21,967 - INFO - Energy: 70.5, Social: 52.8, Integrity: 82.3
+2025-12-06 16:36:22,971 - INFO - Energy: 70.0, Social: 52.0, Integrity: 82.0
+2025-12-06 16:36:23,988 - INFO - Energy: 69.5, Social: 51.2, Integrity: 81.7
+2025-12-06 16:36:24,990 - INFO - Energy: 69.0, Social: 50.4, Integrity: 81.4
+2025-12-06 16:36:25,991 - INFO - Energy: 58.5, Social: 74.1, Integrity: 81.1
+2025-12-06 16:36:27,007 - INFO - Energy: 58.0, Social: 73.3, Integrity: 80.8
+2025-12-06 16:36:28,012 - INFO - Energy: 57.5, Social: 72.5, Integrity: 80.5
+2025-12-06 16:36:29,027 - INFO - Energy: 57.0, Social: 71.7, Integrity: 80.2
+2025-12-06 16:36:30,031 - INFO - Energy: 56.5, Social: 70.9, Integrity: 79.9
+2025-12-06 16:36:31,033 - INFO - Energy: 56.0, Social: 70.1, Integrity: 79.6
+2025-12-06 16:36:32,038 - INFO - Energy: 55.5, Social: 69.3, Integrity: 79.3
+2025-12-06 16:36:33,042 - INFO - Energy: 55.0, Social: 68.5, Integrity: 79.0
+2025-12-06 16:36:34,046 - INFO - Energy: 54.5, Social: 67.7, Integrity: 78.7
+2025-12-06 16:36:35,049 - INFO - Energy: 54.0, Social: 66.9, Integrity: 78.4
+2025-12-06 16:36:36,053 - INFO - Energy: 53.5, Social: 66.1, Integrity: 78.1
+2025-12-06 16:36:37,056 - INFO - Energy: 53.0, Social: 65.3, Integrity: 77.8
+2025-12-06 16:36:38,061 - INFO - Energy: 52.5, Social: 64.5, Integrity: 77.5
+2025-12-06 16:36:39,062 - INFO - Energy: 52.0, Social: 63.7, Integrity: 77.2
+2025-12-06 16:37:48,185 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:37:49,188 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:37:50,192 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:37:51,195 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:37:52,200 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:37:53,205 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:37:54,210 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:37:55,213 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:37:56,214 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:37:57,217 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:37:58,218 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:37:59,222 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:38:00,225 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:38:01,231 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:38:02,237 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:38:03,242 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:38:04,247 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:38:05,250 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:38:06,253 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:38:07,255 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:38:08,259 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:38:09,262 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:38:10,267 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:38:11,269 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:38:12,272 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:38:13,275 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:38:14,283 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:38:15,286 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:38:16,289 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:38:17,293 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:38:18,294 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:38:19,297 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 16:38:20,302 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 16:38:21,310 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 16:38:22,316 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 16:38:23,317 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 16:38:24,320 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 16:38:25,327 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 16:38:26,329 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 16:40:53,229 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:40:54,239 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:40:55,243 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:40:56,246 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:40:57,248 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:40:58,253 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:40:59,257 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:41:00,262 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:41:01,264 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:41:02,280 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:41:03,282 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:41:04,297 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:41:05,299 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:41:06,315 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:41:07,318 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:41:08,320 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:41:09,336 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:41:10,341 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:41:11,356 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:43:21,368 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 16:43:22,377 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 16:43:23,381 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 16:43:24,387 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 16:43:25,395 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 16:43:26,400 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 16:43:27,404 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 16:43:28,420 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 16:43:29,422 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 16:43:30,427 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 16:43:31,430 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 16:43:32,452 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 16:43:33,465 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 16:43:34,469 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 16:43:35,484 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 16:43:36,501 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 16:43:37,505 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 16:43:38,511 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 16:43:39,517 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 16:43:40,518 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 16:43:41,522 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 16:43:42,536 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 16:43:43,540 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 16:43:44,541 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 16:43:45,544 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 16:43:46,547 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 16:43:47,563 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 16:43:48,579 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 16:43:49,581 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 16:43:50,584 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 16:43:51,590 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 16:43:52,592 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 16:43:53,597 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 16:43:54,599 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 16:43:55,629 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 16:43:56,632 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 16:43:57,646 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 16:43:58,651 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 16:43:59,659 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 16:44:00,674 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 16:44:01,676 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 16:44:02,693 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 16:44:03,699 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 16:44:04,702 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 16:44:05,718 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 16:44:06,723 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 16:44:07,728 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 16:44:08,734 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 16:44:09,737 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 16:44:10,739 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 16:44:11,754 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 16:44:12,758 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 16:44:13,761 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 16:44:14,766 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 16:44:15,768 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 16:44:16,772 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 16:44:17,776 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 17:01:07,040 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 17:01:08,046 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 17:01:09,050 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 17:01:10,056 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 17:01:11,061 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 17:01:12,066 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 17:01:13,069 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 17:01:14,084 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 17:01:15,100 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 17:01:16,103 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 17:01:17,108 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 17:01:18,130 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 17:01:19,131 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 17:01:20,136 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 17:01:21,138 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 17:01:22,141 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 17:01:23,157 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 17:01:24,162 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 17:01:25,180 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 17:01:26,184 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 17:01:27,187 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 17:01:28,192 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 17:01:29,198 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 17:01:30,201 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 17:01:31,205 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 17:01:32,221 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 17:01:33,223 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 17:01:34,232 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 17:01:35,249 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 17:01:36,254 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 17:01:37,257 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 17:01:38,259 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 17:01:39,261 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 17:01:40,263 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 17:01:41,298 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 17:01:42,303 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 17:01:43,307 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 17:01:44,313 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 17:01:45,317 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 17:01:46,319 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 17:01:47,324 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 17:01:48,330 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 17:01:49,335 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 17:01:50,337 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 17:01:51,343 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 17:01:52,348 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 17:01:53,352 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 17:01:54,358 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 17:01:55,362 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 17:01:56,366 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 17:01:57,369 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 17:01:58,385 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 17:01:59,389 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 17:02:00,392 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 17:02:01,395 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 17:02:02,399 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 17:02:03,406 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 17:02:04,408 - INFO - Energy: 71.0, Social: 53.6, Integrity: 82.6
+2025-12-06 17:02:05,414 - INFO - Energy: 70.5, Social: 52.8, Integrity: 82.3
+2025-12-06 17:02:06,430 - INFO - Energy: 70.0, Social: 52.0, Integrity: 82.0
+2025-12-06 17:02:07,436 - INFO - Energy: 69.5, Social: 51.2, Integrity: 81.7
+2025-12-06 17:02:08,441 - INFO - Energy: 69.0, Social: 50.4, Integrity: 81.4
+2025-12-06 17:02:09,445 - INFO - Energy: 58.5, Social: 79.3, Integrity: 81.1
+2025-12-06 17:02:10,448 - INFO - Energy: 58.0, Social: 78.5, Integrity: 80.8
+2025-12-06 17:02:11,452 - INFO - Energy: 57.5, Social: 77.7, Integrity: 80.5
+2025-12-06 17:02:12,457 - INFO - Energy: 57.0, Social: 76.9, Integrity: 80.2
+2025-12-06 17:02:13,460 - INFO - Energy: 56.5, Social: 76.1, Integrity: 79.9
+2025-12-06 17:02:14,465 - INFO - Energy: 56.0, Social: 75.3, Integrity: 79.6
+2025-12-06 17:02:15,468 - INFO - Energy: 55.5, Social: 74.5, Integrity: 79.3
+2025-12-06 17:02:16,470 - INFO - Energy: 55.0, Social: 73.7, Integrity: 79.0
+2025-12-06 17:02:17,475 - INFO - Energy: 54.5, Social: 72.9, Integrity: 78.7
+2025-12-06 17:02:18,491 - INFO - Energy: 54.0, Social: 72.1, Integrity: 78.4
+2025-12-06 17:02:19,495 - INFO - Energy: 53.5, Social: 71.3, Integrity: 78.1
+2025-12-06 17:02:20,502 - INFO - Energy: 53.0, Social: 70.5, Integrity: 77.8
+2025-12-06 17:02:21,509 - INFO - Energy: 52.5, Social: 69.7, Integrity: 77.5
+2025-12-06 17:02:22,510 - INFO - Energy: 52.0, Social: 68.9, Integrity: 77.2
+2025-12-06 17:02:23,513 - INFO - Energy: 51.5, Social: 68.1, Integrity: 76.9
+2025-12-06 17:02:24,518 - INFO - Energy: 51.0, Social: 67.3, Integrity: 76.6
+2025-12-06 17:02:25,534 - INFO - Energy: 50.5, Social: 66.5, Integrity: 76.3
+2025-12-06 17:02:26,536 - INFO - Energy: 50.0, Social: 65.7, Integrity: 76.0
+2025-12-06 17:02:27,538 - INFO - Energy: 49.5, Social: 64.9, Integrity: 75.7
+2025-12-06 17:02:28,544 - INFO - Energy: 49.0, Social: 64.1, Integrity: 75.4
+2025-12-06 17:02:29,549 - INFO - Energy: 48.5, Social: 63.3, Integrity: 75.1
+2025-12-06 17:02:30,555 - INFO - Energy: 48.0, Social: 62.5, Integrity: 74.8
+2025-12-06 17:02:31,560 - INFO - Energy: 47.5, Social: 61.7, Integrity: 74.5
+2025-12-06 17:02:32,565 - INFO - Energy: 47.0, Social: 60.9, Integrity: 74.2
+2025-12-06 17:02:33,567 - INFO - Energy: 46.5, Social: 60.1, Integrity: 73.9
+2025-12-06 17:02:34,570 - INFO - Energy: 46.0, Social: 59.3, Integrity: 73.6
+2025-12-06 17:02:35,585 - INFO - Energy: 45.5, Social: 58.5, Integrity: 73.3
+2025-12-06 17:02:36,590 - INFO - Energy: 45.0, Social: 57.7, Integrity: 73.0
+2025-12-06 17:02:37,593 - INFO - Energy: 44.5, Social: 56.9, Integrity: 72.7
+2025-12-06 17:02:38,600 - INFO - Energy: 44.0, Social: 56.1, Integrity: 72.4
+2025-12-06 17:02:39,605 - INFO - Energy: 43.5, Social: 55.3, Integrity: 72.1
+2025-12-06 17:02:40,611 - INFO - Energy: 43.0, Social: 54.5, Integrity: 71.8
+2025-12-06 17:02:41,615 - INFO - Energy: 42.5, Social: 53.7, Integrity: 71.5
+2025-12-06 17:02:42,635 - INFO - Energy: 42.0, Social: 52.9, Integrity: 71.2
+2025-12-06 17:02:43,652 - INFO - Energy: 41.5, Social: 52.1, Integrity: 70.9
+2025-12-06 17:02:44,657 - INFO - Energy: 41.0, Social: 51.3, Integrity: 70.6
+2025-12-06 17:02:45,660 - INFO - Energy: 40.5, Social: 50.5, Integrity: 70.3
+2025-12-06 17:02:46,666 - INFO - Energy: 30.0, Social: 64.8, Integrity: 70.0
+2025-12-06 17:02:47,673 - INFO - Energy: 24.5, Social: 64.0, Integrity: 69.7
+2025-12-06 17:02:48,678 - INFO - Energy: 25.5, Social: 63.2, Integrity: 69.4
+2025-12-06 17:02:49,685 - INFO - Energy: 26.5, Social: 62.4, Integrity: 69.1
+2025-12-06 17:02:50,687 - INFO - Energy: 27.5, Social: 61.6, Integrity: 68.8
+2025-12-06 17:02:51,692 - INFO - Energy: 28.5, Social: 60.8, Integrity: 68.5
+2025-12-06 17:02:52,695 - INFO - Energy: 29.5, Social: 60.0, Integrity: 68.2
+2025-12-06 17:02:53,696 - INFO - Energy: 30.5, Social: 59.2, Integrity: 67.9
+2025-12-06 17:02:54,700 - INFO - Energy: 31.5, Social: 58.4, Integrity: 67.6
+2025-12-06 17:02:55,705 - INFO - Energy: 32.5, Social: 57.6, Integrity: 67.3
+2025-12-06 17:02:56,709 - INFO - Energy: 33.5, Social: 56.8, Integrity: 67.0
+2025-12-06 17:02:57,726 - INFO - Energy: 34.5, Social: 56.0, Integrity: 66.7
+2025-12-06 17:02:58,731 - INFO - Energy: 35.5, Social: 55.2, Integrity: 66.4
+2025-12-06 17:02:59,736 - INFO - Energy: 36.5, Social: 54.4, Integrity: 66.1
+2025-12-06 17:03:00,742 - INFO - Energy: 37.5, Social: 53.6, Integrity: 65.8
+2025-12-06 17:03:01,746 - INFO - Energy: 38.5, Social: 52.8, Integrity: 65.5
+2025-12-06 17:03:02,753 - INFO - Energy: 39.5, Social: 52.0, Integrity: 65.2
+2025-12-06 17:03:03,769 - INFO - Energy: 40.5, Social: 51.2, Integrity: 64.9
+2025-12-06 17:03:04,771 - INFO - Energy: 41.5, Social: 50.4, Integrity: 64.6
+2025-12-06 17:03:06,024 - INFO - Energy: 42.5, Social: 49.6, Integrity: 64.3
+2025-12-06 17:03:06,025 - WARNING - VIOLATION: Social is below threshold (49.6 < 50.0)
+2025-12-06 17:03:07,030 - INFO - Energy: 43.5, Social: 48.8, Integrity: 64.0
+2025-12-06 17:03:07,030 - WARNING - VIOLATION: Social is below threshold (48.8 < 50.0)
+2025-12-06 17:03:08,033 - INFO - Energy: 44.5, Social: 48.0, Integrity: 63.7
+2025-12-06 17:03:08,033 - WARNING - VIOLATION: Social is below threshold (48.0 < 50.0)
+2025-12-06 17:03:09,038 - INFO - Energy: 45.5, Social: 47.2, Integrity: 63.4
+2025-12-06 17:03:09,039 - WARNING - VIOLATION: Social is below threshold (47.2 < 50.0)
+2025-12-06 17:03:10,041 - INFO - Energy: 46.5, Social: 46.4, Integrity: 63.1
+2025-12-06 17:03:10,041 - WARNING - VIOLATION: Social is below threshold (46.4 < 50.0)
+2025-12-06 17:03:11,043 - INFO - Energy: 47.5, Social: 45.6, Integrity: 62.8
+2025-12-06 17:03:11,044 - WARNING - VIOLATION: Social is below threshold (45.6 < 50.0)
+2025-12-06 17:03:12,047 - INFO - Energy: 48.5, Social: 44.8, Integrity: 62.5
+2025-12-06 17:03:12,048 - WARNING - VIOLATION: Social is below threshold (44.8 < 50.0)
+2025-12-06 17:03:13,054 - INFO - Energy: 49.5, Social: 44.0, Integrity: 62.2
+2025-12-06 17:03:13,054 - WARNING - VIOLATION: Social is below threshold (44.0 < 50.0)
+2025-12-06 17:03:14,064 - INFO - Energy: 50.5, Social: 43.2, Integrity: 61.9
+2025-12-06 17:03:14,064 - WARNING - VIOLATION: Social is below threshold (43.2 < 50.0)
+2025-12-06 17:03:15,066 - INFO - Energy: 51.5, Social: 42.4, Integrity: 61.6
+2025-12-06 17:03:15,066 - WARNING - VIOLATION: Social is below threshold (42.4 < 50.0)
+2025-12-06 17:03:16,070 - INFO - Energy: 52.5, Social: 41.6, Integrity: 61.3
+2025-12-06 17:03:16,070 - WARNING - VIOLATION: Social is below threshold (41.6 < 50.0)
+2025-12-06 17:03:17,072 - INFO - Energy: 53.5, Social: 40.8, Integrity: 61.0
+2025-12-06 17:03:17,073 - WARNING - VIOLATION: Social is below threshold (40.8 < 50.0)
+2025-12-06 17:03:18,077 - INFO - Energy: 44.5, Social: 62.6, Integrity: 60.7
+2025-12-06 17:03:19,093 - INFO - Energy: 44.0, Social: 61.8, Integrity: 60.4
+2025-12-06 17:03:20,097 - INFO - Energy: 43.5, Social: 61.0, Integrity: 60.1
+2025-12-06 17:03:21,101 - INFO - Energy: 43.0, Social: 60.2, Integrity: 59.8
+2025-12-06 17:03:22,105 - INFO - Energy: 42.5, Social: 59.4, Integrity: 59.5
+2025-12-06 17:03:23,110 - INFO - Energy: 42.0, Social: 58.6, Integrity: 59.2
+2025-12-06 17:03:24,114 - INFO - Energy: 41.5, Social: 57.8, Integrity: 58.9
+2025-12-06 17:03:25,117 - INFO - Energy: 41.0, Social: 57.0, Integrity: 58.6
+2025-12-06 17:03:26,119 - INFO - Energy: 40.5, Social: 56.2, Integrity: 58.3
+2025-12-06 17:03:27,123 - INFO - Energy: 40.0, Social: 55.4, Integrity: 58.0
+2025-12-06 17:03:28,126 - INFO - Energy: 39.5, Social: 54.6, Integrity: 57.7
+2025-12-06 17:03:29,131 - INFO - Energy: 39.0, Social: 53.8, Integrity: 57.4
+2025-12-06 17:03:30,133 - INFO - Energy: 38.5, Social: 53.0, Integrity: 57.1
+2025-12-06 17:03:31,138 - INFO - Energy: 38.0, Social: 52.2, Integrity: 56.8
+2025-12-06 17:03:32,143 - INFO - Energy: 37.5, Social: 51.4, Integrity: 56.5
+2025-12-06 17:03:33,148 - INFO - Energy: 37.0, Social: 50.6, Integrity: 56.2
+2025-12-06 17:03:34,164 - INFO - Energy: 26.5, Social: 73.9, Integrity: 55.9
+2025-12-06 17:03:35,169 - INFO - Energy: 21.0, Social: 73.1, Integrity: 55.6
+2025-12-06 17:03:36,175 - INFO - Energy: 22.0, Social: 72.3, Integrity: 55.3
+2025-12-06 17:03:37,181 - INFO - Energy: 23.0, Social: 71.5, Integrity: 55.0
+2025-12-06 17:03:38,187 - INFO - Energy: 24.0, Social: 70.7, Integrity: 54.7
+2025-12-06 17:03:39,191 - INFO - Energy: 25.0, Social: 69.9, Integrity: 54.4
+2025-12-06 17:03:40,198 - INFO - Energy: 26.0, Social: 69.1, Integrity: 54.1
+2025-12-06 17:03:41,201 - INFO - Energy: 27.0, Social: 68.3, Integrity: 53.8
+2025-12-06 17:03:42,207 - INFO - Energy: 28.0, Social: 67.5, Integrity: 53.5
+2025-12-06 17:03:43,223 - INFO - Energy: 29.0, Social: 66.7, Integrity: 53.2
+2025-12-06 17:03:44,226 - INFO - Energy: 30.0, Social: 65.9, Integrity: 52.9
+2025-12-06 17:03:45,230 - INFO - Energy: 31.0, Social: 65.1, Integrity: 52.6
+2025-12-06 17:03:46,233 - INFO - Energy: 32.0, Social: 64.3, Integrity: 52.3
+2025-12-06 17:03:47,249 - INFO - Energy: 33.0, Social: 63.5, Integrity: 52.0
+2025-12-06 17:03:48,252 - INFO - Energy: 34.0, Social: 62.7, Integrity: 51.7
+2025-12-06 17:03:49,256 - INFO - Energy: 35.0, Social: 61.9, Integrity: 51.4
+2025-12-06 17:03:50,261 - INFO - Energy: 36.0, Social: 61.1, Integrity: 51.1
+2025-12-06 17:03:51,265 - INFO - Energy: 37.0, Social: 60.3, Integrity: 50.8
+2025-12-06 17:03:52,267 - INFO - Energy: 38.0, Social: 59.5, Integrity: 50.5
+2025-12-06 17:03:53,273 - INFO - Energy: 39.0, Social: 58.7, Integrity: 50.2
+2025-12-06 17:03:54,277 - INFO - Energy: 40.0, Social: 57.9, Integrity: 49.9
+2025-12-06 17:03:55,281 - INFO - Energy: 41.0, Social: 57.1, Integrity: 49.6
+2025-12-06 17:03:56,285 - INFO - Energy: 42.0, Social: 56.3, Integrity: 49.3
+2025-12-06 17:03:57,302 - INFO - Energy: 43.0, Social: 55.5, Integrity: 49.0
+2025-12-06 17:03:58,307 - INFO - Energy: 44.0, Social: 54.7, Integrity: 48.7
+2025-12-06 17:03:59,313 - INFO - Energy: 45.0, Social: 53.9, Integrity: 48.4
+2025-12-06 17:04:00,315 - INFO - Energy: 46.0, Social: 53.1, Integrity: 48.1
+2025-12-06 17:04:01,322 - INFO - Energy: 47.0, Social: 52.3, Integrity: 47.8
+2025-12-06 17:04:02,325 - INFO - Energy: 48.0, Social: 51.5, Integrity: 47.5
+2025-12-06 17:04:03,329 - INFO - Energy: 49.0, Social: 50.7, Integrity: 47.2
+2025-12-06 17:04:04,345 - INFO - Energy: 50.0, Social: 49.9, Integrity: 46.9
+2025-12-06 17:04:04,345 - WARNING - VIOLATION: Social is below threshold (49.9 < 50.0)
+2025-12-06 17:04:05,349 - INFO - Energy: 41.0, Social: 73.6, Integrity: 46.6
+2025-12-06 17:04:06,351 - INFO - Energy: 35.5, Social: 72.8, Integrity: 46.3
+2025-12-06 17:04:07,355 - INFO - Energy: 36.5, Social: 72.0, Integrity: 46.0
+2025-12-06 17:04:08,359 - INFO - Energy: 37.5, Social: 71.2, Integrity: 45.7
+2025-12-06 17:04:09,363 - INFO - Energy: 38.5, Social: 70.4, Integrity: 45.4
+2025-12-06 17:04:10,366 - INFO - Energy: 39.5, Social: 69.6, Integrity: 45.1
+2025-12-06 17:04:11,370 - INFO - Energy: 40.5, Social: 68.8, Integrity: 44.8
+2025-12-06 17:04:12,373 - INFO - Energy: 41.5, Social: 68.0, Integrity: 44.5
+2025-12-06 17:04:13,389 - INFO - Energy: 42.5, Social: 67.2, Integrity: 44.2
+2025-12-06 17:04:14,393 - INFO - Energy: 43.5, Social: 66.4, Integrity: 43.9
+2025-12-06 17:04:15,395 - INFO - Energy: 44.5, Social: 65.6, Integrity: 43.6
+2025-12-06 17:04:16,399 - INFO - Energy: 45.5, Social: 64.8, Integrity: 43.3
+2025-12-06 17:04:17,403 - INFO - Energy: 46.5, Social: 64.0, Integrity: 43.0
+2025-12-06 17:04:18,406 - INFO - Energy: 47.5, Social: 63.2, Integrity: 42.7
+2025-12-06 17:04:19,410 - INFO - Energy: 48.5, Social: 62.4, Integrity: 42.4
+2025-12-06 17:04:20,426 - INFO - Energy: 49.5, Social: 61.6, Integrity: 42.1
+2025-12-06 17:04:21,431 - INFO - Energy: 50.5, Social: 60.8, Integrity: 41.8
+2025-12-06 17:04:22,435 - INFO - Energy: 51.5, Social: 60.0, Integrity: 41.5
+2025-12-06 17:04:23,440 - INFO - Energy: 52.5, Social: 59.2, Integrity: 41.2
+2025-12-06 17:04:24,444 - INFO - Energy: 53.5, Social: 58.4, Integrity: 40.9
+2025-12-06 17:04:25,448 - INFO - Energy: 54.5, Social: 57.6, Integrity: 40.6
+2025-12-06 17:04:26,462 - INFO - Energy: 55.5, Social: 56.8, Integrity: 40.3
+2025-12-06 17:04:27,464 - INFO - Energy: 56.5, Social: 56.0, Integrity: 40.0
+2025-12-06 17:04:28,481 - INFO - Energy: 57.5, Social: 55.2, Integrity: 39.7
+2025-12-06 17:04:29,484 - INFO - Energy: 58.5, Social: 54.4, Integrity: 39.4
+2025-12-06 17:04:30,489 - INFO - Energy: 59.5, Social: 53.6, Integrity: 39.1
+2025-12-06 17:04:31,489 - INFO - Energy: 60.5, Social: 52.8, Integrity: 38.8
+2025-12-06 17:04:32,495 - INFO - Energy: 61.5, Social: 52.0, Integrity: 38.5
+2025-12-06 17:04:33,499 - INFO - Energy: 62.5, Social: 51.2, Integrity: 38.2
+2025-12-06 17:04:34,502 - INFO - Energy: 63.5, Social: 50.4, Integrity: 37.9
+2025-12-06 17:04:35,508 - INFO - Energy: 64.5, Social: 49.6, Integrity: 37.6
+2025-12-06 17:04:35,509 - WARNING - VIOLATION: Social is below threshold (49.6 < 50.0)
+2025-12-06 17:04:36,514 - INFO - Energy: 55.5, Social: 68.3, Integrity: 37.3
+2025-12-06 17:04:37,518 - INFO - Energy: 55.0, Social: 67.5, Integrity: 37.0
+2025-12-06 17:04:38,520 - INFO - Energy: 54.5, Social: 66.7, Integrity: 36.7
+2025-12-06 17:04:39,524 - INFO - Energy: 54.0, Social: 65.9, Integrity: 36.4
+2025-12-06 17:04:40,528 - INFO - Energy: 53.5, Social: 65.1, Integrity: 36.1
+2025-12-06 17:04:41,530 - INFO - Energy: 53.0, Social: 64.3, Integrity: 35.8
+2025-12-06 17:04:42,536 - INFO - Energy: 52.5, Social: 63.5, Integrity: 35.5
+2025-12-06 17:04:43,538 - INFO - Energy: 52.0, Social: 62.7, Integrity: 35.2
+2025-12-06 17:04:44,542 - INFO - Energy: 51.5, Social: 61.9, Integrity: 34.9
+2025-12-06 17:04:45,546 - INFO - Energy: 51.0, Social: 61.1, Integrity: 34.6
+2025-12-06 17:04:46,563 - INFO - Energy: 50.5, Social: 60.3, Integrity: 34.3
+2025-12-06 17:04:47,566 - INFO - Energy: 50.0, Social: 59.5, Integrity: 34.0
+2025-12-06 17:04:48,570 - INFO - Energy: 49.5, Social: 58.7, Integrity: 33.7
+2025-12-06 17:04:49,585 - INFO - Energy: 49.0, Social: 57.9, Integrity: 33.4
+2025-12-06 17:04:50,590 - INFO - Energy: 48.5, Social: 57.1, Integrity: 33.1
+2025-12-06 17:04:51,595 - INFO - Energy: 48.0, Social: 56.3, Integrity: 32.8
+2025-12-06 17:04:52,598 - INFO - Energy: 47.5, Social: 55.5, Integrity: 32.5
+2025-12-06 17:04:53,600 - INFO - Energy: 47.0, Social: 54.7, Integrity: 32.2
+2025-12-06 17:04:54,602 - INFO - Energy: 46.5, Social: 53.9, Integrity: 31.9
+2025-12-06 17:04:55,605 - INFO - Energy: 46.0, Social: 53.1, Integrity: 31.6
+2025-12-06 17:04:56,608 - INFO - Energy: 45.5, Social: 52.3, Integrity: 31.3
+2025-12-06 17:04:57,616 - INFO - Energy: 45.0, Social: 51.5, Integrity: 31.0
+2025-12-06 17:04:58,621 - INFO - Energy: 44.5, Social: 50.7, Integrity: 30.7
+2025-12-06 17:04:59,625 - INFO - Energy: 34.0, Social: 79.3, Integrity: 30.4
+2025-12-06 17:05:00,642 - INFO - Energy: 28.5, Social: 78.5, Integrity: 30.1
+2025-12-06 17:05:01,658 - INFO - Energy: 29.5, Social: 77.7, Integrity: 29.8
+2025-12-06 17:05:02,665 - INFO - Energy: 30.5, Social: 76.9, Integrity: 29.5
+2025-12-06 17:05:03,668 - INFO - Energy: 31.5, Social: 76.1, Integrity: 29.2
+2025-12-06 17:05:04,673 - INFO - Energy: 32.5, Social: 75.3, Integrity: 28.9
+2025-12-06 17:05:05,675 - INFO - Energy: 33.5, Social: 74.5, Integrity: 28.6
+2025-12-06 17:05:06,679 - INFO - Energy: 34.5, Social: 73.7, Integrity: 28.3
+2025-12-06 17:05:07,683 - INFO - Energy: 35.5, Social: 72.9, Integrity: 28.0
+2025-12-06 17:05:08,686 - INFO - Energy: 36.5, Social: 72.1, Integrity: 27.7
+2025-12-06 17:05:09,690 - INFO - Energy: 37.5, Social: 71.3, Integrity: 27.4
+2025-12-06 17:05:10,696 - INFO - Energy: 38.5, Social: 70.5, Integrity: 27.1
+2025-12-06 17:05:11,697 - INFO - Energy: 39.5, Social: 69.7, Integrity: 26.8
+2025-12-06 17:05:12,699 - INFO - Energy: 40.5, Social: 68.9, Integrity: 26.5
+2025-12-06 17:05:13,701 - INFO - Energy: 41.5, Social: 68.1, Integrity: 26.2
+2025-12-06 17:05:14,706 - INFO - Energy: 42.5, Social: 67.3, Integrity: 25.9
+2025-12-06 17:05:15,709 - INFO - Energy: 43.5, Social: 66.5, Integrity: 25.6
+2025-12-06 17:05:16,713 - INFO - Energy: 44.5, Social: 65.7, Integrity: 25.3
+2025-12-06 17:05:17,715 - INFO - Energy: 45.5, Social: 64.9, Integrity: 25.0
+2025-12-06 17:05:18,718 - INFO - Energy: 46.5, Social: 64.1, Integrity: 24.7
+2025-12-06 17:05:19,721 - INFO - Energy: 47.5, Social: 63.3, Integrity: 24.4
+2025-12-06 17:05:20,741 - INFO - Energy: 48.5, Social: 62.5, Integrity: 24.1
+2025-12-06 17:05:21,745 - INFO - Energy: 49.5, Social: 61.7, Integrity: 23.8
+2025-12-06 17:05:22,749 - INFO - Energy: 50.5, Social: 60.9, Integrity: 23.5
+2025-12-06 17:05:23,753 - INFO - Energy: 51.5, Social: 60.1, Integrity: 23.2
+2025-12-06 17:05:24,757 - INFO - Energy: 52.5, Social: 59.3, Integrity: 22.9
+2025-12-06 17:05:25,760 - INFO - Energy: 53.5, Social: 58.5, Integrity: 22.6
+2025-12-06 17:05:26,763 - INFO - Energy: 54.5, Social: 57.7, Integrity: 22.3
+2025-12-06 17:05:27,767 - INFO - Energy: 55.5, Social: 56.9, Integrity: 22.0
+2025-12-06 17:05:28,771 - INFO - Energy: 56.5, Social: 56.1, Integrity: 21.7
+2025-12-06 17:05:29,775 - INFO - Energy: 57.5, Social: 55.3, Integrity: 21.4
+2025-12-06 17:05:30,780 - INFO - Energy: 58.5, Social: 54.5, Integrity: 21.1
+2025-12-06 17:05:31,782 - INFO - Energy: 58.0, Social: 53.7, Integrity: 20.8
+2025-12-06 17:05:32,784 - INFO - Energy: 57.5, Social: 52.9, Integrity: 20.5
+2025-12-06 17:05:33,786 - INFO - Energy: 57.0, Social: 52.1, Integrity: 20.2
+2025-12-06 17:05:34,791 - INFO - Energy: 51.5, Social: 51.3, Integrity: 19.9
+2025-12-06 17:05:34,791 - WARNING - VIOLATION: Integrity is below threshold (19.9 < 20.0)
+2025-12-06 17:05:35,794 - INFO - Energy: 51.0, Social: 50.5, Integrity: 20.5
+2025-12-06 17:05:36,798 - INFO - Energy: 50.5, Social: 49.7, Integrity: 21.1
+2025-12-06 17:05:36,798 - WARNING - VIOLATION: Social is below threshold (49.7 < 50.0)
+2025-12-06 17:05:37,800 - INFO - Energy: 50.0, Social: 48.9, Integrity: 21.7
+2025-12-06 17:05:37,800 - WARNING - VIOLATION: Social is below threshold (48.9 < 50.0)
+2025-12-06 17:05:38,803 - INFO - Energy: 49.5, Social: 48.1, Integrity: 22.3
+2025-12-06 17:05:38,833 - WARNING - VIOLATION: Social is below threshold (48.1 < 50.0)
+2025-12-06 17:05:39,836 - INFO - Energy: 49.0, Social: 47.3, Integrity: 22.9
+2025-12-06 17:05:39,837 - WARNING - VIOLATION: Social is below threshold (47.3 < 50.0)
+2025-12-06 17:05:40,838 - INFO - Energy: 48.5, Social: 46.5, Integrity: 23.5
+2025-12-06 17:05:40,838 - WARNING - VIOLATION: Social is below threshold (46.5 < 50.0)
+2025-12-06 17:05:41,842 - INFO - Energy: 48.0, Social: 45.7, Integrity: 24.1
+2025-12-06 17:05:41,842 - WARNING - VIOLATION: Social is below threshold (45.7 < 50.0)
+2025-12-06 17:05:42,849 - INFO - Energy: 47.5, Social: 44.9, Integrity: 24.7
+2025-12-06 17:05:42,850 - WARNING - VIOLATION: Social is below threshold (44.9 < 50.0)
+2025-12-06 17:05:43,855 - INFO - Energy: 47.0, Social: 44.1, Integrity: 25.3
+2025-12-06 17:05:43,855 - WARNING - VIOLATION: Social is below threshold (44.1 < 50.0)
+2025-12-06 17:05:44,862 - INFO - Energy: 46.5, Social: 43.3, Integrity: 25.9
+2025-12-06 17:05:44,862 - WARNING - VIOLATION: Social is below threshold (43.3 < 50.0)
+2025-12-06 17:05:45,865 - INFO - Energy: 46.0, Social: 42.5, Integrity: 26.5
+2025-12-06 17:05:45,866 - WARNING - VIOLATION: Social is below threshold (42.5 < 50.0)
+2025-12-06 17:05:46,871 - INFO - Energy: 45.5, Social: 41.7, Integrity: 27.1
+2025-12-06 17:05:46,871 - WARNING - VIOLATION: Social is below threshold (41.7 < 50.0)
+2025-12-06 17:05:47,876 - INFO - Energy: 45.0, Social: 40.9, Integrity: 27.7
+2025-12-06 17:05:47,876 - WARNING - VIOLATION: Social is below threshold (40.9 < 50.0)
+2025-12-06 17:05:48,880 - INFO - Energy: 44.5, Social: 40.1, Integrity: 28.3
+2025-12-06 17:05:48,880 - WARNING - VIOLATION: Social is below threshold (40.1 < 50.0)
+2025-12-06 17:05:49,884 - INFO - Energy: 44.0, Social: 39.3, Integrity: 28.9
+2025-12-06 17:05:49,884 - WARNING - VIOLATION: Social is below threshold (39.3 < 50.0)
+2025-12-06 17:05:50,890 - INFO - Energy: 43.5, Social: 38.5, Integrity: 29.5
+2025-12-06 17:05:50,890 - WARNING - VIOLATION: Social is below threshold (38.5 < 50.0)
+2025-12-06 17:05:51,892 - INFO - Energy: 43.0, Social: 37.7, Integrity: 30.1
+2025-12-06 17:05:51,892 - WARNING - VIOLATION: Social is below threshold (37.7 < 50.0)
+2025-12-06 17:05:52,894 - INFO - Energy: 42.5, Social: 36.9, Integrity: 30.7
+2025-12-06 17:05:52,894 - WARNING - VIOLATION: Social is below threshold (36.9 < 50.0)
+2025-12-06 17:05:53,911 - INFO - Energy: 42.0, Social: 36.1, Integrity: 31.3
+2025-12-06 17:05:53,912 - WARNING - VIOLATION: Social is below threshold (36.1 < 50.0)
+2025-12-06 17:05:54,916 - INFO - Energy: 41.5, Social: 35.3, Integrity: 31.9
+2025-12-06 17:05:54,916 - WARNING - VIOLATION: Social is below threshold (35.3 < 50.0)
+2025-12-06 17:05:55,919 - INFO - Energy: 41.0, Social: 34.5, Integrity: 32.5
+2025-12-06 17:05:55,919 - WARNING - VIOLATION: Social is below threshold (34.5 < 50.0)
+2025-12-06 17:05:56,924 - INFO - Energy: 40.5, Social: 33.7, Integrity: 33.1
+2025-12-06 17:05:56,924 - WARNING - VIOLATION: Social is below threshold (33.7 < 50.0)
+2025-12-06 17:05:57,927 - INFO - Energy: 40.0, Social: 32.9, Integrity: 33.7
+2025-12-06 17:05:57,927 - WARNING - VIOLATION: Social is below threshold (32.9 < 50.0)
+2025-12-06 17:05:58,932 - INFO - Energy: 39.5, Social: 32.1, Integrity: 34.3
+2025-12-06 17:05:58,932 - WARNING - VIOLATION: Social is below threshold (32.1 < 50.0)
+2025-12-06 17:05:59,937 - INFO - Energy: 39.0, Social: 31.3, Integrity: 34.9
+2025-12-06 17:05:59,937 - WARNING - VIOLATION: Social is below threshold (31.3 < 50.0)
+2025-12-06 17:06:00,939 - INFO - Energy: 38.5, Social: 30.5, Integrity: 35.5
+2025-12-06 17:06:00,939 - WARNING - VIOLATION: Social is below threshold (30.5 < 50.0)
+2025-12-06 17:06:01,955 - INFO - Energy: 38.0, Social: 29.7, Integrity: 36.1
+2025-12-06 17:06:01,955 - WARNING - VIOLATION: Social is below threshold (29.7 < 50.0)
+2025-12-06 17:06:02,961 - INFO - Energy: 37.5, Social: 28.9, Integrity: 36.7
+2025-12-06 17:06:02,961 - WARNING - VIOLATION: Social is below threshold (28.9 < 50.0)
+2025-12-06 17:06:03,963 - INFO - Energy: 37.0, Social: 28.1, Integrity: 37.3
+2025-12-06 17:06:03,963 - WARNING - VIOLATION: Social is below threshold (28.1 < 50.0)
+2025-12-06 17:06:04,967 - INFO - Energy: 36.5, Social: 27.3, Integrity: 37.9
+2025-12-06 17:06:04,967 - WARNING - VIOLATION: Social is below threshold (27.3 < 50.0)
+2025-12-06 17:06:05,969 - INFO - Energy: 36.0, Social: 26.5, Integrity: 38.5
+2025-12-06 17:06:05,970 - WARNING - VIOLATION: Social is below threshold (26.5 < 50.0)
+2025-12-06 17:06:06,973 - INFO - Energy: 35.5, Social: 25.7, Integrity: 39.1
+2025-12-06 17:06:06,973 - WARNING - VIOLATION: Social is below threshold (25.7 < 50.0)
+2025-12-06 17:06:07,976 - INFO - Energy: 35.0, Social: 24.9, Integrity: 39.7
+2025-12-06 17:06:07,976 - WARNING - VIOLATION: Social is below threshold (24.9 < 50.0)
+2025-12-06 17:06:08,980 - INFO - Energy: 24.5, Social: 46.4, Integrity: 39.9
+2025-12-06 17:06:08,980 - WARNING - VIOLATION: Social is below threshold (46.4 < 50.0)
+2025-12-06 17:06:09,987 - INFO - Energy: 19.0, Social: 45.6, Integrity: 39.6
+2025-12-06 17:06:09,987 - WARNING - VIOLATION: Energy is below threshold (19.0 < 20.0)
+2025-12-06 17:06:09,987 - WARNING - VIOLATION: Social is below threshold (45.6 < 50.0)
+2025-12-06 17:06:10,990 - INFO - Energy: 20.0, Social: 44.8, Integrity: 39.3
+2025-12-06 17:06:10,990 - WARNING - VIOLATION: Social is below threshold (44.8 < 50.0)
+2025-12-06 17:06:11,993 - INFO - Energy: 21.0, Social: 44.0, Integrity: 39.0
+2025-12-06 17:06:11,993 - WARNING - VIOLATION: Social is below threshold (44.0 < 50.0)
+2025-12-06 17:06:13,001 - INFO - Energy: 22.0, Social: 43.2, Integrity: 38.7
+2025-12-06 17:06:13,001 - WARNING - VIOLATION: Social is below threshold (43.2 < 50.0)
+2025-12-06 17:06:14,004 - INFO - Energy: 23.0, Social: 42.4, Integrity: 38.4
+2025-12-06 17:06:14,004 - WARNING - VIOLATION: Social is below threshold (42.4 < 50.0)
+2025-12-06 17:06:15,010 - INFO - Energy: 24.0, Social: 41.6, Integrity: 38.1
+2025-12-06 17:06:15,010 - WARNING - VIOLATION: Social is below threshold (41.6 < 50.0)
+2025-12-06 17:06:16,025 - INFO - Energy: 25.0, Social: 40.8, Integrity: 37.8
+2025-12-06 17:06:16,026 - WARNING - VIOLATION: Social is below threshold (40.8 < 50.0)
+2025-12-06 17:06:17,029 - INFO - Energy: 26.0, Social: 40.0, Integrity: 37.5
+2025-12-06 17:06:17,029 - WARNING - VIOLATION: Social is below threshold (40.0 < 50.0)
+2025-12-06 17:06:18,033 - INFO - Energy: 27.0, Social: 39.2, Integrity: 37.2
+2025-12-06 17:06:18,033 - WARNING - VIOLATION: Social is below threshold (39.2 < 50.0)
+2025-12-06 17:06:19,036 - INFO - Energy: 28.0, Social: 38.4, Integrity: 36.9
+2025-12-06 17:06:19,036 - WARNING - VIOLATION: Social is below threshold (38.4 < 50.0)
+2025-12-06 17:06:20,040 - INFO - Energy: 29.0, Social: 37.6, Integrity: 36.6
+2025-12-06 17:06:20,040 - WARNING - VIOLATION: Social is below threshold (37.6 < 50.0)
+2025-12-06 17:06:21,048 - INFO - Energy: 30.0, Social: 36.8, Integrity: 36.3
+2025-12-06 17:06:21,077 - WARNING - VIOLATION: Social is below threshold (36.8 < 50.0)
+2025-12-06 17:06:22,079 - INFO - Energy: 31.0, Social: 36.0, Integrity: 36.0
+2025-12-06 17:06:22,079 - WARNING - VIOLATION: Social is below threshold (36.0 < 50.0)
+2025-12-06 17:06:23,087 - INFO - Energy: 32.0, Social: 35.2, Integrity: 35.7
+2025-12-06 17:06:23,087 - WARNING - VIOLATION: Social is below threshold (35.2 < 50.0)
+2025-12-06 17:06:24,093 - INFO - Energy: 33.0, Social: 34.4, Integrity: 35.4
+2025-12-06 17:06:24,094 - WARNING - VIOLATION: Social is below threshold (34.4 < 50.0)
+2025-12-06 17:06:25,099 - INFO - Energy: 34.0, Social: 33.6, Integrity: 35.1
+2025-12-06 17:06:25,099 - WARNING - VIOLATION: Social is below threshold (33.6 < 50.0)
+2025-12-06 17:06:26,102 - INFO - Energy: 35.0, Social: 32.8, Integrity: 34.8
+2025-12-06 17:06:26,102 - WARNING - VIOLATION: Social is below threshold (32.8 < 50.0)
+2025-12-06 17:06:27,106 - INFO - Energy: 36.0, Social: 32.0, Integrity: 34.5
+2025-12-06 17:06:27,106 - WARNING - VIOLATION: Social is below threshold (32.0 < 50.0)
+2025-12-06 17:06:28,111 - INFO - Energy: 37.0, Social: 31.2, Integrity: 34.2
+2025-12-06 17:06:28,112 - WARNING - VIOLATION: Social is below threshold (31.2 < 50.0)
+2025-12-06 17:06:29,117 - INFO - Energy: 38.0, Social: 30.4, Integrity: 33.9
+2025-12-06 17:06:29,118 - WARNING - VIOLATION: Social is below threshold (30.4 < 50.0)
+2025-12-06 17:06:30,120 - INFO - Energy: 39.0, Social: 29.6, Integrity: 33.6
+2025-12-06 17:06:30,120 - WARNING - VIOLATION: Social is below threshold (29.6 < 50.0)
+2025-12-06 17:06:31,126 - INFO - Energy: 40.0, Social: 28.8, Integrity: 33.3
+2025-12-06 17:06:31,126 - WARNING - VIOLATION: Social is below threshold (28.8 < 50.0)
+2025-12-06 17:06:32,131 - INFO - Energy: 41.0, Social: 28.0, Integrity: 33.0
+2025-12-06 17:06:32,131 - WARNING - VIOLATION: Social is below threshold (28.0 < 50.0)
+2025-12-06 17:06:33,137 - INFO - Energy: 42.0, Social: 27.2, Integrity: 32.7
+2025-12-06 17:06:33,137 - WARNING - VIOLATION: Social is below threshold (27.2 < 50.0)
+2025-12-06 17:06:34,147 - INFO - Energy: 43.0, Social: 26.4, Integrity: 32.4
+2025-12-06 17:06:34,147 - WARNING - VIOLATION: Social is below threshold (26.4 < 50.0)
+2025-12-06 17:06:35,153 - INFO - Energy: 44.0, Social: 25.6, Integrity: 32.1
+2025-12-06 17:06:35,153 - WARNING - VIOLATION: Social is below threshold (25.6 < 50.0)
+2025-12-06 17:06:36,159 - INFO - Energy: 45.0, Social: 24.8, Integrity: 31.8
+2025-12-06 17:06:36,159 - WARNING - VIOLATION: Social is below threshold (24.8 < 50.0)
+2025-12-06 17:06:37,162 - INFO - Energy: 46.0, Social: 24.0, Integrity: 31.5
+2025-12-06 17:06:37,163 - WARNING - VIOLATION: Social is below threshold (24.0 < 50.0)
+2025-12-06 17:06:38,168 - INFO - Energy: 47.0, Social: 23.2, Integrity: 31.2
+2025-12-06 17:06:38,169 - WARNING - VIOLATION: Social is below threshold (23.2 < 50.0)
+2025-12-06 17:06:39,173 - INFO - Energy: 48.0, Social: 22.4, Integrity: 30.9
+2025-12-06 17:06:39,174 - WARNING - VIOLATION: Social is below threshold (22.4 < 50.0)
+2025-12-06 17:06:40,176 - INFO - Energy: 39.0, Social: 48.6, Integrity: 30.6
+2025-12-06 17:06:40,177 - WARNING - VIOLATION: Social is below threshold (48.6 < 50.0)
+2025-12-06 17:06:41,192 - INFO - Energy: 28.5, Social: 64.0, Integrity: 30.3
+2025-12-06 17:06:42,198 - INFO - Energy: 23.0, Social: 63.2, Integrity: 30.0
+2025-12-06 17:06:43,201 - INFO - Energy: 24.0, Social: 62.4, Integrity: 29.7
+2025-12-06 17:06:44,207 - INFO - Energy: 25.0, Social: 61.6, Integrity: 29.4
+2025-12-06 17:06:45,211 - INFO - Energy: 26.0, Social: 60.8, Integrity: 29.1
+2025-12-06 17:06:46,216 - INFO - Energy: 27.0, Social: 60.0, Integrity: 28.8
+2025-12-06 17:06:47,219 - INFO - Energy: 28.0, Social: 59.2, Integrity: 28.5
+2025-12-06 17:06:48,225 - INFO - Energy: 29.0, Social: 58.4, Integrity: 28.2
+2025-12-06 17:06:49,229 - INFO - Energy: 30.0, Social: 57.6, Integrity: 27.9
+2025-12-06 17:06:50,244 - INFO - Energy: 31.0, Social: 56.8, Integrity: 27.6
+2025-12-06 17:06:51,249 - INFO - Energy: 32.0, Social: 56.0, Integrity: 27.3
+2025-12-06 17:06:52,252 - INFO - Energy: 33.0, Social: 55.2, Integrity: 27.0
+2025-12-06 17:06:53,255 - INFO - Energy: 34.0, Social: 54.4, Integrity: 26.7
+2025-12-06 17:06:54,263 - INFO - Energy: 35.0, Social: 53.6, Integrity: 26.4
+2025-12-06 17:06:55,268 - INFO - Energy: 36.0, Social: 52.8, Integrity: 26.1
+2025-12-06 17:06:56,274 - INFO - Energy: 37.0, Social: 52.0, Integrity: 25.8
+2025-12-06 17:06:57,278 - INFO - Energy: 38.0, Social: 51.2, Integrity: 25.5
+2025-12-06 17:06:58,287 - INFO - Energy: 39.0, Social: 50.4, Integrity: 25.2
+2025-12-06 17:06:59,291 - INFO - Energy: 40.0, Social: 49.6, Integrity: 24.9
+2025-12-06 17:06:59,291 - WARNING - VIOLATION: Social is below threshold (49.6 < 50.0)
+2025-12-06 17:07:00,294 - INFO - Energy: 41.0, Social: 48.8, Integrity: 24.6
+2025-12-06 17:07:00,294 - WARNING - VIOLATION: Social is below threshold (48.8 < 50.0)
+2025-12-06 17:07:01,300 - INFO - Energy: 42.0, Social: 48.0, Integrity: 24.3
+2025-12-06 17:07:01,300 - WARNING - VIOLATION: Social is below threshold (48.0 < 50.0)
+2025-12-06 17:07:02,306 - INFO - Energy: 43.0, Social: 47.2, Integrity: 24.0
+2025-12-06 17:07:02,306 - WARNING - VIOLATION: Social is below threshold (47.2 < 50.0)
+2025-12-06 17:07:03,308 - INFO - Energy: 44.0, Social: 46.4, Integrity: 23.7
+2025-12-06 17:07:03,346 - WARNING - VIOLATION: Social is below threshold (46.4 < 50.0)
+2025-12-06 17:07:04,357 - INFO - Energy: 45.0, Social: 45.6, Integrity: 23.4
+2025-12-06 17:07:04,357 - WARNING - VIOLATION: Social is below threshold (45.6 < 50.0)
+2025-12-06 17:07:05,364 - INFO - Energy: 46.0, Social: 44.8, Integrity: 23.1
+2025-12-06 17:07:05,364 - WARNING - VIOLATION: Social is below threshold (44.8 < 50.0)
+2025-12-06 17:07:06,380 - INFO - Energy: 47.0, Social: 44.0, Integrity: 22.8
+2025-12-06 17:07:06,381 - WARNING - VIOLATION: Social is below threshold (44.0 < 50.0)
+2025-12-06 17:07:07,387 - INFO - Energy: 48.0, Social: 43.2, Integrity: 22.5
+2025-12-06 17:07:07,417 - WARNING - VIOLATION: Social is below threshold (43.2 < 50.0)
+2025-12-06 17:07:08,424 - INFO - Energy: 49.0, Social: 42.4, Integrity: 22.2
+2025-12-06 17:07:08,425 - WARNING - VIOLATION: Social is below threshold (42.4 < 50.0)
+2025-12-06 17:07:09,429 - INFO - Energy: 50.0, Social: 41.6, Integrity: 21.9
+2025-12-06 17:07:09,429 - WARNING - VIOLATION: Social is below threshold (41.6 < 50.0)
+2025-12-06 17:07:10,433 - INFO - Energy: 51.0, Social: 40.8, Integrity: 21.6
+2025-12-06 17:07:10,433 - WARNING - VIOLATION: Social is below threshold (40.8 < 50.0)
+2025-12-06 17:07:11,438 - INFO - Energy: 52.0, Social: 40.0, Integrity: 21.3
+2025-12-06 17:07:11,438 - WARNING - VIOLATION: Social is below threshold (40.0 < 50.0)
+2025-12-06 17:07:12,439 - INFO - Energy: 43.0, Social: 63.1, Integrity: 21.0
+2025-12-06 17:07:13,443 - INFO - Energy: 42.5, Social: 62.3, Integrity: 20.7
+2025-12-06 17:07:14,446 - INFO - Energy: 42.0, Social: 61.5, Integrity: 20.4
+2025-12-06 17:07:15,462 - INFO - Energy: 41.5, Social: 60.7, Integrity: 20.1
+2025-12-06 17:07:16,465 - INFO - Energy: 36.0, Social: 59.9, Integrity: 19.8
+2025-12-06 17:07:16,465 - WARNING - VIOLATION: Integrity is below threshold (19.8 < 20.0)
+2025-12-06 17:07:17,468 - INFO - Energy: 35.5, Social: 59.1, Integrity: 20.4
+2025-12-06 17:07:18,475 - INFO - Energy: 35.0, Social: 58.3, Integrity: 21.0
+2025-12-06 17:07:19,481 - INFO - Energy: 34.5, Social: 57.5, Integrity: 21.6
+2025-12-06 17:07:20,485 - INFO - Energy: 34.0, Social: 56.7, Integrity: 22.2
+2025-12-06 17:07:21,489 - INFO - Energy: 33.5, Social: 55.9, Integrity: 22.8
+2025-12-06 17:07:22,492 - INFO - Energy: 33.0, Social: 55.1, Integrity: 23.4
+2025-12-06 17:07:23,500 - INFO - Energy: 32.5, Social: 54.3, Integrity: 24.0
+2025-12-06 17:07:24,505 - INFO - Energy: 32.0, Social: 53.5, Integrity: 24.6
+2025-12-06 17:07:25,508 - INFO - Energy: 31.5, Social: 52.7, Integrity: 25.2
+2025-12-06 17:07:26,524 - INFO - Energy: 31.0, Social: 51.9, Integrity: 25.8
+2025-12-06 17:07:27,530 - INFO - Energy: 30.5, Social: 51.1, Integrity: 26.4
+2025-12-06 17:07:28,534 - INFO - Energy: 30.0, Social: 50.3, Integrity: 27.0
+2025-12-06 17:07:29,538 - INFO - Energy: 29.5, Social: 49.5, Integrity: 27.6
+2025-12-06 17:07:29,538 - WARNING - VIOLATION: Social is below threshold (49.5 < 50.0)
+2025-12-06 17:07:30,542 - INFO - Energy: 29.0, Social: 48.7, Integrity: 28.2
+2025-12-06 17:07:30,543 - WARNING - VIOLATION: Social is below threshold (48.7 < 50.0)
+2025-12-06 17:07:31,545 - INFO - Energy: 28.5, Social: 47.9, Integrity: 28.8
+2025-12-06 17:07:31,545 - WARNING - VIOLATION: Social is below threshold (47.9 < 50.0)
+2025-12-06 17:07:32,548 - INFO - Energy: 28.0, Social: 47.1, Integrity: 29.4
+2025-12-06 17:07:32,548 - WARNING - VIOLATION: Social is below threshold (47.1 < 50.0)
+2025-12-06 17:07:33,550 - INFO - Energy: 27.5, Social: 46.3, Integrity: 30.0
+2025-12-06 17:07:33,550 - WARNING - VIOLATION: Social is below threshold (46.3 < 50.0)
+2025-12-06 17:07:34,553 - INFO - Energy: 27.0, Social: 45.5, Integrity: 30.6
+2025-12-06 17:07:34,553 - WARNING - VIOLATION: Social is below threshold (45.5 < 50.0)
+2025-12-06 17:07:35,555 - INFO - Energy: 26.5, Social: 44.7, Integrity: 31.2
+2025-12-06 17:07:35,556 - WARNING - VIOLATION: Social is below threshold (44.7 < 50.0)
+2025-12-06 17:07:36,559 - INFO - Energy: 26.0, Social: 43.9, Integrity: 31.8
+2025-12-06 17:07:36,560 - WARNING - VIOLATION: Social is below threshold (43.9 < 50.0)
+2025-12-06 17:07:37,561 - INFO - Energy: 25.5, Social: 43.1, Integrity: 32.4
+2025-12-06 17:07:37,561 - WARNING - VIOLATION: Social is below threshold (43.1 < 50.0)
+2025-12-06 17:07:38,563 - INFO - Energy: 25.0, Social: 42.3, Integrity: 33.0
+2025-12-06 17:07:38,563 - WARNING - VIOLATION: Social is below threshold (42.3 < 50.0)
+2025-12-06 17:07:39,568 - INFO - Energy: 24.5, Social: 41.5, Integrity: 33.6
+2025-12-06 17:07:39,568 - WARNING - VIOLATION: Social is below threshold (41.5 < 50.0)
+2025-12-06 17:07:40,570 - INFO - Energy: 24.0, Social: 40.7, Integrity: 34.2
+2025-12-06 17:07:40,570 - WARNING - VIOLATION: Social is below threshold (40.7 < 50.0)
+2025-12-06 17:07:41,571 - INFO - Energy: 23.5, Social: 39.9, Integrity: 34.8
+2025-12-06 17:07:41,571 - WARNING - VIOLATION: Social is below threshold (39.9 < 50.0)
+2025-12-06 17:07:42,578 - INFO - Energy: 23.0, Social: 39.1, Integrity: 35.4
+2025-12-06 17:07:42,579 - WARNING - VIOLATION: Social is below threshold (39.1 < 50.0)
+2025-12-06 17:07:43,587 - INFO - Energy: 22.5, Social: 38.3, Integrity: 36.0
+2025-12-06 17:07:43,587 - WARNING - VIOLATION: Social is below threshold (38.3 < 50.0)
+2025-12-06 17:07:44,601 - INFO - Energy: 22.0, Social: 37.5, Integrity: 36.6
+2025-12-06 17:07:44,602 - WARNING - VIOLATION: Social is below threshold (37.5 < 50.0)
+2025-12-06 17:07:45,604 - INFO - Energy: 21.5, Social: 36.7, Integrity: 37.2
+2025-12-06 17:07:45,604 - WARNING - VIOLATION: Social is below threshold (36.7 < 50.0)
+2025-12-06 17:07:46,611 - INFO - Energy: 21.0, Social: 35.9, Integrity: 37.8
+2025-12-06 17:07:46,611 - WARNING - VIOLATION: Social is below threshold (35.9 < 50.0)
+2025-12-06 17:07:47,618 - INFO - Energy: 20.5, Social: 35.1, Integrity: 38.4
+2025-12-06 17:07:47,618 - WARNING - VIOLATION: Social is below threshold (35.1 < 50.0)
+2025-12-06 17:07:48,620 - INFO - Energy: 20.0, Social: 34.3, Integrity: 39.0
+2025-12-06 17:07:48,621 - WARNING - VIOLATION: Social is below threshold (34.3 < 50.0)
+2025-12-06 17:07:49,636 - INFO - Energy: 19.5, Social: 33.5, Integrity: 39.6
+2025-12-06 17:07:49,636 - WARNING - VIOLATION: Energy is below threshold (19.5 < 20.0)
+2025-12-06 17:07:49,636 - WARNING - VIOLATION: Social is below threshold (33.5 < 50.0)
+2025-12-06 17:07:50,639 - INFO - Energy: 14.0, Social: 32.7, Integrity: 39.8
+2025-12-06 17:07:50,639 - WARNING - VIOLATION: Energy is below threshold (14.0 < 20.0)
+2025-12-06 17:07:50,639 - WARNING - VIOLATION: Social is below threshold (32.7 < 50.0)
+2025-12-06 17:07:51,642 - INFO - Energy: 15.0, Social: 31.9, Integrity: 39.5
+2025-12-06 17:07:51,643 - WARNING - VIOLATION: Energy is below threshold (15.0 < 20.0)
+2025-12-06 17:07:51,643 - WARNING - VIOLATION: Social is below threshold (31.9 < 50.0)
+2025-12-06 17:07:52,648 - INFO - Energy: 16.0, Social: 31.1, Integrity: 39.2
+2025-12-06 17:07:52,649 - WARNING - VIOLATION: Energy is below threshold (16.0 < 20.0)
+2025-12-06 17:07:52,649 - WARNING - VIOLATION: Social is below threshold (31.1 < 50.0)
+2025-12-06 17:07:53,651 - INFO - Energy: 17.0, Social: 30.3, Integrity: 38.9
+2025-12-06 17:07:53,651 - WARNING - VIOLATION: Energy is below threshold (17.0 < 20.0)
+2025-12-06 17:07:53,651 - WARNING - VIOLATION: Social is below threshold (30.3 < 50.0)
+2025-12-06 17:07:54,654 - INFO - Energy: 18.0, Social: 29.5, Integrity: 38.6
+2025-12-06 17:07:54,655 - WARNING - VIOLATION: Energy is below threshold (18.0 < 20.0)
+2025-12-06 17:07:54,655 - WARNING - VIOLATION: Social is below threshold (29.5 < 50.0)
+2025-12-06 17:07:55,671 - INFO - Energy: 19.0, Social: 28.7, Integrity: 38.3
+2025-12-06 17:07:55,671 - WARNING - VIOLATION: Energy is below threshold (19.0 < 20.0)
+2025-12-06 17:07:55,671 - WARNING - VIOLATION: Social is below threshold (28.7 < 50.0)
+2025-12-06 17:07:56,688 - INFO - Energy: 20.0, Social: 27.9, Integrity: 38.0
+2025-12-06 17:07:56,688 - WARNING - VIOLATION: Social is below threshold (27.9 < 50.0)
+2025-12-06 17:07:57,693 - INFO - Energy: 21.0, Social: 27.1, Integrity: 37.7
+2025-12-06 17:07:57,693 - WARNING - VIOLATION: Social is below threshold (27.1 < 50.0)
+2025-12-06 17:07:58,698 - INFO - Energy: 22.0, Social: 26.3, Integrity: 37.4
+2025-12-06 17:07:58,699 - WARNING - VIOLATION: Social is below threshold (26.3 < 50.0)
+2025-12-06 17:07:59,703 - INFO - Energy: 23.0, Social: 25.5, Integrity: 37.1
+2025-12-06 17:07:59,703 - WARNING - VIOLATION: Social is below threshold (25.5 < 50.0)
+2025-12-06 17:08:00,709 - INFO - Energy: 24.0, Social: 24.7, Integrity: 36.8
+2025-12-06 17:08:00,709 - WARNING - VIOLATION: Social is below threshold (24.7 < 50.0)
+2025-12-06 17:08:01,713 - INFO - Energy: 25.0, Social: 23.9, Integrity: 36.5
+2025-12-06 17:08:01,713 - WARNING - VIOLATION: Social is below threshold (23.9 < 50.0)
+2025-12-06 17:08:02,718 - INFO - Energy: 26.0, Social: 23.1, Integrity: 36.2
+2025-12-06 17:08:02,718 - WARNING - VIOLATION: Social is below threshold (23.1 < 50.0)
+2025-12-06 17:08:03,720 - INFO - Energy: 27.0, Social: 22.3, Integrity: 35.9
+2025-12-06 17:08:03,720 - WARNING - VIOLATION: Social is below threshold (22.3 < 50.0)
+2025-12-06 17:08:04,736 - INFO - Energy: 28.0, Social: 21.5, Integrity: 35.6
+2025-12-06 17:08:04,736 - WARNING - VIOLATION: Social is below threshold (21.5 < 50.0)
+2025-12-06 17:08:05,738 - INFO - Energy: 29.0, Social: 20.7, Integrity: 35.3
+2025-12-06 17:08:05,738 - WARNING - VIOLATION: Social is below threshold (20.7 < 50.0)
+2025-12-06 17:08:06,746 - INFO - Energy: 30.0, Social: 19.9, Integrity: 35.0
+2025-12-06 17:08:06,746 - WARNING - VIOLATION: Social is below threshold (19.9 < 50.0)
+2025-12-06 17:08:07,749 - INFO - Energy: 31.0, Social: 19.1, Integrity: 34.7
+2025-12-06 17:08:07,749 - WARNING - VIOLATION: Social is below threshold (19.1 < 50.0)
+2025-12-06 17:08:08,752 - INFO - Energy: 32.0, Social: 18.3, Integrity: 34.4
+2025-12-06 17:08:08,766 - WARNING - VIOLATION: Social is below threshold (18.3 < 50.0)
+2025-12-06 17:08:09,769 - INFO - Energy: 33.0, Social: 17.5, Integrity: 34.1
+2025-12-06 17:08:09,769 - WARNING - VIOLATION: Social is below threshold (17.5 < 50.0)
+2025-12-06 17:08:10,772 - INFO - Energy: 34.0, Social: 16.7, Integrity: 33.8
+2025-12-06 17:08:10,773 - WARNING - VIOLATION: Social is below threshold (16.7 < 50.0)
+2025-12-06 17:08:11,775 - INFO - Energy: 35.0, Social: 15.9, Integrity: 33.5
+2025-12-06 17:08:11,775 - WARNING - VIOLATION: Social is below threshold (15.9 < 50.0)
+2025-12-06 17:08:12,779 - INFO - Energy: 36.0, Social: 15.1, Integrity: 33.2
+2025-12-06 17:08:12,780 - WARNING - VIOLATION: Social is below threshold (15.1 < 50.0)
+2025-12-06 17:08:13,785 - INFO - Energy: 37.0, Social: 14.3, Integrity: 32.9
+2025-12-06 17:08:13,785 - WARNING - VIOLATION: Social is below threshold (14.3 < 50.0)
+2025-12-06 17:08:14,789 - INFO - Energy: 38.0, Social: 13.5, Integrity: 32.6
+2025-12-06 17:08:14,790 - WARNING - VIOLATION: Social is below threshold (13.5 < 50.0)
+2025-12-06 17:08:15,792 - INFO - Energy: 39.0, Social: 12.7, Integrity: 32.3
+2025-12-06 17:08:15,792 - WARNING - VIOLATION: Social is below threshold (12.7 < 50.0)
+2025-12-06 17:08:16,795 - INFO - Energy: 40.0, Social: 11.9, Integrity: 32.0
+2025-12-06 17:08:16,795 - WARNING - VIOLATION: Social is below threshold (11.9 < 50.0)
+2025-12-06 17:08:17,800 - INFO - Energy: 41.0, Social: 11.1, Integrity: 31.7
+2025-12-06 17:08:17,800 - WARNING - VIOLATION: Social is below threshold (11.1 < 50.0)
+2025-12-06 17:08:18,806 - INFO - Energy: 42.0, Social: 10.3, Integrity: 31.4
+2025-12-06 17:08:18,806 - WARNING - VIOLATION: Social is below threshold (10.3 < 50.0)
+2025-12-06 17:08:19,808 - INFO - Energy: 43.0, Social: 9.5, Integrity: 31.1
+2025-12-06 17:08:19,808 - WARNING - VIOLATION: Social is below threshold (9.5 < 50.0)
+2025-12-06 17:08:20,811 - INFO - Energy: 34.0, Social: 28.2, Integrity: 30.8
+2025-12-06 17:08:20,811 - WARNING - VIOLATION: Social is below threshold (28.2 < 50.0)
+2025-12-06 17:08:21,815 - INFO - Energy: 23.5, Social: 57.3, Integrity: 30.5
+2025-12-06 17:08:22,820 - INFO - Energy: 18.0, Social: 56.5, Integrity: 30.2
+2025-12-06 17:08:22,821 - WARNING - VIOLATION: Energy is below threshold (18.0 < 20.0)
+2025-12-06 17:08:23,827 - INFO - Energy: 19.0, Social: 55.7, Integrity: 29.9
+2025-12-06 17:08:23,827 - WARNING - VIOLATION: Energy is below threshold (19.0 < 20.0)
+2025-12-06 17:08:24,830 - INFO - Energy: 20.0, Social: 54.9, Integrity: 29.6
+2025-12-06 17:08:25,837 - INFO - Energy: 21.0, Social: 54.1, Integrity: 29.3
+2025-12-06 17:08:26,841 - INFO - Energy: 22.0, Social: 53.3, Integrity: 29.0
+2025-12-06 17:08:27,846 - INFO - Energy: 23.0, Social: 52.5, Integrity: 28.7
+2025-12-06 17:08:28,853 - INFO - Energy: 24.0, Social: 51.7, Integrity: 28.4
+2025-12-06 17:08:29,856 - INFO - Energy: 25.0, Social: 50.9, Integrity: 28.1
+2025-12-06 17:08:30,861 - INFO - Energy: 26.0, Social: 50.1, Integrity: 27.8
+2025-12-06 17:08:31,863 - INFO - Energy: 27.0, Social: 49.3, Integrity: 27.5
+2025-12-06 17:08:31,864 - WARNING - VIOLATION: Social is below threshold (49.3 < 50.0)
+2025-12-06 17:08:32,868 - INFO - Energy: 28.0, Social: 48.5, Integrity: 27.2
+2025-12-06 17:08:32,868 - WARNING - VIOLATION: Social is below threshold (48.5 < 50.0)
+2025-12-06 17:08:33,872 - INFO - Energy: 29.0, Social: 47.7, Integrity: 26.9
+2025-12-06 17:08:33,872 - WARNING - VIOLATION: Social is below threshold (47.7 < 50.0)
+2025-12-06 17:08:34,877 - INFO - Energy: 30.0, Social: 46.9, Integrity: 26.6
+2025-12-06 17:08:34,877 - WARNING - VIOLATION: Social is below threshold (46.9 < 50.0)
+2025-12-06 17:08:35,879 - INFO - Energy: 31.0, Social: 46.1, Integrity: 26.3
+2025-12-06 17:08:35,879 - WARNING - VIOLATION: Social is below threshold (46.1 < 50.0)
+2025-12-06 17:08:36,894 - INFO - Energy: 32.0, Social: 45.3, Integrity: 26.0
+2025-12-06 17:08:36,894 - WARNING - VIOLATION: Social is below threshold (45.3 < 50.0)
+2025-12-06 17:08:37,900 - INFO - Energy: 33.0, Social: 44.5, Integrity: 25.7
+2025-12-06 17:08:37,900 - WARNING - VIOLATION: Social is below threshold (44.5 < 50.0)
+2025-12-06 17:08:38,903 - INFO - Energy: 34.0, Social: 43.7, Integrity: 25.4
+2025-12-06 17:08:38,903 - WARNING - VIOLATION: Social is below threshold (43.7 < 50.0)
+2025-12-06 17:08:39,907 - INFO - Energy: 35.0, Social: 42.9, Integrity: 25.1
+2025-12-06 17:08:39,907 - WARNING - VIOLATION: Social is below threshold (42.9 < 50.0)
+2025-12-06 17:08:40,910 - INFO - Energy: 36.0, Social: 42.1, Integrity: 24.8
+2025-12-06 17:08:40,910 - WARNING - VIOLATION: Social is below threshold (42.1 < 50.0)
+2025-12-06 17:08:41,914 - INFO - Energy: 37.0, Social: 41.3, Integrity: 24.5
+2025-12-06 17:08:41,914 - WARNING - VIOLATION: Social is below threshold (41.3 < 50.0)
+2025-12-06 17:08:42,918 - INFO - Energy: 38.0, Social: 40.5, Integrity: 24.2
+2025-12-06 17:08:42,918 - WARNING - VIOLATION: Social is below threshold (40.5 < 50.0)
+2025-12-06 17:08:43,920 - INFO - Energy: 39.0, Social: 39.7, Integrity: 23.9
+2025-12-06 17:08:43,921 - WARNING - VIOLATION: Social is below threshold (39.7 < 50.0)
+2025-12-06 17:08:44,927 - INFO - Energy: 40.0, Social: 38.9, Integrity: 23.6
+2025-12-06 17:08:44,927 - WARNING - VIOLATION: Social is below threshold (38.9 < 50.0)
+2025-12-06 17:08:45,930 - INFO - Energy: 41.0, Social: 38.1, Integrity: 23.3
+2025-12-06 17:08:45,930 - WARNING - VIOLATION: Social is below threshold (38.1 < 50.0)
+2025-12-06 17:08:46,934 - INFO - Energy: 42.0, Social: 37.3, Integrity: 23.0
+2025-12-06 17:08:46,935 - WARNING - VIOLATION: Social is below threshold (37.3 < 50.0)
+2025-12-06 17:08:47,937 - INFO - Energy: 43.0, Social: 36.5, Integrity: 22.7
+2025-12-06 17:08:47,937 - WARNING - VIOLATION: Social is below threshold (36.5 < 50.0)
+2025-12-06 17:08:48,943 - INFO - Energy: 44.0, Social: 35.7, Integrity: 22.4
+2025-12-06 17:08:48,943 - WARNING - VIOLATION: Social is below threshold (35.7 < 50.0)
+2025-12-06 17:08:49,947 - INFO - Energy: 45.0, Social: 34.9, Integrity: 22.1
+2025-12-06 17:08:49,948 - WARNING - VIOLATION: Social is below threshold (34.9 < 50.0)

@@ -1,18 +1,96 @@
+/* Main container wrapper */
 .character-container {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     height: 100%;
-    min-height: 200px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 10px;
     padding: 20px;
 }
 
-.character-img {
+/* The Red Device Shell */
+.retro-device {
+    background-color: #a03c3c;
+    /* Base Brick Red */
+    border-radius: 30px;
+    padding: 35px;
+    box-shadow:
+        inset 0 2px 5px rgba(255, 255, 255, 0.2),
+        inset 0 -2px 5px rgba(0, 0, 0, 0.3),
+        8px 8px 20px rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    border: 3px solid #7c2d2d;
     max-width: 100%;
-    max-height: 300px;
+
+    /* Cracked Tile/Stone Texture Simulation */
+    background-image:
+        radial-gradient(circle at 100% 150%, #a03c3c 24%, rgba(0, 0, 0, 0.2) 25%, #a03c3c 28%, #a03c3c 29%, transparent 29%, transparent 100%),
+        radial-gradient(circle at 0% 150%, #a03c3c 24%, rgba(0, 0, 0, 0.2) 25%, #a03c3c 28%, #a03c3c 29%, transparent 29%, transparent 100%),
+        radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 0.1) 10%, transparent 40%),
+        linear-gradient(45deg, rgba(0, 0, 0, 0.1) 25%, transparent 25%, transparent 75%, rgba(0, 0, 0, 0.1) 75%, rgba(0, 0, 0, 0.1)),
+        linear-gradient(-45deg, rgba(0, 0, 0, 0.1) 25%, transparent 25%, transparent 75%, rgba(0, 0, 0, 0.1) 75%, rgba(0, 0, 0, 0.1));
+    background-size: 50px 50px, 50px 50px, 100px 100px, 40px 40px, 40px 40px;
+}
+
+/* The Dark Grey Screen Bezel */
+.device-screen-border {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 15px;
+    border: 4px solid #222;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* The actual screen area */
+.device-screen {
+    background-color: #9cbda7;
+    /* LCD Greenish */
+    /* Much larger size */
+    width: 400px;
+    height: 400px;
+    /* Responsive sizing */
+    max-width: 60vw;
+    max-height: 60vw;
+
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: inset 0 0 15px rgba(0, 0, 0, 0.2);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* The Character Image */
+.character-img {
+    width: 90%;
+    height: 90%;
     object-fit: contain;
-    transition: transform 0.2s ease;
+    image-rendering: pixelated;
+    /* Crucial for pixel art */
+}
+
+/* Controls Area */
+.device-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+}
+
+/* Buttons */
+.device-btn {
+    width: 45px;
+    height: 45px;
+    background-color: #2d2d2d;
+    border-radius: 50%;
+    box-shadow:
+        1px 1px 2px black,
+        inset 1px 1px 2px rgba(255, 255, 255, 0.1);
+    cursor: default;
+    /* Non-interactive for now */
 }

@@ -13,13 +13,13 @@
   border-radius: 1.5rem;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
   width: 95%;
-  max-width: 900px;
+  max-width: 95vw;
 }
 
 .dashboard-content {
   display: flex;
   gap: 2rem;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .left-panel {
