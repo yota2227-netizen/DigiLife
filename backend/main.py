@@ -43,11 +43,11 @@ async def websocket_endpoint(websocket: WebSocket):
 @app.post("/action/{action_type}")
 async def perform_action(action_type: str):
     if action_type == "eat":
-        life_form.eat()
+        await life_form.eat()
     elif action_type == "talk":
-        life_form.talk()
+        await life_form.talk()
     elif action_type == "sleep":
-        life_form.sleep()
+        await life_form.sleep()
     else:
         return {"error": "Invalid action"}
     

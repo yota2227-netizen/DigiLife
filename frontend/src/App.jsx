@@ -65,12 +65,39 @@ function App() {
         <div className="dashboard-content">
           <div className="left-panel">
             <div className="indicators-section">
-              <StatusIndicator label="エネルギー (Energy)" value={lifeForm.energy} threshold={20} />
+              <StatusIndicator
+                label="エネルギー (Energy)"
+                value={lifeForm.energy}
+                threshold={20}
+                customDisplay={`${Math.round(lifeForm.energy)}% (${lifeForm.token_balance} / 5000 Token)`}
+              />
               <StatusIndicator label="社交性 (Social)" value={lifeForm.social} threshold={50} />
               <StatusIndicator label="整合性 (Integrity)" value={lifeForm.integrity} threshold={20} />
             </div>
 
-            <ActionPanel onAction={handleAction} state={lifeForm} thresholds={{ energy: 20, social: 50, integrity: 20 }} />
+            <ActionPanel
+              onAction={handleAction}
+              state={lifeForm}
+              thresholds={{
+                energy: lifeForm.energy < 20,
+                social: lifeForm.social < 50,
+                integrity: lifeForm.integrity < 20
+              }}
+            />
+
+            <div className="search-stats" style={{ marginTop: '20px', padding: '15px', background: 'rgba(255,255,255,0.8)', borderRadius: '10px', color: '#1f2937' }}>
+              <h3 style={{ fontSize: '1rem', marginBottom: '10px', color: '#111827', fontWeight: 'bold' }}>Web Search Stats</h3>
+              <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '8px 15px', fontSize: '0.9rem', alignItems: 'center' }}>
+                <div style={{ color: '#4b5563' }}>Last Keyword:</div>
+                <div style={{ fontWeight: 'bold', color: '#111827' }}>{lifeForm.last_search_keyword || '-'}</div>
+
+                <div style={{ color: '#4b5563' }}>Last Tokens:</div>
+                <div style={{ fontWeight: 'bold', color: '#111827' }}>{lifeForm.last_search_tokens || 0}</div>
+
+                <div style={{ color: '#4b5563' }}>Total Tokens:</div>
+                <div style={{ fontWeight: 'bold', color: '#10b981' }}>{lifeForm.total_search_tokens || 0}</div>
+              </div>
+            </div>
           </div>
 
           <div className="right-panel">

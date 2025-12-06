@@ -8,7 +8,7 @@ const ActionPanel = ({ onAction, state, thresholds }) => {
                 className={`action-btn ${state.energy < thresholds.energy ? 'active request-eat' : ''}`}
                 onClick={() => onAction('eat')}
             >
-                食事 (Eat)
+                食事(Web検索)
                 {state.energy < thresholds.energy && <span className="alert-badge">!</span>}
             </button>
             <button

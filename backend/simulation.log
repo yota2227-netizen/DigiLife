@@ -1811,3 +1811,2068 @@
 2025-12-06 17:08:48,943 - WARNING - VIOLATION: Social is below threshold (35.7 < 50.0)
 2025-12-06 17:08:49,947 - INFO - Energy: 45.0, Social: 34.9, Integrity: 22.1
 2025-12-06 17:08:49,948 - WARNING - VIOLATION: Social is below threshold (34.9 < 50.0)
+2025-12-06 17:44:29,398 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 17:44:30,409 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 17:44:31,410 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 17:44:32,413 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 17:44:33,435 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 17:44:34,441 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 17:44:35,446 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 17:44:36,450 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 17:44:37,455 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 17:44:38,460 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 17:44:39,465 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 17:44:40,470 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 17:44:41,486 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 17:44:42,489 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 17:44:43,497 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 17:44:44,512 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 17:44:45,518 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 17:44:46,535 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 17:44:47,541 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 17:44:48,637 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 17:44:49,642 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 17:44:50,645 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 17:44:51,648 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 17:44:52,653 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 17:44:53,658 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 17:44:54,661 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 17:44:55,664 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 17:44:56,670 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 17:44:57,674 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 17:44:58,680 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 17:44:59,683 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 17:45:00,689 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 17:45:01,699 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 17:45:02,703 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 17:46:52,274 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 17:46:53,282 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 17:46:54,287 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 17:46:55,295 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 17:46:56,299 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 17:46:57,305 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 17:46:58,307 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 17:46:59,312 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 17:47:00,329 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 17:47:01,332 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 17:47:02,336 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 17:47:03,339 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 17:47:04,344 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 17:47:05,360 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 17:47:06,364 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 17:47:07,383 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 17:47:08,385 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 17:47:09,389 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 17:47:10,391 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 17:47:11,393 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 17:47:12,397 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 17:47:13,404 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 17:47:14,411 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 17:47:15,415 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 17:47:16,417 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 17:47:17,423 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 17:47:18,427 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 17:47:19,431 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 17:47:20,434 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 17:47:21,436 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 17:47:22,440 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 17:47:23,443 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 17:47:24,459 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 17:47:25,475 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 17:47:26,481 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 17:47:27,485 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 17:47:28,501 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 17:47:29,503 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 17:47:30,511 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 17:47:31,527 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 17:47:32,534 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 17:47:33,535 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 17:47:34,539 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 17:47:35,542 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 17:47:36,546 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 17:47:37,550 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 17:47:38,554 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 17:47:39,569 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 17:47:40,576 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 17:47:41,578 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 17:47:42,582 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 17:47:43,586 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 17:47:44,589 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 17:47:45,593 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 17:47:46,599 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 17:47:47,602 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 17:47:48,604 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 17:47:49,639 - INFO - Energy: 71.0, Social: 53.6, Integrity: 82.6
+2025-12-06 17:47:50,642 - INFO - Energy: 70.5, Social: 52.8, Integrity: 82.3
+2025-12-06 17:47:51,643 - INFO - Energy: 70.0, Social: 52.0, Integrity: 82.0
+2025-12-06 17:47:52,645 - INFO - Energy: 69.5, Social: 51.2, Integrity: 81.7
+2025-12-06 17:47:53,650 - INFO - Energy: 69.0, Social: 50.4, Integrity: 81.4
+2025-12-06 17:47:54,652 - INFO - Energy: 58.5, Social: 75.8, Integrity: 81.1
+2025-12-06 17:47:55,660 - INFO - Energy: 58.0, Social: 75.0, Integrity: 80.8
+2025-12-06 17:47:56,664 - INFO - Energy: 57.5, Social: 74.2, Integrity: 80.5
+2025-12-06 17:47:57,668 - INFO - Energy: 57.0, Social: 73.4, Integrity: 80.2
+2025-12-06 17:47:58,675 - INFO - Energy: 56.5, Social: 72.6, Integrity: 79.9
+2025-12-06 17:47:59,677 - INFO - Energy: 56.0, Social: 71.8, Integrity: 79.6
+2025-12-06 17:48:00,681 - INFO - Energy: 55.5, Social: 71.0, Integrity: 79.3
+2025-12-06 17:48:01,683 - INFO - Energy: 55.0, Social: 70.2, Integrity: 79.0
+2025-12-06 17:48:02,688 - INFO - Energy: 54.5, Social: 69.4, Integrity: 78.7
+2025-12-06 17:48:03,704 - INFO - Energy: 54.0, Social: 68.6, Integrity: 78.4
+2025-12-06 17:48:04,711 - INFO - Energy: 53.5, Social: 67.8, Integrity: 78.1
+2025-12-06 17:48:05,715 - INFO - Energy: 53.0, Social: 67.0, Integrity: 77.8
+2025-12-06 17:48:06,719 - INFO - Energy: 52.5, Social: 66.2, Integrity: 77.5
+2025-12-06 17:48:07,727 - INFO - Energy: 52.0, Social: 65.4, Integrity: 77.2
+2025-12-06 17:48:08,732 - INFO - Energy: 51.5, Social: 64.6, Integrity: 76.9
+2025-12-06 17:48:09,734 - INFO - Energy: 51.0, Social: 63.8, Integrity: 76.6
+2025-12-06 17:48:10,740 - INFO - Energy: 50.5, Social: 63.0, Integrity: 76.3
+2025-12-06 17:48:11,746 - INFO - Energy: 50.0, Social: 62.2, Integrity: 76.0
+2025-12-06 17:48:12,753 - INFO - Energy: 49.5, Social: 61.4, Integrity: 75.7
+2025-12-06 17:48:13,756 - INFO - Energy: 49.0, Social: 60.6, Integrity: 75.4
+2025-12-06 17:48:14,759 - INFO - Energy: 48.5, Social: 59.8, Integrity: 75.1
+2025-12-06 17:48:15,775 - INFO - Energy: 48.0, Social: 59.0, Integrity: 74.8
+2025-12-06 17:48:16,777 - INFO - Energy: 47.5, Social: 58.2, Integrity: 74.5
+2025-12-06 17:48:17,780 - INFO - Energy: 47.0, Social: 57.4, Integrity: 74.2
+2025-12-06 17:48:18,786 - INFO - Energy: 46.5, Social: 56.6, Integrity: 73.9
+2025-12-06 17:48:19,790 - INFO - Energy: 46.0, Social: 55.8, Integrity: 73.6
+2025-12-06 17:48:20,793 - INFO - Energy: 45.5, Social: 55.0, Integrity: 73.3
+2025-12-06 17:48:21,798 - INFO - Energy: 45.0, Social: 54.2, Integrity: 73.0
+2025-12-06 17:48:22,800 - INFO - Energy: 44.5, Social: 53.4, Integrity: 72.7
+2025-12-06 17:48:23,806 - INFO - Energy: 44.0, Social: 52.6, Integrity: 72.4
+2025-12-06 17:48:24,810 - INFO - Energy: 43.5, Social: 51.8, Integrity: 72.1
+2025-12-06 17:48:25,815 - INFO - Energy: 43.0, Social: 51.0, Integrity: 71.8
+2025-12-06 17:48:26,819 - INFO - Energy: 42.5, Social: 50.2, Integrity: 71.5
+2025-12-06 17:48:27,823 - INFO - Energy: 32.0, Social: 70.4, Integrity: 71.2
+2025-12-06 17:48:29,138 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:48:29,189 - INFO - Energy: 29.5, Social: 69.6, Integrity: 70.9
+2025-12-06 17:48:30,449 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:48:33,553 - INFO - Energy: 29.6, Social: 68.8, Integrity: 70.6
+2025-12-06 17:48:34,853 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Python 200
+2025-12-06 17:48:35,001 - INFO - Energy: 29.8, Social: 68.0, Integrity: 70.3
+2025-12-06 17:48:36,284 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:48:36,381 - INFO - Energy: 29.9, Social: 67.2, Integrity: 70.0
+2025-12-06 17:48:37,647 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:48:37,687 - INFO - Energy: 27.4, Social: 66.4, Integrity: 69.7
+2025-12-06 17:48:38,952 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:48:39,049 - INFO - Energy: 27.3, Social: 65.6, Integrity: 69.4
+2025-12-06 17:48:40,311 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:48:40,339 - INFO - Energy: 27.4, Social: 64.8, Integrity: 69.1
+2025-12-06 17:48:41,611 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:48:41,683 - INFO - Energy: 27.5, Social: 64.0, Integrity: 68.8
+2025-12-06 17:48:42,992 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:48:43,021 - INFO - Energy: 27.2, Social: 63.2, Integrity: 68.5
+2025-12-06 17:48:44,380 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:48:44,432 - INFO - Energy: 27.1, Social: 62.4, Integrity: 68.2
+2025-12-06 17:48:45,686 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:48:45,741 - INFO - Energy: 24.6, Social: 61.6, Integrity: 67.9
+2025-12-06 17:48:47,039 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+React 200
+2025-12-06 17:48:47,088 - INFO - Energy: 22.1, Social: 60.8, Integrity: 67.6
+2025-12-06 17:48:48,385 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:48:48,404 - INFO - Energy: 19.6, Social: 60.0, Integrity: 67.3
+2025-12-06 17:48:48,405 - WARNING - VIOLATION: Energy is below threshold (19.6 < 20.0)
+2025-12-06 17:48:49,978 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:48:50,052 - INFO - Energy: 17.1, Social: 59.2, Integrity: 67.0
+2025-12-06 17:48:50,052 - WARNING - VIOLATION: Energy is below threshold (17.1 < 20.0)
+2025-12-06 17:48:51,310 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:48:51,406 - INFO - Energy: 14.6, Social: 58.4, Integrity: 66.7
+2025-12-06 17:48:51,406 - WARNING - VIOLATION: Energy is below threshold (14.6 < 20.0)
+2025-12-06 17:48:52,679 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:48:52,765 - INFO - Energy: 14.5, Social: 57.6, Integrity: 66.4
+2025-12-06 17:48:52,766 - WARNING - VIOLATION: Energy is below threshold (14.5 < 20.0)
+2025-12-06 17:48:54,042 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+React 200
+2025-12-06 17:48:54,129 - INFO - Energy: 14.2, Social: 56.8, Integrity: 66.1
+2025-12-06 17:48:54,129 - WARNING - VIOLATION: Energy is below threshold (14.2 < 20.0)
+2025-12-06 17:48:55,413 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Life 200
+2025-12-06 17:48:55,479 - INFO - Energy: 14.2, Social: 56.0, Integrity: 65.8
+2025-12-06 17:48:55,479 - WARNING - VIOLATION: Energy is below threshold (14.2 < 20.0)
+2025-12-06 17:48:56,766 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+React 200
+2025-12-06 17:48:56,785 - INFO - Energy: 13.9, Social: 55.2, Integrity: 65.5
+2025-12-06 17:48:56,785 - WARNING - VIOLATION: Energy is below threshold (13.9 < 20.0)
+2025-12-06 17:48:58,039 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+React 200
+2025-12-06 17:48:58,140 - INFO - Energy: 13.9, Social: 54.4, Integrity: 65.2
+2025-12-06 17:48:58,141 - WARNING - VIOLATION: Energy is below threshold (13.9 < 20.0)
+2025-12-06 17:48:59,388 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:48:59,464 - INFO - Energy: 14.0, Social: 53.6, Integrity: 64.9
+2025-12-06 17:48:59,464 - WARNING - VIOLATION: Energy is below threshold (14.0 < 20.0)
+2025-12-06 17:49:00,765 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:49:00,840 - INFO - Energy: 14.1, Social: 52.8, Integrity: 64.6
+2025-12-06 17:49:00,841 - WARNING - VIOLATION: Energy is below threshold (14.1 < 20.0)
+2025-12-06 17:49:02,152 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Space 200
+2025-12-06 17:49:02,186 - INFO - Energy: 11.6, Social: 52.0, Integrity: 64.3
+2025-12-06 17:49:02,186 - WARNING - VIOLATION: Energy is below threshold (11.6 < 20.0)
+2025-12-06 17:49:03,500 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:49:03,597 - INFO - Energy: 11.6, Social: 51.2, Integrity: 64.0
+2025-12-06 17:49:03,597 - WARNING - VIOLATION: Energy is below threshold (11.6 < 20.0)
+2025-12-06 17:49:04,893 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Life 200
+2025-12-06 17:49:04,922 - INFO - Energy: 11.7, Social: 50.4, Integrity: 63.7
+2025-12-06 17:49:04,922 - WARNING - VIOLATION: Energy is below threshold (11.7 < 20.0)
+2025-12-06 17:49:06,208 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Space 200
+2025-12-06 17:49:06,276 - INFO - Energy: 11.8, Social: 49.6, Integrity: 63.4
+2025-12-06 17:49:06,276 - WARNING - VIOLATION: Energy is below threshold (11.8 < 20.0)
+2025-12-06 17:49:06,276 - WARNING - VIOLATION: Social is below threshold (49.6 < 50.0)
+2025-12-06 17:49:07,597 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Life 200
+2025-12-06 17:49:07,716 - INFO - Energy: 12.0, Social: 48.8, Integrity: 63.1
+2025-12-06 17:49:07,717 - WARNING - VIOLATION: Energy is below threshold (12.0 < 20.0)
+2025-12-06 17:49:07,717 - WARNING - VIOLATION: Social is below threshold (48.8 < 50.0)
+2025-12-06 17:49:08,973 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:49:09,015 - INFO - Energy: 9.5, Social: 48.0, Integrity: 62.8
+2025-12-06 17:49:09,015 - WARNING - VIOLATION: Energy is below threshold (9.5 < 20.0)
+2025-12-06 17:49:09,016 - WARNING - VIOLATION: Social is below threshold (48.0 < 50.0)
+2025-12-06 17:49:10,587 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Space 200
+2025-12-06 17:49:10,593 - INFO - Energy: 7.0, Social: 47.2, Integrity: 62.5
+2025-12-06 17:49:10,593 - WARNING - VIOLATION: Energy is below threshold (7.0 < 20.0)
+2025-12-06 17:49:10,594 - WARNING - VIOLATION: Social is below threshold (47.2 < 50.0)
+2025-12-06 17:49:11,858 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Life 200
+2025-12-06 17:49:11,904 - INFO - Energy: 6.6, Social: 46.4, Integrity: 62.2
+2025-12-06 17:49:11,904 - WARNING - VIOLATION: Energy is below threshold (6.6 < 20.0)
+2025-12-06 17:49:11,904 - WARNING - VIOLATION: Social is below threshold (46.4 < 50.0)
+2025-12-06 17:49:13,179 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+History 200
+2025-12-06 17:49:13,225 - INFO - Energy: 6.6, Social: 45.6, Integrity: 61.9
+2025-12-06 17:49:13,225 - WARNING - VIOLATION: Energy is below threshold (6.6 < 20.0)
+2025-12-06 17:49:13,225 - WARNING - VIOLATION: Social is below threshold (45.6 < 50.0)
+2025-12-06 17:49:14,473 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:49:14,615 - INFO - Energy: 4.1, Social: 44.8, Integrity: 61.6
+2025-12-06 17:49:14,615 - WARNING - VIOLATION: Energy is below threshold (4.1 < 20.0)
+2025-12-06 17:49:14,616 - WARNING - VIOLATION: Social is below threshold (44.8 < 50.0)
+2025-12-06 17:49:15,897 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:49:15,957 - INFO - Energy: 4.2, Social: 44.0, Integrity: 61.3
+2025-12-06 17:49:15,957 - WARNING - VIOLATION: Energy is below threshold (4.2 < 20.0)
+2025-12-06 17:49:15,957 - WARNING - VIOLATION: Social is below threshold (44.0 < 50.0)
+2025-12-06 17:49:17,246 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:49:17,285 - INFO - Energy: 1.7, Social: 43.2, Integrity: 61.0
+2025-12-06 17:49:17,286 - WARNING - VIOLATION: Energy is below threshold (1.7 < 20.0)
+2025-12-06 17:49:17,286 - WARNING - VIOLATION: Social is below threshold (43.2 < 50.0)
+2025-12-06 17:49:18,295 - INFO - Energy: 1.2, Social: 42.4, Integrity: 60.7
+2025-12-06 17:49:18,295 - WARNING - VIOLATION: Energy is below threshold (1.2 < 20.0)
+2025-12-06 17:49:18,296 - WARNING - VIOLATION: Social is below threshold (42.4 < 50.0)
+2025-12-06 17:49:19,299 - INFO - Energy: 0.7, Social: 41.6, Integrity: 60.4
+2025-12-06 17:49:19,299 - WARNING - VIOLATION: Energy is below threshold (0.7 < 20.0)
+2025-12-06 17:49:19,299 - WARNING - VIOLATION: Social is below threshold (41.6 < 50.0)
+2025-12-06 17:49:20,301 - INFO - Energy: 0.2, Social: 40.8, Integrity: 60.1
+2025-12-06 17:49:20,301 - WARNING - VIOLATION: Energy is below threshold (0.2 < 20.0)
+2025-12-06 17:49:20,301 - WARNING - VIOLATION: Social is below threshold (40.8 < 50.0)
+2025-12-06 17:49:21,306 - INFO - Energy: 0.0, Social: 40.0, Integrity: 59.8
+2025-12-06 17:49:21,306 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:21,306 - WARNING - VIOLATION: Social is below threshold (40.0 < 50.0)
+2025-12-06 17:49:22,309 - INFO - Energy: 0.0, Social: 39.2, Integrity: 59.5
+2025-12-06 17:49:22,309 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:22,309 - WARNING - VIOLATION: Social is below threshold (39.2 < 50.0)
+2025-12-06 17:49:23,311 - INFO - Energy: 0.0, Social: 38.4, Integrity: 59.2
+2025-12-06 17:49:23,311 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:23,311 - WARNING - VIOLATION: Social is below threshold (38.4 < 50.0)
+2025-12-06 17:49:24,316 - INFO - Energy: 0.0, Social: 37.6, Integrity: 58.9
+2025-12-06 17:49:24,317 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:24,317 - WARNING - VIOLATION: Social is below threshold (37.6 < 50.0)
+2025-12-06 17:49:25,333 - INFO - Energy: 0.0, Social: 36.8, Integrity: 58.6
+2025-12-06 17:49:25,334 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:25,334 - WARNING - VIOLATION: Social is below threshold (36.8 < 50.0)
+2025-12-06 17:49:26,337 - INFO - Energy: 0.0, Social: 36.0, Integrity: 58.3
+2025-12-06 17:49:26,338 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:26,338 - WARNING - VIOLATION: Social is below threshold (36.0 < 50.0)
+2025-12-06 17:49:27,344 - INFO - Energy: 0.0, Social: 35.2, Integrity: 58.0
+2025-12-06 17:49:27,344 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:27,344 - WARNING - VIOLATION: Social is below threshold (35.2 < 50.0)
+2025-12-06 17:49:28,348 - INFO - Energy: 0.0, Social: 34.4, Integrity: 57.7
+2025-12-06 17:49:28,376 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:28,377 - WARNING - VIOLATION: Social is below threshold (34.4 < 50.0)
+2025-12-06 17:49:29,382 - INFO - Energy: 0.0, Social: 33.6, Integrity: 57.4
+2025-12-06 17:49:29,382 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:29,382 - WARNING - VIOLATION: Social is below threshold (33.6 < 50.0)
+2025-12-06 17:49:30,383 - INFO - Energy: 0.0, Social: 32.8, Integrity: 57.1
+2025-12-06 17:49:30,383 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:30,383 - WARNING - VIOLATION: Social is below threshold (32.8 < 50.0)
+2025-12-06 17:49:31,390 - INFO - Energy: 0.0, Social: 32.0, Integrity: 56.8
+2025-12-06 17:49:31,391 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:31,391 - WARNING - VIOLATION: Social is below threshold (32.0 < 50.0)
+2025-12-06 17:49:32,396 - INFO - Energy: 0.0, Social: 31.2, Integrity: 56.5
+2025-12-06 17:49:32,397 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:32,397 - WARNING - VIOLATION: Social is below threshold (31.2 < 50.0)
+2025-12-06 17:49:33,400 - INFO - Energy: 0.0, Social: 30.4, Integrity: 56.2
+2025-12-06 17:49:33,401 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:33,401 - WARNING - VIOLATION: Social is below threshold (30.4 < 50.0)
+2025-12-06 17:49:34,403 - INFO - Energy: 0.0, Social: 29.6, Integrity: 55.9
+2025-12-06 17:49:34,403 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:34,403 - WARNING - VIOLATION: Social is below threshold (29.6 < 50.0)
+2025-12-06 17:49:35,405 - INFO - Energy: 0.0, Social: 28.8, Integrity: 55.6
+2025-12-06 17:49:35,406 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:35,406 - WARNING - VIOLATION: Social is below threshold (28.8 < 50.0)
+2025-12-06 17:49:36,408 - INFO - Energy: 0.0, Social: 28.0, Integrity: 55.3
+2025-12-06 17:49:36,408 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:36,408 - WARNING - VIOLATION: Social is below threshold (28.0 < 50.0)
+2025-12-06 17:49:37,414 - INFO - Energy: 0.0, Social: 27.2, Integrity: 55.0
+2025-12-06 17:49:37,414 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:37,415 - WARNING - VIOLATION: Social is below threshold (27.2 < 50.0)
+2025-12-06 17:49:38,419 - INFO - Energy: 0.0, Social: 26.4, Integrity: 54.7
+2025-12-06 17:49:38,419 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:38,419 - WARNING - VIOLATION: Social is below threshold (26.4 < 50.0)
+2025-12-06 17:49:39,421 - INFO - Energy: 0.0, Social: 25.6, Integrity: 54.4
+2025-12-06 17:49:39,422 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:39,422 - WARNING - VIOLATION: Social is below threshold (25.6 < 50.0)
+2025-12-06 17:49:40,424 - INFO - Energy: 0.0, Social: 24.8, Integrity: 54.1
+2025-12-06 17:49:40,424 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:40,424 - WARNING - VIOLATION: Social is below threshold (24.8 < 50.0)
+2025-12-06 17:49:41,427 - INFO - Energy: 0.0, Social: 24.0, Integrity: 53.8
+2025-12-06 17:49:41,427 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:41,427 - WARNING - VIOLATION: Social is below threshold (24.0 < 50.0)
+2025-12-06 17:49:42,442 - INFO - Energy: 0.0, Social: 23.2, Integrity: 53.5
+2025-12-06 17:49:42,443 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:42,443 - WARNING - VIOLATION: Social is below threshold (23.2 < 50.0)
+2025-12-06 17:49:43,447 - INFO - Energy: 0.0, Social: 22.4, Integrity: 53.2
+2025-12-06 17:49:43,447 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:43,447 - WARNING - VIOLATION: Social is below threshold (22.4 < 50.0)
+2025-12-06 17:49:44,451 - INFO - Energy: 0.0, Social: 21.6, Integrity: 52.9
+2025-12-06 17:49:44,451 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:44,451 - WARNING - VIOLATION: Social is below threshold (21.6 < 50.0)
+2025-12-06 17:49:45,457 - INFO - Energy: 0.0, Social: 20.8, Integrity: 52.6
+2025-12-06 17:49:45,457 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:45,458 - WARNING - VIOLATION: Social is below threshold (20.8 < 50.0)
+2025-12-06 17:49:46,474 - INFO - Energy: 0.0, Social: 20.0, Integrity: 52.3
+2025-12-06 17:49:46,474 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:46,474 - WARNING - VIOLATION: Social is below threshold (20.0 < 50.0)
+2025-12-06 17:49:47,481 - INFO - Energy: 0.0, Social: 19.2, Integrity: 52.0
+2025-12-06 17:49:47,482 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:47,482 - WARNING - VIOLATION: Social is below threshold (19.2 < 50.0)
+2025-12-06 17:49:48,485 - INFO - Energy: 0.0, Social: 18.4, Integrity: 51.7
+2025-12-06 17:49:48,485 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:48,485 - WARNING - VIOLATION: Social is below threshold (18.4 < 50.0)
+2025-12-06 17:49:49,489 - INFO - Energy: 0.0, Social: 17.6, Integrity: 51.4
+2025-12-06 17:49:49,489 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:49,489 - WARNING - VIOLATION: Social is below threshold (17.6 < 50.0)
+2025-12-06 17:49:50,492 - INFO - Energy: 0.0, Social: 16.8, Integrity: 51.1
+2025-12-06 17:49:50,493 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:50,493 - WARNING - VIOLATION: Social is below threshold (16.8 < 50.0)
+2025-12-06 17:49:51,499 - INFO - Energy: 0.0, Social: 16.0, Integrity: 50.8
+2025-12-06 17:49:51,499 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:51,499 - WARNING - VIOLATION: Social is below threshold (16.0 < 50.0)
+2025-12-06 17:49:52,503 - INFO - Energy: 0.0, Social: 15.2, Integrity: 50.5
+2025-12-06 17:49:52,503 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:52,503 - WARNING - VIOLATION: Social is below threshold (15.2 < 50.0)
+2025-12-06 17:49:53,509 - INFO - Energy: 0.0, Social: 14.4, Integrity: 50.2
+2025-12-06 17:49:53,510 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:53,510 - WARNING - VIOLATION: Social is below threshold (14.4 < 50.0)
+2025-12-06 17:49:54,514 - INFO - Energy: 0.0, Social: 13.6, Integrity: 49.9
+2025-12-06 17:49:54,515 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:54,515 - WARNING - VIOLATION: Social is below threshold (13.6 < 50.0)
+2025-12-06 17:49:55,518 - INFO - Energy: 0.0, Social: 12.8, Integrity: 49.6
+2025-12-06 17:49:55,519 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:55,519 - WARNING - VIOLATION: Social is below threshold (12.8 < 50.0)
+2025-12-06 17:49:56,522 - INFO - Energy: 0.0, Social: 12.0, Integrity: 49.3
+2025-12-06 17:49:56,522 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:56,522 - WARNING - VIOLATION: Social is below threshold (12.0 < 50.0)
+2025-12-06 17:49:57,526 - INFO - Energy: 0.0, Social: 11.2, Integrity: 49.0
+2025-12-06 17:49:57,526 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:57,526 - WARNING - VIOLATION: Social is below threshold (11.2 < 50.0)
+2025-12-06 17:49:58,531 - INFO - Energy: 0.0, Social: 10.4, Integrity: 48.7
+2025-12-06 17:49:58,532 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:58,532 - WARNING - VIOLATION: Social is below threshold (10.4 < 50.0)
+2025-12-06 17:49:59,537 - INFO - Energy: 0.0, Social: 9.6, Integrity: 48.4
+2025-12-06 17:49:59,537 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:49:59,537 - WARNING - VIOLATION: Social is below threshold (9.6 < 50.0)
+2025-12-06 17:50:00,539 - INFO - Energy: 0.0, Social: 8.8, Integrity: 48.1
+2025-12-06 17:50:00,539 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:00,539 - WARNING - VIOLATION: Social is below threshold (8.8 < 50.0)
+2025-12-06 17:50:01,544 - INFO - Energy: 0.0, Social: 8.0, Integrity: 47.8
+2025-12-06 17:50:01,544 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:01,544 - WARNING - VIOLATION: Social is below threshold (8.0 < 50.0)
+2025-12-06 17:50:02,549 - INFO - Energy: 0.0, Social: 7.2, Integrity: 47.5
+2025-12-06 17:50:02,549 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:02,549 - WARNING - VIOLATION: Social is below threshold (7.2 < 50.0)
+2025-12-06 17:50:03,554 - INFO - Energy: 0.0, Social: 6.4, Integrity: 47.2
+2025-12-06 17:50:03,554 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:03,554 - WARNING - VIOLATION: Social is below threshold (6.4 < 50.0)
+2025-12-06 17:50:04,556 - INFO - Energy: 0.0, Social: 5.6, Integrity: 46.9
+2025-12-06 17:50:04,556 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:04,556 - WARNING - VIOLATION: Social is below threshold (5.6 < 50.0)
+2025-12-06 17:50:05,560 - INFO - Energy: 0.0, Social: 4.8, Integrity: 46.6
+2025-12-06 17:50:05,560 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:05,560 - WARNING - VIOLATION: Social is below threshold (4.8 < 50.0)
+2025-12-06 17:50:06,576 - INFO - Energy: 0.0, Social: 4.0, Integrity: 46.3
+2025-12-06 17:50:06,577 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:06,577 - WARNING - VIOLATION: Social is below threshold (4.0 < 50.0)
+2025-12-06 17:50:07,578 - INFO - Energy: 0.0, Social: 3.2, Integrity: 46.0
+2025-12-06 17:50:07,578 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:07,578 - WARNING - VIOLATION: Social is below threshold (3.2 < 50.0)
+2025-12-06 17:50:08,582 - INFO - Energy: 0.0, Social: 2.4, Integrity: 45.7
+2025-12-06 17:50:08,582 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:08,582 - WARNING - VIOLATION: Social is below threshold (2.4 < 50.0)
+2025-12-06 17:50:09,598 - INFO - Energy: 0.0, Social: 1.6, Integrity: 45.4
+2025-12-06 17:50:09,598 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:09,599 - WARNING - VIOLATION: Social is below threshold (1.6 < 50.0)
+2025-12-06 17:50:10,603 - INFO - Energy: 0.0, Social: 0.8, Integrity: 45.1
+2025-12-06 17:50:10,631 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:10,631 - WARNING - VIOLATION: Social is below threshold (0.8 < 50.0)
+2025-12-06 17:50:11,639 - INFO - Energy: 0.0, Social: 0.0, Integrity: 44.8
+2025-12-06 17:50:11,639 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:11,639 - WARNING - VIOLATION: Social is below threshold (0.0 < 50.0)
+2025-12-06 17:50:12,655 - INFO - Energy: 0.0, Social: 0.0, Integrity: 44.5
+2025-12-06 17:50:12,655 - WARNING - VIOLATION: Energy is below threshold (0.0 < 20.0)
+2025-12-06 17:50:12,655 - WARNING - VIOLATION: Social is below threshold (0.0 < 50.0)
+2025-12-06 17:52:30,563 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 17:52:31,566 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 17:52:32,567 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 17:52:33,573 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 17:52:34,581 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 17:52:35,587 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 17:52:36,595 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 17:52:37,600 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 17:52:38,603 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 17:52:39,142 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Space 200
+2025-12-06 17:52:39,607 - INFO - Energy: 95.6, Social: 92.0, Integrity: 97.0
+2025-12-06 17:52:40,612 - INFO - Energy: 95.1, Social: 91.2, Integrity: 96.7
+2025-12-06 17:52:41,615 - INFO - Energy: 94.6, Social: 90.4, Integrity: 96.4
+2025-12-06 17:52:42,617 - INFO - Energy: 94.1, Social: 89.6, Integrity: 96.1
+2025-12-06 17:52:43,620 - INFO - Energy: 93.6, Social: 88.8, Integrity: 95.8
+2025-12-06 17:52:44,624 - INFO - Energy: 93.1, Social: 88.0, Integrity: 95.5
+2025-12-06 17:52:45,567 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:52:45,630 - INFO - Energy: 93.1, Social: 87.2, Integrity: 95.2
+2025-12-06 17:52:46,635 - INFO - Energy: 92.6, Social: 86.4, Integrity: 94.9
+2025-12-06 17:52:47,641 - INFO - Energy: 92.1, Social: 85.6, Integrity: 94.6
+2025-12-06 17:52:48,577 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Life 200
+2025-12-06 17:52:48,703 - INFO - Energy: 92.3, Social: 84.8, Integrity: 94.3
+2025-12-06 17:52:49,710 - INFO - Energy: 91.8, Social: 84.0, Integrity: 94.0
+2025-12-06 17:52:50,691 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Python 200
+2025-12-06 17:52:50,819 - INFO - Energy: 91.9, Social: 83.2, Integrity: 93.7
+2025-12-06 17:52:51,533 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+React 200
+2025-12-06 17:52:51,883 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+AI 200
+2025-12-06 17:52:51,910 - INFO - Energy: 89.9, Social: 82.4, Integrity: 93.4
+2025-12-06 17:52:52,164 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:52:52,515 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+History 200
+2025-12-06 17:52:52,915 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:52:53,177 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:52:53,224 - INFO - Energy: 91.7, Social: 81.6, Integrity: 93.1
+2025-12-06 17:52:53,486 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:52:53,785 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+History 200
+2025-12-06 17:52:54,110 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+React 200
+2025-12-06 17:52:54,393 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:52:54,704 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Life 200
+2025-12-06 17:52:54,762 - INFO - Energy: 86.3, Social: 80.8, Integrity: 92.8
+2025-12-06 17:52:54,999 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:52:55,285 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:52:55,764 - INFO - Energy: 86.7, Social: 80.0, Integrity: 92.5
+2025-12-06 17:52:56,011 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+History 200
+2025-12-06 17:52:56,868 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Space 200
+2025-12-06 17:52:56,943 - INFO - Energy: 87.4, Social: 79.2, Integrity: 92.2
+2025-12-06 17:52:57,712 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:52:57,962 - INFO - Energy: 87.4, Social: 78.4, Integrity: 91.9
+2025-12-06 17:52:58,524 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:52:58,966 - INFO - Energy: 87.1, Social: 77.6, Integrity: 91.6
+2025-12-06 17:52:59,340 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+History 200
+2025-12-06 17:52:59,840 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:52:59,970 - INFO - Energy: 85.1, Social: 76.8, Integrity: 91.3
+2025-12-06 17:53:00,448 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Robot 200
+2025-12-06 17:53:01,170 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:53:01,205 - INFO - Energy: 83.0, Social: 76.0, Integrity: 91.0
+2025-12-06 17:53:01,797 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Python 200
+2025-12-06 17:53:02,297 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:53:02,383 - INFO - Energy: 81.1, Social: 75.2, Integrity: 90.7
+2025-12-06 17:53:03,631 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:53:03,698 - INFO - Energy: 78.6, Social: 74.4, Integrity: 90.4
+2025-12-06 17:53:04,264 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Data 200
+2025-12-06 17:53:04,660 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Future 200
+2025-12-06 17:53:04,708 - INFO - Energy: 76.7, Social: 73.6, Integrity: 90.1
+2025-12-06 17:53:05,148 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Python 200
+2025-12-06 17:53:05,808 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:53:05,870 - INFO - Energy: 77.3, Social: 72.8, Integrity: 89.8
+2025-12-06 17:53:06,875 - INFO - Energy: 76.8, Social: 72.0, Integrity: 89.5
+2025-12-06 17:53:07,878 - INFO - Energy: 76.3, Social: 71.2, Integrity: 89.2
+2025-12-06 17:53:08,883 - INFO - Energy: 75.8, Social: 70.4, Integrity: 88.9
+2025-12-06 17:53:09,951 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Space 200
+2025-12-06 17:53:10,002 - INFO - Energy: 73.3, Social: 69.6, Integrity: 88.6
+2025-12-06 17:53:11,085 - INFO - response: https://www.bing.com/search?q=Latest+interesting+facts+about+Code 200
+2025-12-06 17:53:11,096 - INFO - Energy: 70.8, Social: 68.8, Integrity: 88.3
+2025-12-06 17:53:12,100 - INFO - Energy: 70.3, Social: 68.0, Integrity: 88.0
+2025-12-06 17:53:13,104 - INFO - Energy: 69.8, Social: 67.2, Integrity: 87.7
+2025-12-06 17:53:14,105 - INFO - Energy: 69.3, Social: 66.4, Integrity: 87.4
+2025-12-06 17:53:15,110 - INFO - Energy: 68.8, Social: 65.6, Integrity: 87.1
+2025-12-06 17:53:16,112 - INFO - Energy: 68.3, Social: 64.8, Integrity: 86.8
+2025-12-06 17:56:13,329 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 17:56:14,336 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 17:56:15,342 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 17:56:16,348 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 17:56:17,349 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 17:56:18,353 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 17:56:19,356 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 17:56:20,362 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 17:56:21,513 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Global+Economic+Trends 200
+2025-12-06 17:56:21,881 - INFO - Energy: 96.7, Social: 92.8, Integrity: 97.3
+2025-12-06 17:56:22,882 - INFO - Energy: 96.2, Social: 92.0, Integrity: 97.0
+2025-12-06 17:56:23,886 - INFO - Energy: 95.7, Social: 91.2, Integrity: 96.7
+2025-12-06 17:56:24,890 - INFO - Energy: 95.2, Social: 90.4, Integrity: 96.4
+2025-12-06 17:56:25,855 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process 200
+2025-12-06 17:56:25,980 - INFO - Energy: 98.5, Social: 89.6, Integrity: 96.1
+2025-12-06 17:56:26,992 - INFO - Energy: 98.0, Social: 88.8, Integrity: 95.8
+2025-12-06 17:56:27,995 - INFO - Energy: 97.5, Social: 88.0, Integrity: 95.5
+2025-12-06 17:56:28,957 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Quantum+Computing 200
+2025-12-06 17:56:28,997 - INFO - Energy: 95.0, Social: 87.2, Integrity: 95.2
+2025-12-06 17:56:30,002 - INFO - Energy: 94.5, Social: 86.4, Integrity: 94.9
+2025-12-06 17:56:31,006 - INFO - Energy: 94.0, Social: 85.6, Integrity: 94.6
+2025-12-06 17:56:32,007 - INFO - Energy: 93.5, Social: 84.8, Integrity: 94.3
+2025-12-06 17:56:32,966 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Ancient+Civilizations 200
+2025-12-06 17:56:33,038 - INFO - Energy: 96.1, Social: 84.0, Integrity: 94.0
+2025-12-06 17:56:34,054 - INFO - Energy: 95.6, Social: 83.2, Integrity: 93.7
+2025-12-06 17:56:35,056 - INFO - Energy: 95.1, Social: 82.4, Integrity: 93.4
+2025-12-06 17:56:35,673 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind 200
+2025-12-06 17:56:36,058 - INFO - Energy: 95.7, Social: 81.6, Integrity: 93.1
+2025-12-06 17:56:37,063 - INFO - Energy: 95.2, Social: 80.8, Integrity: 92.8
+2025-12-06 17:56:37,476 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Renewable+Energy+Technologies 200
+2025-12-06 17:56:38,066 - INFO - Energy: 97.6, Social: 80.0, Integrity: 92.5
+2025-12-06 17:56:38,721 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Machine+Learning+Algorithms 200
+2025-12-06 17:56:39,071 - INFO - Energy: 95.1, Social: 79.2, Integrity: 92.2
+2025-12-06 17:56:40,073 - INFO - Energy: 94.6, Social: 78.4, Integrity: 91.9
+2025-12-06 17:56:40,660 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Philosophy+of+Mind 200
+2025-12-06 17:56:41,080 - INFO - Energy: 95.1, Social: 77.6, Integrity: 91.6
+2025-12-06 17:56:41,635 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Ancient+Civilizations 200
+2025-12-06 17:56:42,082 - INFO - Energy: 97.8, Social: 76.8, Integrity: 91.3
+2025-12-06 17:56:42,902 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies 200
+2025-12-06 17:56:43,088 - INFO - Energy: 95.3, Social: 76.0, Integrity: 91.0
+2025-12-06 17:56:44,118 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms 200
+2025-12-06 17:56:44,196 - INFO - Energy: 98.0, Social: 75.2, Integrity: 90.7
+2025-12-06 17:56:45,207 - INFO - Energy: 97.5, Social: 74.4, Integrity: 90.4
+2025-12-06 17:56:46,214 - INFO - Energy: 97.0, Social: 73.6, Integrity: 90.1
+2025-12-06 17:56:47,219 - INFO - Energy: 96.5, Social: 72.8, Integrity: 89.8
+2025-12-06 17:56:48,224 - INFO - Energy: 96.0, Social: 72.0, Integrity: 89.5
+2025-12-06 17:56:49,225 - INFO - Energy: 95.5, Social: 71.2, Integrity: 89.2
+2025-12-06 17:56:50,228 - INFO - Energy: 95.0, Social: 70.4, Integrity: 88.9
+2025-12-06 17:58:01,228 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 17:58:02,232 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 17:58:03,242 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 17:58:04,250 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 17:58:05,256 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 17:58:06,265 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 17:58:07,272 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 17:58:08,279 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 17:58:09,229 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process 200
+2025-12-06 17:58:10,238 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 17:58:11,231 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 17:58:12,328 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 17:58:13,324 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 17:58:13,686 - INFO - Energy: 99.5, Social: 92.8, Integrity: 97.3
+2025-12-06 17:58:14,696 - INFO - Energy: 99.0, Social: 92.0, Integrity: 97.0
+2025-12-06 17:58:15,699 - INFO - Energy: 98.5, Social: 91.2, Integrity: 96.7
+2025-12-06 17:58:16,705 - INFO - Energy: 98.0, Social: 90.4, Integrity: 96.4
+2025-12-06 17:58:17,708 - INFO - Energy: 97.5, Social: 89.6, Integrity: 96.1
+2025-12-06 17:58:18,711 - INFO - Energy: 97.0, Social: 88.8, Integrity: 95.8
+2025-12-06 17:58:19,714 - INFO - Energy: 96.5, Social: 88.0, Integrity: 95.5
+2025-12-06 17:58:20,717 - INFO - Energy: 96.0, Social: 87.2, Integrity: 95.2
+2025-12-06 17:58:21,722 - INFO - Energy: 95.5, Social: 86.4, Integrity: 94.9
+2025-12-06 17:58:22,999 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Philosophy+of+Mind 200
+2025-12-06 17:58:24,043 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Philosophy+of+Mind&first=11&FORM=PERE 200
+2025-12-06 17:58:25,088 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Philosophy+of+Mind&first=21&FORM=PERE1 200
+2025-12-06 17:58:26,220 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Philosophy+of+Mind&first=31&FORM=PERE2 200
+2025-12-06 17:58:27,236 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Philosophy+of+Mind&first=41&FORM=PERE3 200
+2025-12-06 17:58:27,274 - INFO - Energy: 99.5, Social: 85.6, Integrity: 94.6
+2025-12-06 17:58:28,288 - INFO - Energy: 99.0, Social: 84.8, Integrity: 94.3
+2025-12-06 17:58:29,294 - INFO - Energy: 98.5, Social: 84.0, Integrity: 94.0
+2025-12-06 17:58:30,309 - INFO - Energy: 98.0, Social: 83.2, Integrity: 93.7
+2025-12-06 17:58:31,311 - INFO - Energy: 97.5, Social: 82.4, Integrity: 93.4
+2025-12-06 17:58:32,314 - INFO - Energy: 97.0, Social: 81.6, Integrity: 93.1
+2025-12-06 17:58:33,319 - INFO - Energy: 96.5, Social: 80.8, Integrity: 92.8
+2025-12-06 17:58:34,323 - INFO - Energy: 96.0, Social: 80.0, Integrity: 92.5
+2025-12-06 17:58:35,325 - INFO - Energy: 95.5, Social: 79.2, Integrity: 92.2
+2025-12-06 17:58:36,329 - INFO - Energy: 95.0, Social: 78.4, Integrity: 91.9
+2025-12-06 17:58:37,334 - INFO - Energy: 94.5, Social: 77.6, Integrity: 91.6
+2025-12-06 17:58:38,336 - INFO - Energy: 94.0, Social: 76.8, Integrity: 91.3
+2025-12-06 17:58:39,341 - INFO - Energy: 93.5, Social: 76.0, Integrity: 91.0
+2025-12-06 17:58:40,344 - INFO - Energy: 93.0, Social: 75.2, Integrity: 90.7
+2025-12-06 17:58:41,345 - INFO - Energy: 92.5, Social: 74.4, Integrity: 90.4
+2025-12-06 17:58:42,195 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends 200
+2025-12-06 17:58:43,274 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 17:58:44,453 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 17:58:45,638 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 17:58:45,804 - INFO - Energy: 99.5, Social: 73.6, Integrity: 90.1
+2025-12-06 17:58:46,817 - INFO - Energy: 99.0, Social: 72.8, Integrity: 89.8
+2025-12-06 17:58:47,822 - INFO - Energy: 98.5, Social: 72.0, Integrity: 89.5
+2025-12-06 17:58:48,826 - INFO - Energy: 98.0, Social: 71.2, Integrity: 89.2
+2025-12-06 17:58:49,832 - INFO - Energy: 97.5, Social: 70.4, Integrity: 88.9
+2025-12-06 17:58:50,848 - INFO - Energy: 97.0, Social: 69.6, Integrity: 88.6
+2025-12-06 17:58:51,850 - INFO - Energy: 96.5, Social: 68.8, Integrity: 88.3
+2025-12-06 17:58:52,853 - INFO - Energy: 96.0, Social: 68.0, Integrity: 88.0
+2025-12-06 17:58:53,858 - INFO - Energy: 95.5, Social: 67.2, Integrity: 87.7
+2025-12-06 17:58:54,901 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends 200
+2025-12-06 17:58:55,900 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 17:58:56,920 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 17:58:57,979 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 17:58:58,970 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=41&FORM=PERE3 200
+2025-12-06 17:58:59,029 - INFO - Energy: 99.5, Social: 66.4, Integrity: 87.4
+2025-12-06 17:59:00,040 - INFO - Energy: 99.0, Social: 65.6, Integrity: 87.1
+2025-12-06 17:59:01,045 - INFO - Energy: 98.5, Social: 64.8, Integrity: 86.8
+2025-12-06 17:59:02,049 - INFO - Energy: 98.0, Social: 64.0, Integrity: 86.5
+2025-12-06 17:59:03,052 - INFO - Energy: 97.5, Social: 63.2, Integrity: 86.2
+2025-12-06 17:59:04,057 - INFO - Energy: 97.0, Social: 62.4, Integrity: 85.9
+2025-12-06 17:59:05,063 - INFO - Energy: 96.5, Social: 61.6, Integrity: 85.6
+2025-12-06 17:59:06,068 - INFO - Energy: 96.0, Social: 60.8, Integrity: 85.3
+2025-12-06 17:59:07,072 - INFO - Energy: 95.5, Social: 60.0, Integrity: 85.0
+2025-12-06 17:59:08,078 - INFO - Energy: 95.0, Social: 59.2, Integrity: 84.7
+2025-12-06 17:59:09,081 - INFO - Energy: 94.5, Social: 58.4, Integrity: 84.4
+2025-12-06 17:59:10,085 - INFO - Energy: 94.0, Social: 57.6, Integrity: 84.1
+2025-12-06 17:59:11,088 - INFO - Energy: 93.5, Social: 56.8, Integrity: 83.8
+2025-12-06 17:59:12,104 - INFO - Energy: 93.0, Social: 56.0, Integrity: 83.5
+2025-12-06 17:59:13,120 - INFO - Energy: 92.5, Social: 55.2, Integrity: 83.2
+2025-12-06 17:59:14,125 - INFO - Energy: 92.0, Social: 54.4, Integrity: 82.9
+2025-12-06 17:59:15,126 - INFO - Energy: 91.5, Social: 53.6, Integrity: 82.6
+2025-12-06 17:59:16,132 - INFO - Energy: 91.0, Social: 52.8, Integrity: 82.3
+2025-12-06 17:59:17,135 - INFO - Energy: 90.5, Social: 52.0, Integrity: 82.0
+2025-12-06 17:59:18,140 - INFO - Energy: 90.0, Social: 51.2, Integrity: 81.7
+2025-12-06 17:59:19,147 - INFO - Energy: 89.5, Social: 50.4, Integrity: 81.4
+2025-12-06 17:59:20,150 - INFO - Energy: 79.0, Social: 70.2, Integrity: 81.1
+2025-12-06 17:59:21,152 - INFO - Energy: 78.5, Social: 69.4, Integrity: 80.8
+2025-12-06 17:59:22,154 - INFO - Energy: 78.0, Social: 68.6, Integrity: 80.5
+2025-12-06 17:59:23,429 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Machine+Learning+Algorithms 200
+2025-12-06 17:59:24,473 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Machine+Learning+Algorithms&first=11&FORM=PERE 200
+2025-12-06 17:59:25,556 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Machine+Learning+Algorithms&first=21&FORM=PERE1 200
+2025-12-06 17:59:26,612 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Machine+Learning+Algorithms&first=31&FORM=PERE2 200
+2025-12-06 17:59:27,694 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Machine+Learning+Algorithms&first=41&FORM=PERE3 200
+2025-12-06 17:59:27,800 - INFO - Energy: 89.5, Social: 67.8, Integrity: 80.2
+2025-12-06 17:59:28,809 - INFO - Energy: 89.0, Social: 67.0, Integrity: 79.9
+2025-12-06 17:59:29,811 - INFO - Energy: 88.5, Social: 66.2, Integrity: 79.6
+2025-12-06 17:59:30,815 - INFO - Energy: 88.0, Social: 65.4, Integrity: 79.3
+2025-12-06 17:59:31,817 - INFO - Energy: 87.5, Social: 64.6, Integrity: 79.0
+2025-12-06 17:59:32,834 - INFO - Energy: 87.0, Social: 63.8, Integrity: 78.7
+2025-12-06 17:59:33,837 - INFO - Energy: 86.5, Social: 63.0, Integrity: 78.4
+2025-12-06 17:59:34,853 - INFO - Energy: 86.0, Social: 62.2, Integrity: 78.1
+2025-12-06 17:59:35,867 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends 200
+2025-12-06 17:59:36,979 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 17:59:38,190 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 17:59:39,216 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 17:59:40,372 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=41&FORM=PERE3 200
+2025-12-06 17:59:40,442 - INFO - Energy: 99.5, Social: 61.4, Integrity: 77.8
+2025-12-06 17:59:41,453 - INFO - Energy: 99.0, Social: 60.6, Integrity: 77.5
+2025-12-06 17:59:42,456 - INFO - Energy: 98.5, Social: 59.8, Integrity: 77.2
+2025-12-06 17:59:43,462 - INFO - Energy: 98.0, Social: 59.0, Integrity: 76.9
+2025-12-06 17:59:44,465 - INFO - Energy: 97.5, Social: 58.2, Integrity: 76.6
+2025-12-06 17:59:45,483 - INFO - Energy: 97.0, Social: 57.4, Integrity: 76.3
+2025-12-06 17:59:46,486 - INFO - Energy: 96.5, Social: 56.6, Integrity: 76.0
+2025-12-06 17:59:47,492 - INFO - Energy: 96.0, Social: 55.8, Integrity: 75.7
+2025-12-06 17:59:48,508 - INFO - Energy: 95.5, Social: 55.0, Integrity: 75.4
+2025-12-06 17:59:49,513 - INFO - Energy: 95.0, Social: 54.2, Integrity: 75.1
+2025-12-06 17:59:50,517 - INFO - Energy: 94.5, Social: 53.4, Integrity: 74.8
+2025-12-06 17:59:51,519 - INFO - Energy: 94.0, Social: 52.6, Integrity: 74.5
+2025-12-06 17:59:52,524 - INFO - Energy: 93.5, Social: 51.8, Integrity: 74.2
+2025-12-06 18:02:21,584 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 18:02:22,595 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 18:02:23,598 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 18:02:24,600 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 18:02:25,601 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 18:02:26,603 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 18:02:27,605 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 18:02:28,624 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 18:02:29,631 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 18:02:30,646 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 18:02:31,619 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms 200
+2025-12-06 18:02:31,683 - INFO - Energy: 92.5, Social: 91.2, Integrity: 96.7
+2025-12-06 18:02:32,766 - INFO - Energy: 93.0, Social: 90.4, Integrity: 96.4
+2025-12-06 18:02:33,769 - INFO - Energy: 92.5, Social: 89.6, Integrity: 96.1
+2025-12-06 18:02:34,773 - INFO - Energy: 92.0, Social: 88.8, Integrity: 95.8
+2025-12-06 18:02:35,778 - INFO - Energy: 91.5, Social: 88.0, Integrity: 95.5
+2025-12-06 18:02:36,818 - INFO - Energy: 91.0, Social: 87.2, Integrity: 95.2
+2025-12-06 18:02:37,820 - INFO - Energy: 90.5, Social: 86.4, Integrity: 94.9
+2025-12-06 18:02:38,668 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends 200
+2025-12-06 18:02:38,826 - INFO - Energy: 88.0, Social: 85.6, Integrity: 94.6
+2025-12-06 18:02:39,671 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 18:02:39,830 - INFO - Energy: 87.5, Social: 84.8, Integrity: 94.3
+2025-12-06 18:02:40,703 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 18:02:40,833 - INFO - Energy: 87.0, Social: 84.0, Integrity: 94.0
+2025-12-06 18:02:41,834 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 18:02:41,849 - INFO - Energy: 86.5, Social: 83.2, Integrity: 93.7
+2025-12-06 18:02:42,854 - INFO - Energy: 86.0, Social: 82.4, Integrity: 93.4
+2025-12-06 18:02:43,210 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=41&FORM=PERE3 200
+2025-12-06 18:02:43,604 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process 200
+2025-12-06 18:02:43,856 - INFO - Energy: 97.5, Social: 81.6, Integrity: 93.1
+2025-12-06 18:02:44,712 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:02:44,859 - INFO - Energy: 97.0, Social: 80.8, Integrity: 92.8
+2025-12-06 18:02:45,864 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:02:45,867 - INFO - Energy: 96.5, Social: 80.0, Integrity: 92.5
+2025-12-06 18:02:46,871 - INFO - Energy: 96.0, Social: 79.2, Integrity: 92.2
+2025-12-06 18:02:46,944 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:02:47,872 - INFO - Energy: 95.5, Social: 78.4, Integrity: 91.9
+2025-12-06 18:02:47,956 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:02:48,876 - INFO - Energy: 99.5, Social: 77.6, Integrity: 91.6
+2025-12-06 18:02:49,879 - INFO - Energy: 99.0, Social: 76.8, Integrity: 91.3
+2025-12-06 18:02:50,883 - INFO - Energy: 98.5, Social: 76.0, Integrity: 91.0
+2025-12-06 18:02:51,889 - INFO - Energy: 98.0, Social: 75.2, Integrity: 90.7
+2025-12-06 18:02:52,905 - INFO - Energy: 97.5, Social: 74.4, Integrity: 90.4
+2025-12-06 18:02:53,910 - INFO - Energy: 97.0, Social: 73.6, Integrity: 90.1
+2025-12-06 18:02:54,915 - INFO - Energy: 96.5, Social: 72.8, Integrity: 89.8
+2025-12-06 18:02:55,919 - INFO - Energy: 96.0, Social: 72.0, Integrity: 89.5
+2025-12-06 18:02:56,926 - INFO - Energy: 95.5, Social: 71.2, Integrity: 89.2
+2025-12-06 18:02:57,931 - INFO - Energy: 95.0, Social: 70.4, Integrity: 88.9
+2025-12-06 18:02:58,938 - INFO - Energy: 94.5, Social: 69.6, Integrity: 88.6
+2025-12-06 18:02:59,940 - INFO - Energy: 94.0, Social: 68.8, Integrity: 88.3
+2025-12-06 18:03:00,945 - INFO - Energy: 93.5, Social: 68.0, Integrity: 88.0
+2025-12-06 18:03:01,949 - INFO - Energy: 93.0, Social: 67.2, Integrity: 87.7
+2025-12-06 18:03:02,953 - INFO - Energy: 92.5, Social: 66.4, Integrity: 87.4
+2025-12-06 18:03:03,958 - INFO - Energy: 92.0, Social: 65.6, Integrity: 87.1
+2025-12-06 18:03:04,960 - INFO - Energy: 91.5, Social: 64.8, Integrity: 86.8
+2025-12-06 18:03:05,976 - INFO - Energy: 91.0, Social: 64.0, Integrity: 86.5
+2025-12-06 18:03:06,979 - INFO - Energy: 88.5, Social: 63.2, Integrity: 86.2
+2025-12-06 18:03:07,329 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies 200
+2025-12-06 18:03:07,983 - INFO - Energy: 89.0, Social: 62.4, Integrity: 85.9
+2025-12-06 18:03:08,987 - INFO - Energy: 88.5, Social: 61.6, Integrity: 85.6
+2025-12-06 18:03:09,990 - INFO - Energy: 88.0, Social: 60.8, Integrity: 85.3
+2025-12-06 18:03:10,993 - INFO - Energy: 87.5, Social: 60.0, Integrity: 85.0
+2025-12-06 18:03:12,009 - INFO - Energy: 87.0, Social: 59.2, Integrity: 84.7
+2025-12-06 18:03:13,013 - INFO - Energy: 86.5, Social: 58.4, Integrity: 84.4
+2025-12-06 18:03:14,015 - INFO - Energy: 86.0, Social: 57.6, Integrity: 84.1
+2025-12-06 18:03:15,032 - INFO - Energy: 83.5, Social: 56.8, Integrity: 83.8
+2025-12-06 18:03:15,546 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Genetic+Engineering 200
+2025-12-06 18:03:16,034 - INFO - Energy: 83.9, Social: 56.0, Integrity: 83.5
+2025-12-06 18:03:17,049 - INFO - Energy: 83.4, Social: 55.2, Integrity: 83.2
+2025-12-06 18:03:18,052 - INFO - Energy: 82.9, Social: 54.4, Integrity: 82.9
+2025-12-06 18:03:19,056 - INFO - Energy: 82.4, Social: 53.6, Integrity: 82.6
+2025-12-06 18:03:19,629 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies 200
+2025-12-06 18:03:20,059 - INFO - Energy: 79.9, Social: 52.8, Integrity: 82.3
+2025-12-06 18:03:20,678 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=11&FORM=PERE 200
+2025-12-06 18:03:21,061 - INFO - Energy: 79.4, Social: 52.0, Integrity: 82.0
+2025-12-06 18:03:21,729 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=21&FORM=PERE1 200
+2025-12-06 18:03:22,064 - INFO - Energy: 78.9, Social: 51.2, Integrity: 81.7
+2025-12-06 18:03:22,726 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=31&FORM=PERE2 200
+2025-12-06 18:03:23,065 - INFO - Energy: 78.4, Social: 50.4, Integrity: 81.4
+2025-12-06 18:03:23,769 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=41&FORM=PERE3 200
+2025-12-06 18:03:24,070 - INFO - Energy: 81.9, Social: 65.7, Integrity: 81.1
+2025-12-06 18:03:25,087 - INFO - Energy: 81.4, Social: 64.9, Integrity: 80.8
+2025-12-06 18:03:26,090 - INFO - Energy: 80.9, Social: 64.1, Integrity: 80.5
+2025-12-06 18:03:27,096 - INFO - Energy: 80.4, Social: 63.3, Integrity: 80.2
+2025-12-06 18:03:28,101 - INFO - Energy: 79.9, Social: 62.5, Integrity: 79.9
+2025-12-06 18:03:28,472 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies 200
+2025-12-06 18:03:29,104 - INFO - Energy: 77.4, Social: 61.7, Integrity: 79.6
+2025-12-06 18:03:29,504 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=11&FORM=PERE 200
+2025-12-06 18:03:30,107 - INFO - Energy: 76.9, Social: 60.9, Integrity: 79.3
+2025-12-06 18:03:30,514 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=21&FORM=PERE1 200
+2025-12-06 18:03:31,109 - INFO - Energy: 76.4, Social: 60.1, Integrity: 79.0
+2025-12-06 18:03:31,593 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=31&FORM=PERE2 200
+2025-12-06 18:03:32,112 - INFO - Energy: 75.9, Social: 59.3, Integrity: 78.7
+2025-12-06 18:03:32,640 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=41&FORM=PERE3 200
+2025-12-06 18:03:33,117 - INFO - Energy: 89.4, Social: 58.5, Integrity: 78.4
+2025-12-06 18:03:34,122 - INFO - Energy: 88.9, Social: 57.7, Integrity: 78.1
+2025-12-06 18:03:35,129 - INFO - Energy: 88.4, Social: 56.9, Integrity: 77.8
+2025-12-06 18:03:36,131 - INFO - Energy: 87.9, Social: 56.1, Integrity: 77.5
+2025-12-06 18:03:37,135 - INFO - Energy: 87.4, Social: 55.3, Integrity: 77.2
+2025-12-06 18:03:38,155 - INFO - Energy: 86.9, Social: 54.5, Integrity: 76.9
+2025-12-06 18:03:39,161 - INFO - Energy: 86.4, Social: 53.7, Integrity: 76.6
+2025-12-06 18:03:39,980 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Genetic+Engineering 200
+2025-12-06 18:03:40,163 - INFO - Energy: 83.9, Social: 52.9, Integrity: 76.3
+2025-12-06 18:03:40,989 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Genetic+Engineering&first=11&FORM=PERE 200
+2025-12-06 18:03:41,167 - INFO - Energy: 83.4, Social: 52.1, Integrity: 76.0
+2025-12-06 18:03:41,998 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Genetic+Engineering&first=21&FORM=PERE1 200
+2025-12-06 18:03:42,169 - INFO - Energy: 82.9, Social: 51.3, Integrity: 75.7
+2025-12-06 18:03:43,026 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Genetic+Engineering&first=31&FORM=PERE2 200
+2025-12-06 18:03:43,173 - INFO - Energy: 82.4, Social: 50.5, Integrity: 75.4
+2025-12-06 18:03:44,051 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Genetic+Engineering&first=41&FORM=PERE3 200
+2025-12-06 18:03:44,180 - INFO - Energy: 85.7, Social: 78.3, Integrity: 75.1
+2025-12-06 18:03:45,182 - INFO - Energy: 85.2, Social: 77.5, Integrity: 74.8
+2025-12-06 18:03:46,186 - INFO - Energy: 84.7, Social: 76.7, Integrity: 74.5
+2025-12-06 18:03:47,189 - INFO - Energy: 84.2, Social: 75.9, Integrity: 74.2
+2025-12-06 18:03:48,190 - INFO - Energy: 83.7, Social: 75.1, Integrity: 73.9
+2025-12-06 18:03:49,194 - INFO - Energy: 83.2, Social: 74.3, Integrity: 73.6
+2025-12-06 18:03:50,202 - INFO - Energy: 82.7, Social: 73.5, Integrity: 73.3
+2025-12-06 18:03:51,044 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing 200
+2025-12-06 18:03:51,207 - INFO - Energy: 80.2, Social: 72.7, Integrity: 73.0
+2025-12-06 18:03:52,089 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=11&FORM=PERE 200
+2025-12-06 18:03:52,224 - INFO - Energy: 79.7, Social: 71.9, Integrity: 72.7
+2025-12-06 18:03:53,142 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=21&FORM=PERE1 200
+2025-12-06 18:03:53,227 - INFO - Energy: 79.2, Social: 71.1, Integrity: 72.4
+2025-12-06 18:03:54,197 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=31&FORM=PERE2 200
+2025-12-06 18:03:54,242 - INFO - Energy: 78.7, Social: 70.3, Integrity: 72.1
+2025-12-06 18:03:55,258 - INFO - Energy: 78.2, Social: 69.5, Integrity: 71.8
+2025-12-06 18:03:55,358 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=41&FORM=PERE3 200
+2025-12-06 18:03:56,265 - INFO - Energy: 87.4, Social: 68.7, Integrity: 71.5
+2025-12-06 18:03:57,269 - INFO - Energy: 86.9, Social: 67.9, Integrity: 71.2
+2025-12-06 18:03:58,273 - INFO - Energy: 86.4, Social: 67.1, Integrity: 70.9
+2025-12-06 18:03:59,281 - INFO - Energy: 85.9, Social: 66.3, Integrity: 70.6
+2025-12-06 18:04:00,284 - INFO - Energy: 85.4, Social: 65.5, Integrity: 70.3
+2025-12-06 18:04:01,259 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends 200
+2025-12-06 18:04:01,321 - INFO - Energy: 82.9, Social: 64.7, Integrity: 70.0
+2025-12-06 18:04:02,281 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 18:04:02,323 - INFO - Energy: 82.4, Social: 63.9, Integrity: 69.7
+2025-12-06 18:04:03,308 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 18:04:03,339 - INFO - Energy: 81.9, Social: 63.1, Integrity: 69.4
+2025-12-06 18:04:04,348 - INFO - Energy: 81.4, Social: 62.3, Integrity: 69.1
+2025-12-06 18:04:04,445 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 18:04:05,350 - INFO - Energy: 80.9, Social: 61.5, Integrity: 68.8
+2025-12-06 18:04:05,505 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=41&FORM=PERE3 200
+2025-12-06 18:04:06,352 - INFO - Energy: 94.7, Social: 60.7, Integrity: 68.5
+2025-12-06 18:04:07,354 - INFO - Energy: 94.2, Social: 59.9, Integrity: 68.2
+2025-12-06 18:04:08,359 - INFO - Energy: 93.7, Social: 59.1, Integrity: 67.9
+2025-12-06 18:04:09,363 - INFO - Energy: 93.2, Social: 58.3, Integrity: 67.6
+2025-12-06 18:04:10,369 - INFO - Energy: 92.7, Social: 57.5, Integrity: 67.3
+2025-12-06 18:04:11,374 - INFO - Energy: 92.2, Social: 56.7, Integrity: 67.0
+2025-12-06 18:04:12,378 - INFO - Energy: 91.7, Social: 55.9, Integrity: 66.7
+2025-12-06 18:04:13,388 - INFO - Energy: 91.2, Social: 55.1, Integrity: 66.4
+2025-12-06 18:04:14,389 - INFO - Energy: 90.7, Social: 54.3, Integrity: 66.1
+2025-12-06 18:04:15,394 - INFO - Energy: 90.2, Social: 53.5, Integrity: 65.8
+2025-12-06 18:04:16,396 - INFO - Energy: 89.7, Social: 52.7, Integrity: 65.5
+2025-12-06 18:04:16,984 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Renewable+Energy+Technologies 200
+2025-12-06 18:04:17,401 - INFO - Energy: 87.2, Social: 51.9, Integrity: 65.2
+2025-12-06 18:04:18,018 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Renewable+Energy+Technologies&first=11&FORM=PERE 200
+2025-12-06 18:04:18,404 - INFO - Energy: 86.7, Social: 51.1, Integrity: 64.9
+2025-12-06 18:04:19,037 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Renewable+Energy+Technologies&first=21&FORM=PERE1 200
+2025-12-06 18:04:19,408 - INFO - Energy: 86.2, Social: 50.3, Integrity: 64.6
+2025-12-06 18:04:20,217 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Renewable+Energy+Technologies&first=31&FORM=PERE2 200
+2025-12-06 18:04:20,411 - INFO - Energy: 75.7, Social: 67.4, Integrity: 64.3
+2025-12-06 18:04:21,226 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Renewable+Energy+Technologies&first=41&FORM=PERE3 200
+2025-12-06 18:04:21,414 - INFO - Energy: 85.2, Social: 66.6, Integrity: 64.0
+2025-12-06 18:04:22,415 - INFO - Energy: 84.7, Social: 65.8, Integrity: 63.7
+2025-12-06 18:04:23,421 - INFO - Energy: 84.2, Social: 65.0, Integrity: 63.4
+2025-12-06 18:04:24,425 - INFO - Energy: 83.7, Social: 64.2, Integrity: 63.1
+2025-12-06 18:04:25,427 - INFO - Energy: 83.2, Social: 63.4, Integrity: 62.8
+2025-12-06 18:04:26,442 - INFO - Energy: 82.7, Social: 62.6, Integrity: 62.5
+2025-12-06 18:04:27,445 - INFO - Energy: 82.2, Social: 61.8, Integrity: 62.2
+2025-12-06 18:04:28,449 - INFO - Energy: 81.7, Social: 61.0, Integrity: 61.9
+2025-12-06 18:04:29,455 - INFO - Energy: 81.2, Social: 60.2, Integrity: 61.6
+2025-12-06 18:04:30,459 - INFO - Energy: 80.7, Social: 59.4, Integrity: 61.3
+2025-12-06 18:04:31,465 - INFO - Energy: 80.2, Social: 58.6, Integrity: 61.0
+2025-12-06 18:04:32,469 - INFO - Energy: 79.7, Social: 57.8, Integrity: 60.7
+2025-12-06 18:04:33,470 - INFO - Energy: 79.2, Social: 57.0, Integrity: 60.4
+2025-12-06 18:04:34,473 - INFO - Energy: 78.7, Social: 56.2, Integrity: 60.1
+2025-12-06 18:04:35,479 - INFO - Energy: 78.2, Social: 55.4, Integrity: 59.8
+2025-12-06 18:04:36,484 - INFO - Energy: 77.7, Social: 54.6, Integrity: 59.5
+2025-12-06 18:04:37,491 - INFO - Energy: 77.2, Social: 53.8, Integrity: 59.2
+2025-12-06 18:04:38,492 - INFO - Energy: 76.7, Social: 53.0, Integrity: 58.9
+2025-12-06 18:04:39,496 - INFO - Energy: 76.2, Social: 52.2, Integrity: 58.6
+2025-12-06 18:04:39,865 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Global+Economic+Trends 200
+2025-12-06 18:04:40,498 - INFO - Energy: 74.7, Social: 51.4, Integrity: 58.3
+2025-12-06 18:04:41,502 - INFO - Energy: 74.2, Social: 50.6, Integrity: 58.0
+2025-12-06 18:04:42,506 - INFO - Energy: 63.7, Social: 68.5, Integrity: 57.7
+2025-12-06 18:04:43,512 - INFO - Energy: 63.2, Social: 67.7, Integrity: 57.4
+2025-12-06 18:04:44,515 - INFO - Energy: 62.7, Social: 66.9, Integrity: 57.1
+2025-12-06 18:04:45,518 - INFO - Energy: 62.2, Social: 66.1, Integrity: 56.8
+2025-12-06 18:04:46,523 - INFO - Energy: 61.7, Social: 65.3, Integrity: 56.5
+2025-12-06 18:04:47,525 - INFO - Energy: 61.2, Social: 64.5, Integrity: 56.2
+2025-12-06 18:04:48,530 - INFO - Energy: 60.7, Social: 63.7, Integrity: 55.9
+2025-12-06 18:04:49,534 - INFO - Energy: 60.2, Social: 62.9, Integrity: 55.6
+2025-12-06 18:04:50,537 - INFO - Energy: 59.7, Social: 62.1, Integrity: 55.3
+2025-12-06 18:04:51,540 - INFO - Energy: 59.2, Social: 61.3, Integrity: 55.0
+2025-12-06 18:04:52,549 - INFO - Energy: 58.7, Social: 60.5, Integrity: 54.7
+2025-12-06 18:04:53,553 - INFO - Energy: 58.2, Social: 59.7, Integrity: 54.4
+2025-12-06 18:04:54,556 - INFO - Energy: 57.7, Social: 58.9, Integrity: 54.1
+2025-12-06 18:04:55,559 - INFO - Energy: 57.2, Social: 58.1, Integrity: 53.8
+2025-12-06 18:04:56,565 - INFO - Energy: 56.7, Social: 57.3, Integrity: 53.5
+2025-12-06 18:04:57,569 - INFO - Energy: 56.2, Social: 56.5, Integrity: 53.2
+2025-12-06 18:04:58,572 - INFO - Energy: 55.7, Social: 55.7, Integrity: 52.9
+2025-12-06 18:04:59,574 - INFO - Energy: 55.2, Social: 54.9, Integrity: 52.6
+2025-12-06 18:05:00,576 - INFO - Energy: 54.7, Social: 54.1, Integrity: 52.3
+2025-12-06 18:05:01,581 - INFO - Energy: 54.2, Social: 53.3, Integrity: 52.0
+2025-12-06 18:08:07,458 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 18:08:08,470 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 18:08:09,473 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 18:08:10,477 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 18:08:11,481 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 18:08:12,486 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 18:08:13,487 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 18:08:14,490 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 18:08:15,493 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 18:08:16,501 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 18:08:17,503 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 18:08:18,509 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 18:08:19,513 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 18:08:20,516 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 18:08:21,521 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 18:08:22,524 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 18:08:23,525 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 18:08:24,531 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 18:08:25,533 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 18:08:26,541 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 18:08:27,544 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 18:08:28,547 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 18:08:29,551 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 18:08:30,554 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 18:08:31,557 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 18:08:32,560 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 18:08:33,578 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 18:08:34,594 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 18:08:35,597 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 18:08:36,601 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 18:08:37,605 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 18:08:38,609 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 18:08:39,624 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 18:08:40,626 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 18:08:41,629 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 18:08:42,633 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 18:08:43,637 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 18:08:44,640 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 18:08:45,643 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 18:08:46,648 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 18:08:47,656 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 18:08:48,659 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 18:08:49,661 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 18:08:50,665 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 18:08:51,673 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 18:08:52,678 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 18:08:53,682 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 18:08:54,689 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 18:08:55,693 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 18:08:56,694 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 18:08:57,698 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 18:08:58,700 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 18:08:59,703 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 18:09:00,710 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 18:09:01,715 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 18:09:02,720 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 18:09:03,726 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 18:09:04,728 - INFO - Energy: 71.0, Social: 53.6, Integrity: 82.6
+2025-12-06 18:09:05,733 - INFO - Energy: 70.5, Social: 52.8, Integrity: 82.3
+2025-12-06 18:09:06,738 - INFO - Energy: 70.0, Social: 52.0, Integrity: 82.0
+2025-12-06 18:09:07,740 - INFO - Energy: 69.5, Social: 51.2, Integrity: 81.7
+2025-12-06 18:09:08,747 - INFO - Energy: 69.0, Social: 50.4, Integrity: 81.4
+2025-12-06 18:09:09,751 - INFO - Energy: 58.5, Social: 79.0, Integrity: 81.1
+2025-12-06 18:09:10,754 - INFO - Energy: 58.0, Social: 78.2, Integrity: 80.8
+2025-12-06 18:09:11,758 - INFO - Energy: 57.5, Social: 77.4, Integrity: 80.5
+2025-12-06 18:09:12,763 - INFO - Energy: 57.0, Social: 76.6, Integrity: 80.2
+2025-12-06 18:09:13,767 - INFO - Energy: 56.5, Social: 75.8, Integrity: 79.9
+2025-12-06 18:09:14,770 - INFO - Energy: 56.0, Social: 75.0, Integrity: 79.6
+2025-12-06 18:09:15,774 - INFO - Energy: 55.5, Social: 74.2, Integrity: 79.3
+2025-12-06 18:09:16,777 - INFO - Energy: 55.0, Social: 73.4, Integrity: 79.0
+2025-12-06 18:09:17,780 - INFO - Energy: 54.5, Social: 72.6, Integrity: 78.7
+2025-12-06 18:09:18,784 - INFO - Energy: 54.0, Social: 71.8, Integrity: 78.4
+2025-12-06 18:09:19,787 - INFO - Energy: 53.5, Social: 71.0, Integrity: 78.1
+2025-12-06 18:09:20,793 - INFO - Energy: 53.0, Social: 70.2, Integrity: 77.8
+2025-12-06 18:09:21,797 - INFO - Energy: 52.5, Social: 69.4, Integrity: 77.5
+2025-12-06 18:09:22,811 - INFO - Energy: 52.0, Social: 68.6, Integrity: 77.2
+2025-12-06 18:09:23,813 - INFO - Energy: 51.5, Social: 67.8, Integrity: 76.9
+2025-12-06 18:09:24,816 - INFO - Energy: 51.0, Social: 67.0, Integrity: 76.6
+2025-12-06 18:09:25,821 - INFO - Energy: 50.5, Social: 66.2, Integrity: 76.3
+2025-12-06 18:09:26,824 - INFO - Energy: 50.0, Social: 65.4, Integrity: 76.0
+2025-12-06 18:09:27,827 - INFO - Energy: 49.5, Social: 64.6, Integrity: 75.7
+2025-12-06 18:09:28,832 - INFO - Energy: 49.0, Social: 63.8, Integrity: 75.4
+2025-12-06 18:09:29,848 - INFO - Energy: 48.5, Social: 63.0, Integrity: 75.1
+2025-12-06 18:09:30,852 - INFO - Energy: 48.0, Social: 62.2, Integrity: 74.8
+2025-12-06 18:09:31,855 - INFO - Energy: 47.5, Social: 61.4, Integrity: 74.5
+2025-12-06 18:09:32,860 - INFO - Energy: 47.0, Social: 60.6, Integrity: 74.2
+2025-12-06 18:09:33,864 - INFO - Energy: 46.5, Social: 59.8, Integrity: 73.9
+2025-12-06 18:09:34,864 - INFO - Energy: 46.0, Social: 59.0, Integrity: 73.6
+2025-12-06 18:09:35,868 - INFO - Energy: 45.5, Social: 58.2, Integrity: 73.3
+2025-12-06 18:09:36,876 - INFO - Energy: 45.0, Social: 57.4, Integrity: 73.0
+2025-12-06 18:09:37,882 - INFO - Energy: 44.5, Social: 56.6, Integrity: 72.7
+2025-12-06 18:09:38,886 - INFO - Energy: 44.0, Social: 55.8, Integrity: 72.4
+2025-12-06 18:09:39,888 - INFO - Energy: 43.5, Social: 55.0, Integrity: 72.1
+2025-12-06 18:09:40,895 - INFO - Energy: 43.0, Social: 54.2, Integrity: 71.8
+2025-12-06 18:09:41,899 - INFO - Energy: 42.5, Social: 53.4, Integrity: 71.5
+2025-12-06 18:09:42,903 - INFO - Energy: 42.0, Social: 52.6, Integrity: 71.2
+2025-12-06 18:09:43,906 - INFO - Energy: 41.5, Social: 51.8, Integrity: 70.9
+2025-12-06 18:09:44,910 - INFO - Energy: 41.0, Social: 51.0, Integrity: 70.6
+2025-12-06 18:09:45,912 - INFO - Energy: 40.5, Social: 50.2, Integrity: 70.3
+2025-12-06 18:09:46,915 - INFO - Energy: 30.0, Social: 65.2, Integrity: 70.0
+2025-12-06 18:09:48,216 - INFO - response: https://www.bing.com/search?q=Analysis+of+Philosophy+of+Mind 200
+2025-12-06 18:09:48,539 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Neurology+Research 200
+2025-12-06 18:09:49,685 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Neurology+Research&first=11&FORM=PERE 200
+2025-12-06 18:09:50,704 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Neurology+Research&first=21&FORM=PERE1 200
+2025-12-06 18:09:51,707 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Neurology+Research&first=31&FORM=PERE2 200
+2025-12-06 18:09:52,792 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Neurology+Research&first=41&FORM=PERE3 200
+2025-12-06 18:09:52,967 - INFO - Energy: 37.4, Social: 64.4, Integrity: 69.7
+2025-12-06 18:09:54,274 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Philosophy+of+Mind 200
+2025-12-06 18:09:55,355 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Philosophy+of+Mind&first=11&FORM=PERE 200
+2025-12-06 18:09:56,340 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Philosophy+of+Mind&first=21&FORM=PERE1 200
+2025-12-06 18:09:57,493 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Philosophy+of+Mind&first=31&FORM=PERE2 200
+2025-12-06 18:09:58,794 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Philosophy+of+Mind&first=41&FORM=PERE3 200
+2025-12-06 18:09:58,822 - INFO - Energy: 44.7, Social: 63.6, Integrity: 69.4
+2025-12-06 18:09:59,829 - INFO - Energy: 44.2, Social: 62.8, Integrity: 69.1
+2025-12-06 18:10:00,835 - INFO - Energy: 43.7, Social: 62.0, Integrity: 68.8
+2025-12-06 18:10:01,838 - INFO - Energy: 43.2, Social: 61.2, Integrity: 68.5
+2025-12-06 18:10:02,842 - INFO - Energy: 42.7, Social: 60.4, Integrity: 68.2
+2025-12-06 18:10:03,844 - INFO - Energy: 42.2, Social: 59.6, Integrity: 67.9
+2025-12-06 18:10:04,849 - INFO - Energy: 41.7, Social: 58.8, Integrity: 67.6
+2025-12-06 18:10:05,853 - INFO - Energy: 41.2, Social: 58.0, Integrity: 67.3
+2025-12-06 18:10:06,856 - INFO - Energy: 40.7, Social: 57.2, Integrity: 67.0
+2025-12-06 18:10:07,859 - INFO - Energy: 40.2, Social: 56.4, Integrity: 66.7
+2025-12-06 18:10:08,860 - INFO - Energy: 39.7, Social: 55.6, Integrity: 66.4
+2025-12-06 18:10:09,866 - INFO - Energy: 39.2, Social: 54.8, Integrity: 66.1
+2025-12-06 18:10:10,873 - INFO - Energy: 38.7, Social: 54.0, Integrity: 65.8
+2025-12-06 18:10:11,876 - INFO - Energy: 38.2, Social: 53.2, Integrity: 65.5
+2025-12-06 18:10:12,877 - INFO - Energy: 37.7, Social: 52.4, Integrity: 65.2
+2025-12-06 18:10:13,880 - INFO - Energy: 37.2, Social: 51.6, Integrity: 64.9
+2025-12-06 18:10:14,882 - INFO - Energy: 36.7, Social: 50.8, Integrity: 64.6
+2025-12-06 18:10:15,884 - INFO - Energy: 26.2, Social: 78.5, Integrity: 64.3
+2025-12-06 18:10:17,300 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Photosynthesis+Process 200
+2025-12-06 18:10:17,699 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History 200
+2025-12-06 18:10:18,779 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History&first=11&FORM=PERE 200
+2025-12-06 18:10:19,811 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History&first=21&FORM=PERE1 200
+2025-12-06 18:10:20,954 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History&first=31&FORM=PERE2 200
+2025-12-06 18:10:21,971 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History&first=41&FORM=PERE3 200
+2025-12-06 18:10:22,002 - INFO - Energy: 34.0, Social: 77.7, Integrity: 64.0
+2025-12-06 18:10:23,246 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Neurology+Research 200
+2025-12-06 18:10:24,253 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Neurology+Research&first=11&FORM=PERE 200
+2025-12-06 18:10:25,347 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Neurology+Research&first=21&FORM=PERE1 200
+2025-12-06 18:10:26,322 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Neurology+Research&first=31&FORM=PERE2 200
+2025-12-06 18:10:27,421 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Neurology+Research&first=41&FORM=PERE3 200
+2025-12-06 18:10:27,506 - INFO - Energy: 45.3, Social: 76.9, Integrity: 63.7
+2025-12-06 18:10:28,777 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History 200
+2025-12-06 18:10:29,803 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=11&FORM=PERE 200
+2025-12-06 18:10:30,795 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=21&FORM=PERE1 200
+2025-12-06 18:10:31,803 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=31&FORM=PERE2 200
+2025-12-06 18:10:32,828 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=41&FORM=PERE3 200
+2025-12-06 18:10:32,872 - INFO - Energy: 56.7, Social: 76.1, Integrity: 63.4
+2025-12-06 18:10:33,879 - INFO - Energy: 56.2, Social: 75.3, Integrity: 63.1
+2025-12-06 18:10:34,899 - INFO - Energy: 55.7, Social: 74.5, Integrity: 62.8
+2025-12-06 18:10:35,901 - INFO - Energy: 55.2, Social: 73.7, Integrity: 62.5
+2025-12-06 18:10:36,905 - INFO - Energy: 54.7, Social: 72.9, Integrity: 62.2
+2025-12-06 18:10:37,910 - INFO - Energy: 54.2, Social: 72.1, Integrity: 61.9
+2025-12-06 18:10:38,913 - INFO - Energy: 53.7, Social: 71.3, Integrity: 61.6
+2025-12-06 18:10:39,917 - INFO - Energy: 53.2, Social: 70.5, Integrity: 61.3
+2025-12-06 18:10:40,921 - INFO - Energy: 52.7, Social: 69.7, Integrity: 61.0
+2025-12-06 18:10:41,926 - INFO - Energy: 52.2, Social: 68.9, Integrity: 60.7
+2025-12-06 18:10:42,928 - INFO - Energy: 51.7, Social: 68.1, Integrity: 60.4
+2025-12-06 18:10:43,933 - INFO - Energy: 51.2, Social: 67.3, Integrity: 60.1
+2025-12-06 18:10:44,941 - INFO - Energy: 50.7, Social: 66.5, Integrity: 59.8
+2025-12-06 18:10:45,946 - INFO - Energy: 50.2, Social: 65.7, Integrity: 59.5
+2025-12-06 18:10:46,948 - INFO - Energy: 49.7, Social: 64.9, Integrity: 59.2
+2025-12-06 18:10:47,951 - INFO - Energy: 49.2, Social: 64.1, Integrity: 58.9
+2025-12-06 18:10:48,955 - INFO - Energy: 48.7, Social: 63.3, Integrity: 58.6
+2025-12-06 18:10:49,958 - INFO - Energy: 48.2, Social: 62.5, Integrity: 58.3
+2025-12-06 18:10:50,962 - INFO - Energy: 47.7, Social: 61.7, Integrity: 58.0
+2025-12-06 18:10:51,963 - INFO - Energy: 47.2, Social: 60.9, Integrity: 57.7
+2025-12-06 18:10:52,978 - INFO - Energy: 46.7, Social: 60.1, Integrity: 57.4
+2025-12-06 18:10:53,979 - INFO - Energy: 46.2, Social: 59.3, Integrity: 57.1
+2025-12-06 18:10:54,983 - INFO - Energy: 45.7, Social: 58.5, Integrity: 56.8
+2025-12-06 18:10:55,988 - INFO - Energy: 45.2, Social: 57.7, Integrity: 56.5
+2025-12-06 18:10:56,989 - INFO - Energy: 44.7, Social: 56.9, Integrity: 56.2
+2025-12-06 18:10:57,991 - INFO - Energy: 44.2, Social: 56.1, Integrity: 55.9
+2025-12-06 18:10:58,993 - INFO - Energy: 43.7, Social: 55.3, Integrity: 55.6
+2025-12-06 18:10:59,999 - INFO - Energy: 43.2, Social: 54.5, Integrity: 55.3
+2025-12-06 18:11:01,002 - INFO - Energy: 42.7, Social: 53.7, Integrity: 55.0
+2025-12-06 18:11:02,003 - INFO - Energy: 42.2, Social: 52.9, Integrity: 54.7
+2025-12-06 18:11:03,005 - INFO - Energy: 41.7, Social: 52.1, Integrity: 54.4
+2025-12-06 18:11:04,008 - INFO - Energy: 41.2, Social: 51.3, Integrity: 54.1
+2025-12-06 18:11:05,011 - INFO - Energy: 40.7, Social: 50.5, Integrity: 53.8
+2025-12-06 18:11:06,015 - INFO - Energy: 30.2, Social: 71.0, Integrity: 53.5
+2025-12-06 18:11:07,384 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Renewable+Energy+Technologies 200
+2025-12-06 18:11:07,712 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 18:11:07,716 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind 200
+2025-12-06 18:11:08,718 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 18:11:08,724 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=11&FORM=PERE 200
+2025-12-06 18:11:09,723 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 18:11:09,812 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=21&FORM=PERE1 200
+2025-12-06 18:11:10,726 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 18:11:10,818 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=31&FORM=PERE2 200
+2025-12-06 18:11:11,730 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 18:11:11,859 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=41&FORM=PERE3 200
+2025-12-06 18:11:11,885 - INFO - Energy: 38.6, Social: 70.2, Integrity: 53.2
+2025-12-06 18:11:12,737 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 18:11:13,140 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Deep+Sea+Exploration 200
+2025-12-06 18:11:13,741 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 18:11:14,142 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Deep+Sea+Exploration&first=11&FORM=PERE 200
+2025-12-06 18:11:14,746 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 18:11:15,154 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Deep+Sea+Exploration&first=21&FORM=PERE1 200
+2025-12-06 18:11:15,781 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 18:11:16,223 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Deep+Sea+Exploration&first=31&FORM=PERE2 200
+2025-12-06 18:11:16,784 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 18:11:17,399 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Deep+Sea+Exploration&first=41&FORM=PERE3 200
+2025-12-06 18:11:17,422 - INFO - Energy: 49.9, Social: 69.4, Integrity: 52.9
+2025-12-06 18:11:17,790 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 18:11:18,423 - INFO - Energy: 49.4, Social: 68.6, Integrity: 52.6
+2025-12-06 18:11:18,794 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 18:11:19,428 - INFO - Energy: 48.9, Social: 67.8, Integrity: 52.3
+2025-12-06 18:11:19,799 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 18:11:20,432 - INFO - Energy: 48.4, Social: 67.0, Integrity: 52.0
+2025-12-06 18:11:20,803 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 18:11:21,436 - INFO - Energy: 47.9, Social: 66.2, Integrity: 51.7
+2025-12-06 18:11:21,805 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 18:11:22,439 - INFO - Energy: 47.4, Social: 65.4, Integrity: 51.4
+2025-12-06 18:11:22,808 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 18:11:23,443 - INFO - Energy: 46.9, Social: 64.6, Integrity: 51.1
+2025-12-06 18:11:23,813 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 18:11:24,447 - INFO - Energy: 46.4, Social: 63.8, Integrity: 50.8
+2025-12-06 18:11:24,818 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 18:11:25,451 - INFO - Energy: 45.9, Social: 63.0, Integrity: 50.5
+2025-12-06 18:11:25,820 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 18:11:26,455 - INFO - Energy: 45.4, Social: 62.2, Integrity: 50.2
+2025-12-06 18:11:26,827 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 18:11:27,458 - INFO - Energy: 44.9, Social: 61.4, Integrity: 49.9
+2025-12-06 18:11:27,827 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 18:11:28,461 - INFO - Energy: 44.4, Social: 60.6, Integrity: 49.6
+2025-12-06 18:11:28,832 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 18:11:30,394 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 18:11:31,397 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 18:11:32,400 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 18:11:33,416 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 18:11:34,424 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 18:11:35,430 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 18:11:36,434 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 18:11:37,441 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 18:11:38,448 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 18:11:39,452 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 18:11:40,455 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 18:11:41,456 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 18:11:42,459 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 18:11:43,474 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 18:11:44,477 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 18:11:45,493 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 18:11:46,497 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 18:11:47,507 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 18:11:48,511 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 18:11:49,517 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 18:11:50,520 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 18:11:51,524 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 18:11:52,539 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 18:11:53,546 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 18:11:54,553 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 18:11:55,560 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 18:11:56,577 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 18:11:57,582 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 18:11:58,589 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 18:11:59,594 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 18:12:00,598 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 18:12:00,894 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process 200
+2025-12-06 18:12:01,599 - INFO - Energy: 82.0, Social: 74.4, Integrity: 90.4
+2025-12-06 18:12:01,954 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:12:02,604 - INFO - Energy: 81.5, Social: 73.6, Integrity: 90.1
+2025-12-06 18:12:02,946 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:12:03,610 - INFO - Energy: 81.0, Social: 72.8, Integrity: 89.8
+2025-12-06 18:12:04,027 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:12:04,612 - INFO - Energy: 80.5, Social: 72.0, Integrity: 89.5
+2025-12-06 18:12:05,128 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:12:05,630 - INFO - Energy: 80.0, Social: 71.2, Integrity: 89.2
+2025-12-06 18:12:06,648 - INFO - Energy: 93.3, Social: 70.4, Integrity: 88.9
+2025-12-06 18:12:07,653 - INFO - Energy: 92.8, Social: 69.6, Integrity: 88.6
+2025-12-06 18:12:08,661 - INFO - Energy: 92.3, Social: 68.8, Integrity: 88.3
+2025-12-06 18:12:09,663 - INFO - Energy: 91.8, Social: 68.0, Integrity: 88.0
+2025-12-06 18:12:10,669 - INFO - Energy: 91.3, Social: 67.2, Integrity: 87.7
+2025-12-06 18:12:11,675 - INFO - Energy: 90.8, Social: 66.4, Integrity: 87.4
+2025-12-06 18:12:12,681 - INFO - Energy: 90.3, Social: 65.6, Integrity: 87.1
+2025-12-06 18:12:13,683 - INFO - Energy: 89.8, Social: 64.8, Integrity: 86.8
+2025-12-06 18:12:14,684 - INFO - Energy: 89.3, Social: 64.0, Integrity: 86.5
+2025-12-06 18:12:15,393 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind 200
+2025-12-06 18:12:15,689 - INFO - Energy: 86.8, Social: 63.2, Integrity: 86.2
+2025-12-06 18:12:16,481 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=11&FORM=PERE 200
+2025-12-06 18:12:16,692 - INFO - Energy: 86.3, Social: 62.4, Integrity: 85.9
+2025-12-06 18:12:17,536 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=21&FORM=PERE1 200
+2025-12-06 18:12:17,697 - INFO - Energy: 85.8, Social: 61.6, Integrity: 85.6
+2025-12-06 18:12:18,525 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=31&FORM=PERE2 200
+2025-12-06 18:12:18,699 - INFO - Energy: 85.3, Social: 60.8, Integrity: 85.3
+2025-12-06 18:12:19,597 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind&first=41&FORM=PERE3 200
+2025-12-06 18:12:19,705 - INFO - Energy: 95.9, Social: 60.0, Integrity: 85.0
+2025-12-06 18:12:20,707 - INFO - Energy: 95.4, Social: 59.2, Integrity: 84.7
+2025-12-06 18:12:21,709 - INFO - Energy: 94.9, Social: 58.4, Integrity: 84.4
+2025-12-06 18:12:22,713 - INFO - Energy: 94.4, Social: 57.6, Integrity: 84.1
+2025-12-06 18:12:23,719 - INFO - Energy: 93.9, Social: 56.8, Integrity: 83.8
+2025-12-06 18:12:24,721 - INFO - Energy: 93.4, Social: 56.0, Integrity: 83.5
+2025-12-06 18:12:25,738 - INFO - Energy: 92.9, Social: 55.2, Integrity: 83.2
+2025-12-06 18:12:26,739 - INFO - Energy: 92.4, Social: 54.4, Integrity: 82.9
+2025-12-06 18:12:27,744 - INFO - Energy: 91.9, Social: 53.6, Integrity: 82.6
+2025-12-06 18:12:28,748 - INFO - Energy: 91.4, Social: 52.8, Integrity: 82.3
+2025-12-06 18:12:29,753 - INFO - Energy: 90.9, Social: 52.0, Integrity: 82.0
+2025-12-06 18:12:30,758 - INFO - Energy: 88.4, Social: 51.2, Integrity: 81.7
+2025-12-06 18:12:30,925 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations 200
+2025-12-06 18:12:31,766 - INFO - Energy: 87.9, Social: 50.4, Integrity: 81.4
+2025-12-06 18:12:31,927 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=11&FORM=PERE 200
+2025-12-06 18:12:32,770 - INFO - Energy: 77.4, Social: 77.7, Integrity: 81.1
+2025-12-06 18:12:32,920 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=21&FORM=PERE1 200
+2025-12-06 18:12:33,772 - INFO - Energy: 76.9, Social: 76.9, Integrity: 80.8
+2025-12-06 18:12:33,994 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=31&FORM=PERE2 200
+2025-12-06 18:12:34,777 - INFO - Energy: 76.4, Social: 76.1, Integrity: 80.5
+2025-12-06 18:12:34,986 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=41&FORM=PERE3 200
+2025-12-06 18:12:35,784 - INFO - Energy: 86.8, Social: 75.3, Integrity: 80.2
+2025-12-06 18:12:36,789 - INFO - Energy: 86.3, Social: 74.5, Integrity: 79.9
+2025-12-06 18:12:37,793 - INFO - Energy: 85.8, Social: 73.7, Integrity: 79.6
+2025-12-06 18:12:38,797 - INFO - Energy: 85.3, Social: 72.9, Integrity: 79.3
+2025-12-06 18:12:39,800 - INFO - Energy: 84.8, Social: 72.1, Integrity: 79.0
+2025-12-06 18:12:40,806 - INFO - Energy: 84.3, Social: 71.3, Integrity: 78.7
+2025-12-06 18:12:41,811 - INFO - Energy: 83.8, Social: 70.5, Integrity: 78.4
+2025-12-06 18:12:42,815 - INFO - Energy: 83.3, Social: 69.7, Integrity: 78.1
+2025-12-06 18:12:43,820 - INFO - Energy: 82.8, Social: 68.9, Integrity: 77.8
+2025-12-06 18:12:44,826 - INFO - Energy: 82.3, Social: 68.1, Integrity: 77.5
+2025-12-06 18:12:45,830 - INFO - Energy: 81.8, Social: 67.3, Integrity: 77.2
+2025-12-06 18:12:46,833 - INFO - Energy: 79.3, Social: 66.5, Integrity: 76.9
+2025-12-06 18:12:47,165 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History 200
+2025-12-06 18:12:47,838 - INFO - Energy: 78.8, Social: 65.7, Integrity: 76.6
+2025-12-06 18:12:48,189 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Space+Exploration+History&first=11&FORM=PERE 200
+2025-12-06 18:12:48,838 - INFO - Energy: 98.0, Social: 64.9, Integrity: 76.3
+2025-12-06 18:12:49,844 - INFO - Energy: 97.5, Social: 64.1, Integrity: 76.0
+2025-12-06 18:12:50,849 - INFO - Energy: 97.0, Social: 63.3, Integrity: 75.7
+2025-12-06 18:12:51,851 - INFO - Energy: 96.5, Social: 62.5, Integrity: 75.4
+2025-12-06 18:12:52,856 - INFO - Energy: 96.0, Social: 61.7, Integrity: 75.1
+2025-12-06 18:12:53,873 - INFO - Energy: 95.5, Social: 60.9, Integrity: 74.8
+2025-12-06 18:12:54,878 - INFO - Energy: 95.0, Social: 60.1, Integrity: 74.5
+2025-12-06 18:12:55,883 - INFO - Energy: 94.5, Social: 59.3, Integrity: 74.2
+2025-12-06 18:12:56,888 - INFO - Energy: 94.0, Social: 58.5, Integrity: 73.9
+2025-12-06 18:12:57,892 - INFO - Energy: 93.5, Social: 57.7, Integrity: 73.6
+2025-12-06 18:12:58,906 - INFO - Energy: 93.0, Social: 56.9, Integrity: 73.3
+2025-12-06 18:12:59,911 - INFO - Energy: 92.5, Social: 56.1, Integrity: 73.0
+2025-12-06 18:13:00,914 - INFO - Energy: 92.0, Social: 55.3, Integrity: 72.7
+2025-12-06 18:13:01,930 - INFO - Energy: 91.5, Social: 54.5, Integrity: 72.4
+2025-12-06 18:13:02,932 - INFO - Energy: 91.0, Social: 53.7, Integrity: 72.1
+2025-12-06 18:13:03,938 - INFO - Energy: 90.5, Social: 52.9, Integrity: 71.8
+2025-12-06 18:13:04,942 - INFO - Energy: 90.0, Social: 52.1, Integrity: 71.5
+2025-12-06 18:13:05,949 - INFO - Energy: 89.5, Social: 51.3, Integrity: 71.2
+2025-12-06 18:13:06,953 - INFO - Energy: 89.0, Social: 50.5, Integrity: 70.9
+2025-12-06 18:13:07,956 - INFO - Energy: 78.5, Social: 75.4, Integrity: 70.6
+2025-12-06 18:13:08,964 - INFO - Energy: 78.0, Social: 74.6, Integrity: 70.3
+2025-12-06 18:13:09,968 - INFO - Energy: 77.5, Social: 73.8, Integrity: 70.0
+2025-12-06 18:13:10,973 - INFO - Energy: 77.0, Social: 73.0, Integrity: 69.7
+2025-12-06 18:13:11,975 - INFO - Energy: 76.5, Social: 72.2, Integrity: 69.4
+2025-12-06 18:13:13,022 - INFO - Energy: 76.0, Social: 71.4, Integrity: 69.1
+2025-12-06 18:13:14,039 - INFO - Energy: 75.5, Social: 70.6, Integrity: 68.8
+2025-12-06 18:13:15,041 - INFO - Energy: 75.0, Social: 69.8, Integrity: 68.5
+2025-12-06 18:13:16,044 - INFO - Energy: 74.5, Social: 69.0, Integrity: 68.2
+2025-12-06 18:13:17,045 - INFO - Energy: 74.0, Social: 68.2, Integrity: 67.9
+2025-12-06 18:13:18,048 - INFO - Energy: 73.5, Social: 67.4, Integrity: 67.6
+2025-12-06 18:13:19,049 - INFO - Energy: 73.0, Social: 66.6, Integrity: 67.3
+2025-12-06 18:13:20,065 - INFO - Energy: 72.5, Social: 65.8, Integrity: 67.0
+2025-12-06 18:13:21,075 - INFO - Energy: 72.0, Social: 65.0, Integrity: 66.7
+2025-12-06 18:13:22,089 - INFO - Energy: 71.5, Social: 64.2, Integrity: 66.4
+2025-12-06 18:13:23,095 - INFO - Energy: 71.0, Social: 63.4, Integrity: 66.1
+2025-12-06 18:13:24,099 - INFO - Energy: 70.5, Social: 62.6, Integrity: 65.8
+2025-12-06 18:13:25,102 - INFO - Energy: 70.0, Social: 61.8, Integrity: 65.5
+2025-12-06 18:13:26,117 - INFO - Energy: 69.5, Social: 61.0, Integrity: 65.2
+2025-12-06 18:13:27,122 - INFO - Energy: 69.0, Social: 60.2, Integrity: 64.9
+2025-12-06 18:13:28,129 - INFO - Energy: 68.5, Social: 59.4, Integrity: 64.6
+2025-12-06 18:13:29,144 - INFO - Energy: 68.0, Social: 58.6, Integrity: 64.3
+2025-12-06 18:13:30,149 - INFO - Energy: 67.5, Social: 57.8, Integrity: 64.0
+2025-12-06 18:13:31,167 - INFO - Energy: 67.0, Social: 57.0, Integrity: 63.7
+2025-12-06 18:13:32,173 - INFO - Energy: 66.5, Social: 56.2, Integrity: 63.4
+2025-12-06 18:13:33,178 - INFO - Energy: 66.0, Social: 55.4, Integrity: 63.1
+2025-12-06 18:13:34,183 - INFO - Energy: 65.5, Social: 54.6, Integrity: 62.8
+2025-12-06 18:13:35,186 - INFO - Energy: 65.0, Social: 53.8, Integrity: 62.5
+2025-12-06 18:13:36,190 - INFO - Energy: 64.5, Social: 53.0, Integrity: 62.2
+2025-12-06 18:13:37,195 - INFO - Energy: 64.0, Social: 52.2, Integrity: 61.9
+2025-12-06 18:13:38,203 - INFO - Energy: 63.5, Social: 51.4, Integrity: 61.6
+2025-12-06 18:13:39,206 - INFO - Energy: 63.0, Social: 50.6, Integrity: 61.3
+2025-12-06 18:13:40,212 - INFO - Energy: 52.5, Social: 73.0, Integrity: 61.0
+2025-12-06 18:13:41,216 - INFO - Energy: 52.0, Social: 72.2, Integrity: 60.7
+2025-12-06 18:13:42,223 - INFO - Energy: 51.5, Social: 71.4, Integrity: 60.4
+2025-12-06 18:13:43,227 - INFO - Energy: 51.0, Social: 70.6, Integrity: 60.1
+2025-12-06 18:13:44,232 - INFO - Energy: 50.5, Social: 69.8, Integrity: 59.8
+2025-12-06 18:13:45,233 - INFO - Energy: 50.0, Social: 69.0, Integrity: 59.5
+2025-12-06 18:13:46,237 - INFO - Energy: 49.5, Social: 68.2, Integrity: 59.2
+2025-12-06 18:13:47,241 - INFO - Energy: 49.0, Social: 67.4, Integrity: 58.9
+2025-12-06 18:13:48,244 - INFO - Energy: 48.5, Social: 66.6, Integrity: 58.6
+2025-12-06 18:13:49,248 - INFO - Energy: 48.0, Social: 65.8, Integrity: 58.3
+2025-12-06 18:13:50,253 - INFO - Energy: 47.5, Social: 65.0, Integrity: 58.0
+2025-12-06 18:13:51,256 - INFO - Energy: 47.0, Social: 64.2, Integrity: 57.7
+2025-12-06 18:13:52,259 - INFO - Energy: 46.5, Social: 63.4, Integrity: 57.4
+2025-12-06 18:13:53,260 - INFO - Energy: 46.0, Social: 62.6, Integrity: 57.1
+2025-12-06 18:13:54,265 - INFO - Energy: 45.5, Social: 61.8, Integrity: 56.8
+2025-12-06 18:13:55,268 - INFO - Energy: 45.0, Social: 61.0, Integrity: 56.5
+2025-12-06 18:13:56,273 - INFO - Energy: 44.5, Social: 60.2, Integrity: 56.2
+2025-12-06 18:13:57,276 - INFO - Energy: 44.0, Social: 59.4, Integrity: 55.9
+2025-12-06 18:13:58,281 - INFO - Energy: 43.5, Social: 58.6, Integrity: 55.6
+2025-12-06 18:13:59,283 - INFO - Energy: 43.0, Social: 57.8, Integrity: 55.3
+2025-12-06 18:14:00,287 - INFO - Energy: 42.5, Social: 57.0, Integrity: 55.0
+2025-12-06 18:14:01,294 - INFO - Energy: 42.0, Social: 56.2, Integrity: 54.7
+2025-12-06 18:14:02,298 - INFO - Energy: 41.5, Social: 55.4, Integrity: 54.4
+2025-12-06 18:14:03,303 - INFO - Energy: 41.0, Social: 54.6, Integrity: 54.1
+2025-12-06 18:14:04,305 - INFO - Energy: 40.5, Social: 53.8, Integrity: 53.8
+2025-12-06 18:14:05,310 - INFO - Energy: 40.0, Social: 53.0, Integrity: 53.5
+2025-12-06 18:14:06,313 - INFO - Energy: 39.5, Social: 52.2, Integrity: 53.2
+2025-12-06 18:14:07,319 - INFO - Energy: 39.0, Social: 51.4, Integrity: 52.9
+2025-12-06 18:14:08,322 - INFO - Energy: 38.5, Social: 50.6, Integrity: 52.6
+2025-12-06 18:14:09,327 - INFO - Energy: 28.0, Social: 68.0, Integrity: 52.3
+2025-12-06 18:14:10,702 - INFO - response: https://www.bing.com/search?q=Analysis+of+Deep+Sea+Exploration 200
+2025-12-06 18:14:10,961 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing 200
+2025-12-06 18:14:11,317 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Photosynthesis+Process 200
+2025-12-06 18:14:11,421 - INFO - Energy: 40.0, Social: 67.2, Integrity: 52.0
+2025-12-06 18:14:12,833 - INFO - response: https://www.bing.com/search?q=Analysis+of+Cognitive+Science 200
+2025-12-06 18:14:13,425 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends 200
+2025-12-06 18:14:13,878 - INFO - response: https://www.bing.com/search?q=Analysis+of+Renewable+Energy+Technologies 200
+2025-12-06 18:14:14,945 - INFO - response: https://www.bing.com/search?q=Analysis+of+Renewable+Energy+Technologies&first=11&FORM=PERE 200
+2025-12-06 18:14:16,361 - INFO - response: https://www.bing.com/search?q=Analysis+of+Renewable+Energy+Technologies&first=21&FORM=PERE1 200
+2025-12-06 18:14:17,359 - INFO - response: https://www.bing.com/search?q=Analysis+of+Renewable+Energy+Technologies&first=31&FORM=PERE2 200
+2025-12-06 18:14:18,422 - INFO - response: https://www.bing.com/search?q=Analysis+of+Renewable+Energy+Technologies&first=41&FORM=PERE3 200
+2025-12-06 18:14:18,465 - INFO - Energy: 55.9, Social: 66.4, Integrity: 51.7
+2025-12-06 18:14:19,479 - INFO - Energy: 55.4, Social: 65.6, Integrity: 51.4
+2025-12-06 18:14:20,483 - INFO - Energy: 54.9, Social: 64.8, Integrity: 51.1
+2025-12-06 18:14:21,486 - INFO - Energy: 54.4, Social: 64.0, Integrity: 50.8
+2025-12-06 18:14:22,494 - INFO - Energy: 53.9, Social: 63.2, Integrity: 50.5
+2025-12-06 18:14:23,496 - INFO - Energy: 53.4, Social: 62.4, Integrity: 50.2
+2025-12-06 18:14:24,499 - INFO - Energy: 52.9, Social: 61.6, Integrity: 49.9
+2025-12-06 18:14:25,502 - INFO - Energy: 52.4, Social: 60.8, Integrity: 49.6
+2025-12-06 18:14:26,517 - INFO - Energy: 51.9, Social: 60.0, Integrity: 49.3
+2025-12-06 18:14:27,526 - INFO - Energy: 51.4, Social: 59.2, Integrity: 49.0
+2025-12-06 18:14:28,531 - INFO - Energy: 50.9, Social: 58.4, Integrity: 48.7
+2025-12-06 18:14:29,537 - INFO - Energy: 50.4, Social: 57.6, Integrity: 48.4
+2025-12-06 18:14:30,541 - INFO - Energy: 49.9, Social: 56.8, Integrity: 48.1
+2025-12-06 18:14:31,547 - INFO - Energy: 49.4, Social: 56.0, Integrity: 47.8
+2025-12-06 18:14:32,562 - INFO - Energy: 48.9, Social: 55.2, Integrity: 47.5
+2025-12-06 18:14:33,567 - INFO - Energy: 48.4, Social: 54.4, Integrity: 47.2
+2025-12-06 18:14:34,570 - INFO - Energy: 47.9, Social: 53.6, Integrity: 46.9
+2025-12-06 18:14:35,574 - INFO - Energy: 47.4, Social: 52.8, Integrity: 46.6
+2025-12-06 18:14:36,589 - INFO - Energy: 46.9, Social: 52.0, Integrity: 46.3
+2025-12-06 18:14:37,594 - INFO - Energy: 46.4, Social: 51.2, Integrity: 46.0
+2025-12-06 18:14:38,598 - INFO - Energy: 45.9, Social: 50.4, Integrity: 45.7
+2025-12-06 18:14:39,614 - INFO - Energy: 35.4, Social: 70.9, Integrity: 45.4
+2025-12-06 18:14:40,893 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Neurology+Research 200
+2025-12-06 18:14:41,269 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies 200
+2025-12-06 18:14:42,303 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies&first=11&FORM=PERE 200
+2025-12-06 18:14:43,422 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies&first=21&FORM=PERE1 200
+2025-12-06 18:14:44,435 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies&first=31&FORM=PERE2 200
+2025-12-06 18:14:45,467 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Renewable+Energy+Technologies&first=41&FORM=PERE3 200
+2025-12-06 18:14:45,541 - INFO - Energy: 44.4, Social: 70.1, Integrity: 45.1
+2025-12-06 18:14:46,553 - INFO - Energy: 43.9, Social: 69.3, Integrity: 44.8
+2025-12-06 18:14:47,558 - INFO - Energy: 43.4, Social: 68.5, Integrity: 44.5
+2025-12-06 18:14:48,574 - INFO - Energy: 42.9, Social: 67.7, Integrity: 44.2
+2025-12-06 18:14:49,579 - INFO - Energy: 42.4, Social: 66.9, Integrity: 43.9
+2025-12-06 18:14:50,582 - INFO - Energy: 41.9, Social: 66.1, Integrity: 43.6
+2025-12-06 18:14:51,584 - INFO - Energy: 41.4, Social: 65.3, Integrity: 43.3
+2025-12-06 18:14:52,591 - INFO - Energy: 40.9, Social: 64.5, Integrity: 43.0
+2025-12-06 18:14:53,595 - INFO - Energy: 40.4, Social: 63.7, Integrity: 42.7
+2025-12-06 18:14:54,597 - INFO - Energy: 39.9, Social: 62.9, Integrity: 42.4
+2025-12-06 18:14:55,603 - INFO - Energy: 39.4, Social: 62.1, Integrity: 42.1
+2025-12-06 18:14:56,605 - INFO - Energy: 38.9, Social: 61.3, Integrity: 41.8
+2025-12-06 18:14:57,623 - INFO - Energy: 38.4, Social: 60.5, Integrity: 41.5
+2025-12-06 18:14:58,639 - INFO - Energy: 37.9, Social: 59.7, Integrity: 41.2
+2025-12-06 18:14:59,643 - INFO - Energy: 37.4, Social: 58.9, Integrity: 40.9
+2025-12-06 18:15:00,660 - INFO - Energy: 36.9, Social: 58.1, Integrity: 40.6
+2025-12-06 18:15:01,667 - INFO - Energy: 36.4, Social: 57.3, Integrity: 40.3
+2025-12-06 18:15:02,682 - INFO - Energy: 35.9, Social: 56.5, Integrity: 40.0
+2025-12-06 18:15:03,688 - INFO - Energy: 35.4, Social: 55.7, Integrity: 39.7
+2025-12-06 18:15:04,691 - INFO - Energy: 34.9, Social: 54.9, Integrity: 39.4
+2025-12-06 18:15:05,708 - INFO - Energy: 34.4, Social: 54.1, Integrity: 39.1
+2025-12-06 18:15:06,713 - INFO - Energy: 33.9, Social: 53.3, Integrity: 38.8
+2025-12-06 18:15:07,716 - INFO - Energy: 33.4, Social: 52.5, Integrity: 38.5
+2025-12-06 18:15:08,719 - INFO - Energy: 32.9, Social: 51.7, Integrity: 38.2
+2025-12-06 18:15:10,005 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics 200
+2025-12-06 18:15:11,036 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=11&FORM=PERE 200
+2025-12-06 18:15:12,113 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=21&FORM=PERE1 200
+2025-12-06 18:15:13,148 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=31&FORM=PERE2 200
+2025-12-06 18:15:14,325 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=41&FORM=PERE3 200
+2025-12-06 18:15:14,367 - INFO - Energy: 36.6, Social: 50.9, Integrity: 37.9
+2025-12-06 18:15:15,624 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process 200
+2025-12-06 18:15:16,637 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:15:17,681 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:15:18,713 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:15:20,044 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:15:20,113 - INFO - Energy: 50.6, Social: 50.1, Integrity: 37.6
+2025-12-06 18:15:21,123 - INFO - Energy: 40.1, Social: 77.5, Integrity: 37.3
+2025-12-06 18:15:22,367 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Deep+Sea+Exploration 200
+2025-12-06 18:15:22,648 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Cognitive+Science 200
+2025-12-06 18:15:22,907 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration 200
+2025-12-06 18:15:23,906 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=11&FORM=PERE 200
+2025-12-06 18:15:24,994 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=21&FORM=PERE1 200
+2025-12-06 18:15:26,207 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=31&FORM=PERE2 200
+2025-12-06 18:15:27,454 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=41&FORM=PERE3 200
+2025-12-06 18:15:27,509 - INFO - Energy: 53.3, Social: 76.7, Integrity: 37.0
+2025-12-06 18:15:28,903 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics 200
+2025-12-06 18:15:29,917 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=11&FORM=PERE 200
+2025-12-06 18:15:30,957 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=21&FORM=PERE1 200
+2025-12-06 18:15:32,054 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=31&FORM=PERE2 200
+2025-12-06 18:15:33,351 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=41&FORM=PERE3 200
+2025-12-06 18:15:33,454 - INFO - Energy: 63.7, Social: 75.9, Integrity: 36.7
+2025-12-06 18:15:34,460 - INFO - Energy: 63.2, Social: 75.1, Integrity: 36.4
+2025-12-06 18:15:35,465 - INFO - Energy: 62.7, Social: 74.3, Integrity: 36.1
+2025-12-06 18:15:36,469 - INFO - Energy: 62.2, Social: 73.5, Integrity: 35.8
+2025-12-06 18:15:37,503 - INFO - Energy: 61.7, Social: 72.7, Integrity: 35.5
+2025-12-06 18:15:38,505 - INFO - Energy: 61.2, Social: 71.9, Integrity: 35.2
+2025-12-06 18:15:39,512 - INFO - Energy: 60.7, Social: 71.1, Integrity: 34.9
+2025-12-06 18:15:40,515 - INFO - Energy: 60.2, Social: 70.3, Integrity: 34.6
+2025-12-06 18:15:41,520 - INFO - Energy: 59.7, Social: 69.5, Integrity: 34.3
+2025-12-06 18:15:42,526 - INFO - Energy: 59.2, Social: 68.7, Integrity: 34.0
+2025-12-06 18:15:43,531 - INFO - Energy: 58.7, Social: 67.9, Integrity: 33.7
+2025-12-06 18:15:44,534 - INFO - Energy: 58.2, Social: 67.1, Integrity: 33.4
+2025-12-06 18:15:45,550 - INFO - Energy: 57.7, Social: 66.3, Integrity: 33.1
+2025-12-06 18:15:46,554 - INFO - Energy: 57.2, Social: 65.5, Integrity: 32.8
+2025-12-06 18:15:47,570 - INFO - Energy: 56.7, Social: 64.7, Integrity: 32.5
+2025-12-06 18:15:48,572 - INFO - Energy: 56.2, Social: 63.9, Integrity: 32.2
+2025-12-06 18:15:49,575 - INFO - Energy: 55.7, Social: 63.1, Integrity: 31.9
+2025-12-06 18:15:50,577 - INFO - Energy: 55.2, Social: 62.3, Integrity: 31.6
+2025-12-06 18:15:51,585 - INFO - Energy: 54.7, Social: 61.5, Integrity: 31.3
+2025-12-06 18:15:52,589 - INFO - Energy: 54.2, Social: 60.7, Integrity: 31.0
+2025-12-06 18:15:53,593 - INFO - Energy: 53.7, Social: 59.9, Integrity: 30.7
+2025-12-06 18:15:54,595 - INFO - Energy: 53.2, Social: 59.1, Integrity: 30.4
+2025-12-06 18:15:55,602 - INFO - Energy: 52.7, Social: 58.3, Integrity: 30.1
+2025-12-06 18:15:56,619 - INFO - Energy: 52.2, Social: 57.5, Integrity: 29.8
+2025-12-06 18:15:57,622 - INFO - Energy: 51.7, Social: 56.7, Integrity: 29.5
+2025-12-06 18:15:58,637 - INFO - Energy: 51.2, Social: 55.9, Integrity: 29.2
+2025-12-06 18:15:59,641 - INFO - Energy: 50.7, Social: 55.1, Integrity: 28.9
+2025-12-06 18:16:00,674 - INFO - Energy: 50.2, Social: 54.3, Integrity: 28.6
+2025-12-06 18:16:01,679 - INFO - Energy: 49.7, Social: 53.5, Integrity: 28.3
+2025-12-06 18:16:02,681 - INFO - Energy: 49.2, Social: 52.7, Integrity: 28.0
+2025-12-06 18:16:03,684 - INFO - Energy: 48.7, Social: 51.9, Integrity: 27.7
+2025-12-06 18:16:04,691 - INFO - Energy: 48.2, Social: 51.1, Integrity: 27.4
+2025-12-06 18:16:05,693 - INFO - Energy: 47.7, Social: 50.3, Integrity: 27.1
+2025-12-06 18:16:06,696 - INFO - Energy: 37.2, Social: 71.8, Integrity: 26.8
+2025-12-06 18:16:07,937 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Neurology+Research 200
+2025-12-06 18:16:08,980 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Neurology+Research&first=11&FORM=PERE 200
+2025-12-06 18:16:09,980 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Neurology+Research&first=21&FORM=PERE1 200
+2025-12-06 18:16:11,013 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Neurology+Research&first=31&FORM=PERE2 200
+2025-12-06 18:16:12,034 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Neurology+Research&first=41&FORM=PERE3 200
+2025-12-06 18:16:12,089 - INFO - Energy: 39.1, Social: 71.0, Integrity: 26.5
+2025-12-06 18:16:13,332 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Deep+Sea+Exploration 200
+2025-12-06 18:16:13,743 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms 200
+2025-12-06 18:16:14,911 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms&first=11&FORM=PERE 200
+2025-12-06 18:16:15,906 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms&first=21&FORM=PERE1 200
+2025-12-06 18:16:16,913 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms&first=31&FORM=PERE2 200
+2025-12-06 18:16:18,019 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Machine+Learning+Algorithms&first=41&FORM=PERE3 200
+2025-12-06 18:16:18,024 - INFO - Energy: 41.7, Social: 70.2, Integrity: 26.2
+2025-12-06 18:16:19,310 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering 200
+2025-12-06 18:16:20,342 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=11&FORM=PERE 200
+2025-12-06 18:16:21,360 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=21&FORM=PERE1 200
+2025-12-06 18:16:22,684 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=31&FORM=PERE2 200
+2025-12-06 18:16:22,891 - INFO - Energy: 57.2, Social: 69.4, Integrity: 25.9
+2025-12-06 18:16:23,904 - INFO - Energy: 56.7, Social: 68.6, Integrity: 25.6
+2025-12-06 18:16:24,906 - INFO - Energy: 56.2, Social: 67.8, Integrity: 25.3
+2025-12-06 18:16:25,911 - INFO - Energy: 55.7, Social: 67.0, Integrity: 25.0
+2025-12-06 18:16:26,917 - INFO - Energy: 55.2, Social: 66.2, Integrity: 24.7
+2025-12-06 18:16:27,936 - INFO - Energy: 54.7, Social: 65.4, Integrity: 24.4
+2025-12-06 18:16:28,938 - INFO - Energy: 54.2, Social: 64.6, Integrity: 24.1
+2025-12-06 18:16:29,939 - INFO - Energy: 53.7, Social: 63.8, Integrity: 23.8
+2025-12-06 18:16:30,946 - INFO - Energy: 53.2, Social: 63.0, Integrity: 23.5
+2025-12-06 18:16:31,952 - INFO - Energy: 52.7, Social: 62.2, Integrity: 23.2
+2025-12-06 18:16:32,958 - INFO - Energy: 52.2, Social: 61.4, Integrity: 22.9
+2025-12-06 18:16:33,961 - INFO - Energy: 51.7, Social: 60.6, Integrity: 22.6
+2025-12-06 18:16:34,978 - INFO - Energy: 51.2, Social: 59.8, Integrity: 22.3
+2025-12-06 18:16:35,982 - INFO - Energy: 50.7, Social: 59.0, Integrity: 22.0
+2025-12-06 18:16:36,986 - INFO - Energy: 50.2, Social: 58.2, Integrity: 21.7
+2025-12-06 18:16:37,989 - INFO - Energy: 49.7, Social: 57.4, Integrity: 21.4
+2025-12-06 18:16:38,997 - INFO - Energy: 49.2, Social: 56.6, Integrity: 21.1
+2025-12-06 18:16:40,003 - INFO - Energy: 48.7, Social: 55.8, Integrity: 20.8
+2025-12-06 18:16:41,006 - INFO - Energy: 48.2, Social: 55.0, Integrity: 20.5
+2025-12-06 18:16:42,010 - INFO - Energy: 47.7, Social: 54.2, Integrity: 20.2
+2025-12-06 18:16:43,013 - INFO - Energy: 42.2, Social: 53.4, Integrity: 19.9
+2025-12-06 18:16:43,014 - WARNING - VIOLATION: Integrity is below threshold (19.9 < 20.0)
+2025-12-06 18:16:44,017 - INFO - Energy: 41.7, Social: 52.6, Integrity: 20.5
+2025-12-06 18:16:45,033 - INFO - Energy: 41.2, Social: 51.8, Integrity: 21.1
+2025-12-06 18:16:46,036 - INFO - Energy: 40.7, Social: 51.0, Integrity: 21.7
+2025-12-06 18:16:47,044 - INFO - Energy: 40.2, Social: 50.2, Integrity: 22.3
+2025-12-06 18:16:48,051 - INFO - Energy: 39.7, Social: 49.4, Integrity: 22.9
+2025-12-06 18:16:48,052 - WARNING - VIOLATION: Social is below threshold (49.4 < 50.0)
+2025-12-06 18:16:49,056 - INFO - Energy: 39.2, Social: 48.6, Integrity: 23.5
+2025-12-06 18:16:49,056 - WARNING - VIOLATION: Social is below threshold (48.6 < 50.0)
+2025-12-06 18:16:50,059 - INFO - Energy: 38.7, Social: 47.8, Integrity: 24.1
+2025-12-06 18:16:50,059 - WARNING - VIOLATION: Social is below threshold (47.8 < 50.0)
+2025-12-06 18:16:51,063 - INFO - Energy: 38.2, Social: 47.0, Integrity: 24.7
+2025-12-06 18:16:51,063 - WARNING - VIOLATION: Social is below threshold (47.0 < 50.0)
+2025-12-06 18:16:52,065 - INFO - Energy: 37.7, Social: 46.2, Integrity: 25.3
+2025-12-06 18:16:52,066 - WARNING - VIOLATION: Social is below threshold (46.2 < 50.0)
+2025-12-06 18:16:53,083 - INFO - Energy: 37.2, Social: 45.4, Integrity: 25.9
+2025-12-06 18:16:53,083 - WARNING - VIOLATION: Social is below threshold (45.4 < 50.0)
+2025-12-06 18:16:54,087 - INFO - Energy: 36.7, Social: 44.6, Integrity: 26.5
+2025-12-06 18:16:54,087 - WARNING - VIOLATION: Social is below threshold (44.6 < 50.0)
+2025-12-06 18:16:55,093 - INFO - Energy: 36.2, Social: 43.8, Integrity: 27.1
+2025-12-06 18:16:55,093 - WARNING - VIOLATION: Social is below threshold (43.8 < 50.0)
+2025-12-06 18:16:56,098 - INFO - Energy: 35.7, Social: 43.0, Integrity: 27.7
+2025-12-06 18:16:56,099 - WARNING - VIOLATION: Social is below threshold (43.0 < 50.0)
+2025-12-06 18:16:57,101 - INFO - Energy: 35.2, Social: 42.2, Integrity: 28.3
+2025-12-06 18:16:57,101 - WARNING - VIOLATION: Social is below threshold (42.2 < 50.0)
+2025-12-06 18:16:58,106 - INFO - Energy: 34.7, Social: 41.4, Integrity: 28.9
+2025-12-06 18:16:58,106 - WARNING - VIOLATION: Social is below threshold (41.4 < 50.0)
+2025-12-06 18:16:59,108 - INFO - Energy: 34.2, Social: 40.6, Integrity: 29.5
+2025-12-06 18:16:59,108 - WARNING - VIOLATION: Social is below threshold (40.6 < 50.0)
+2025-12-06 18:17:00,112 - INFO - Energy: 33.7, Social: 39.8, Integrity: 30.1
+2025-12-06 18:17:00,112 - WARNING - VIOLATION: Social is below threshold (39.8 < 50.0)
+2025-12-06 18:17:01,128 - INFO - Energy: 33.2, Social: 39.0, Integrity: 30.7
+2025-12-06 18:17:01,128 - WARNING - VIOLATION: Social is below threshold (39.0 < 50.0)
+2025-12-06 18:17:02,132 - INFO - Energy: 32.7, Social: 38.2, Integrity: 31.3
+2025-12-06 18:17:02,132 - WARNING - VIOLATION: Social is below threshold (38.2 < 50.0)
+2025-12-06 18:17:03,134 - INFO - Energy: 32.2, Social: 37.4, Integrity: 31.9
+2025-12-06 18:17:03,135 - WARNING - VIOLATION: Social is below threshold (37.4 < 50.0)
+2025-12-06 18:17:04,136 - INFO - Energy: 31.7, Social: 36.6, Integrity: 32.5
+2025-12-06 18:17:04,136 - WARNING - VIOLATION: Social is below threshold (36.6 < 50.0)
+2025-12-06 18:17:05,140 - INFO - Energy: 31.2, Social: 35.8, Integrity: 33.1
+2025-12-06 18:17:05,140 - WARNING - VIOLATION: Social is below threshold (35.8 < 50.0)
+2025-12-06 18:17:06,148 - INFO - Energy: 30.7, Social: 35.0, Integrity: 33.7
+2025-12-06 18:17:06,148 - WARNING - VIOLATION: Social is below threshold (35.0 < 50.0)
+2025-12-06 18:17:07,152 - INFO - Energy: 30.2, Social: 34.2, Integrity: 34.3
+2025-12-06 18:17:07,152 - WARNING - VIOLATION: Social is below threshold (34.2 < 50.0)
+2025-12-06 18:17:08,155 - INFO - Energy: 29.7, Social: 33.4, Integrity: 34.9
+2025-12-06 18:17:08,155 - WARNING - VIOLATION: Social is below threshold (33.4 < 50.0)
+2025-12-06 18:17:09,160 - INFO - Energy: 29.2, Social: 32.6, Integrity: 35.5
+2025-12-06 18:17:09,191 - WARNING - VIOLATION: Social is below threshold (32.6 < 50.0)
+2025-12-06 18:17:10,195 - INFO - Energy: 28.7, Social: 31.8, Integrity: 36.1
+2025-12-06 18:17:10,196 - WARNING - VIOLATION: Social is below threshold (31.8 < 50.0)
+2025-12-06 18:17:11,198 - INFO - Energy: 28.2, Social: 31.0, Integrity: 36.7
+2025-12-06 18:17:11,199 - WARNING - VIOLATION: Social is below threshold (31.0 < 50.0)
+2025-12-06 18:17:12,201 - INFO - Energy: 27.7, Social: 30.2, Integrity: 37.3
+2025-12-06 18:17:12,201 - WARNING - VIOLATION: Social is below threshold (30.2 < 50.0)
+2025-12-06 18:17:13,205 - INFO - Energy: 27.2, Social: 29.4, Integrity: 37.9
+2025-12-06 18:17:13,205 - WARNING - VIOLATION: Social is below threshold (29.4 < 50.0)
+2025-12-06 18:17:14,207 - INFO - Energy: 26.7, Social: 28.6, Integrity: 38.5
+2025-12-06 18:17:14,207 - WARNING - VIOLATION: Social is below threshold (28.6 < 50.0)
+2025-12-06 18:17:15,215 - INFO - Energy: 26.2, Social: 27.8, Integrity: 39.1
+2025-12-06 18:17:15,215 - WARNING - VIOLATION: Social is below threshold (27.8 < 50.0)
+2025-12-06 18:17:16,218 - INFO - Energy: 25.7, Social: 27.0, Integrity: 39.7
+2025-12-06 18:17:16,218 - WARNING - VIOLATION: Social is below threshold (27.0 < 50.0)
+2025-12-06 18:17:17,479 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies 200
+2025-12-06 18:17:18,504 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=11&FORM=PERE 200
+2025-12-06 18:17:19,673 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=21&FORM=PERE1 200
+2025-12-06 18:17:20,855 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=31&FORM=PERE2 200
+2025-12-06 18:17:21,831 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Renewable+Energy+Technologies&first=41&FORM=PERE3 200
+2025-12-06 18:17:21,890 - INFO - Energy: 30.7, Social: 26.2, Integrity: 39.9
+2025-12-06 18:17:21,890 - WARNING - VIOLATION: Social is below threshold (26.2 < 50.0)
+2025-12-06 18:17:22,894 - INFO - Energy: 20.2, Social: 52.3, Integrity: 39.6
+2025-12-06 18:17:24,153 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration 200
+2025-12-06 18:17:25,181 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=11&FORM=PERE 200
+2025-12-06 18:17:26,244 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=21&FORM=PERE1 200
+2025-12-06 18:17:27,259 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration&first=31&FORM=PERE2 200
+2025-12-06 18:26:11,655 - INFO - Energy: 99.5, Social: 99.2, Integrity: 99.7
+2025-12-06 18:26:12,658 - INFO - Energy: 99.0, Social: 98.4, Integrity: 99.4
+2025-12-06 18:26:13,662 - INFO - Energy: 98.5, Social: 97.6, Integrity: 99.1
+2025-12-06 18:26:14,670 - INFO - Energy: 98.0, Social: 96.8, Integrity: 98.8
+2025-12-06 18:26:15,672 - INFO - Energy: 97.5, Social: 96.0, Integrity: 98.5
+2025-12-06 18:26:16,679 - INFO - Energy: 97.0, Social: 95.2, Integrity: 98.2
+2025-12-06 18:26:17,682 - INFO - Energy: 96.5, Social: 94.4, Integrity: 97.9
+2025-12-06 18:26:18,687 - INFO - Energy: 96.0, Social: 93.6, Integrity: 97.6
+2025-12-06 18:26:19,689 - INFO - Energy: 95.5, Social: 92.8, Integrity: 97.3
+2025-12-06 18:26:20,705 - INFO - Energy: 95.0, Social: 92.0, Integrity: 97.0
+2025-12-06 18:26:21,709 - INFO - Energy: 94.5, Social: 91.2, Integrity: 96.7
+2025-12-06 18:26:22,716 - INFO - Energy: 94.0, Social: 90.4, Integrity: 96.4
+2025-12-06 18:26:23,718 - INFO - Energy: 93.5, Social: 89.6, Integrity: 96.1
+2025-12-06 18:26:24,721 - INFO - Energy: 93.0, Social: 88.8, Integrity: 95.8
+2025-12-06 18:26:25,738 - INFO - Energy: 92.5, Social: 88.0, Integrity: 95.5
+2025-12-06 18:26:26,771 - INFO - Energy: 92.0, Social: 87.2, Integrity: 95.2
+2025-12-06 18:26:27,776 - INFO - Energy: 91.5, Social: 86.4, Integrity: 94.9
+2025-12-06 18:26:28,779 - INFO - Energy: 91.0, Social: 85.6, Integrity: 94.6
+2025-12-06 18:26:29,783 - INFO - Energy: 90.5, Social: 84.8, Integrity: 94.3
+2025-12-06 18:26:30,789 - INFO - Energy: 90.0, Social: 84.0, Integrity: 94.0
+2025-12-06 18:26:31,791 - INFO - Energy: 89.5, Social: 83.2, Integrity: 93.7
+2025-12-06 18:26:32,796 - INFO - Energy: 89.0, Social: 82.4, Integrity: 93.4
+2025-12-06 18:26:33,800 - INFO - Energy: 88.5, Social: 81.6, Integrity: 93.1
+2025-12-06 18:26:34,804 - INFO - Energy: 88.0, Social: 80.8, Integrity: 92.8
+2025-12-06 18:26:35,810 - INFO - Energy: 87.5, Social: 80.0, Integrity: 92.5
+2025-12-06 18:26:36,813 - INFO - Energy: 87.0, Social: 79.2, Integrity: 92.2
+2025-12-06 18:26:37,817 - INFO - Energy: 86.5, Social: 78.4, Integrity: 91.9
+2025-12-06 18:26:38,822 - INFO - Energy: 86.0, Social: 77.6, Integrity: 91.6
+2025-12-06 18:26:39,826 - INFO - Energy: 85.5, Social: 76.8, Integrity: 91.3
+2025-12-06 18:26:40,830 - INFO - Energy: 85.0, Social: 76.0, Integrity: 91.0
+2025-12-06 18:26:41,833 - INFO - Energy: 84.5, Social: 75.2, Integrity: 90.7
+2025-12-06 18:26:42,837 - INFO - Energy: 84.0, Social: 74.4, Integrity: 90.4
+2025-12-06 18:26:43,842 - INFO - Energy: 83.5, Social: 73.6, Integrity: 90.1
+2025-12-06 18:26:44,847 - INFO - Energy: 83.0, Social: 72.8, Integrity: 89.8
+2025-12-06 18:26:45,852 - INFO - Energy: 82.5, Social: 72.0, Integrity: 89.5
+2025-12-06 18:26:46,855 - INFO - Energy: 82.0, Social: 71.2, Integrity: 89.2
+2025-12-06 18:26:47,857 - INFO - Energy: 81.5, Social: 70.4, Integrity: 88.9
+2025-12-06 18:26:48,860 - INFO - Energy: 81.0, Social: 69.6, Integrity: 88.6
+2025-12-06 18:26:49,863 - INFO - Energy: 80.5, Social: 68.8, Integrity: 88.3
+2025-12-06 18:26:50,879 - INFO - Energy: 80.0, Social: 68.0, Integrity: 88.0
+2025-12-06 18:26:51,882 - INFO - Energy: 79.5, Social: 67.2, Integrity: 87.7
+2025-12-06 18:26:52,898 - INFO - Energy: 79.0, Social: 66.4, Integrity: 87.4
+2025-12-06 18:26:53,900 - INFO - Energy: 78.5, Social: 65.6, Integrity: 87.1
+2025-12-06 18:26:54,916 - INFO - Energy: 78.0, Social: 64.8, Integrity: 86.8
+2025-12-06 18:26:55,922 - INFO - Energy: 77.5, Social: 64.0, Integrity: 86.5
+2025-12-06 18:26:56,927 - INFO - Energy: 77.0, Social: 63.2, Integrity: 86.2
+2025-12-06 18:26:57,930 - INFO - Energy: 76.5, Social: 62.4, Integrity: 85.9
+2025-12-06 18:26:58,932 - INFO - Energy: 76.0, Social: 61.6, Integrity: 85.6
+2025-12-06 18:26:59,936 - INFO - Energy: 75.5, Social: 60.8, Integrity: 85.3
+2025-12-06 18:27:00,938 - INFO - Energy: 75.0, Social: 60.0, Integrity: 85.0
+2025-12-06 18:27:01,940 - INFO - Energy: 74.5, Social: 59.2, Integrity: 84.7
+2025-12-06 18:27:02,945 - INFO - Energy: 74.0, Social: 58.4, Integrity: 84.4
+2025-12-06 18:27:03,951 - INFO - Energy: 73.5, Social: 57.6, Integrity: 84.1
+2025-12-06 18:27:04,955 - INFO - Energy: 73.0, Social: 56.8, Integrity: 83.8
+2025-12-06 18:27:05,959 - INFO - Energy: 72.5, Social: 56.0, Integrity: 83.5
+2025-12-06 18:27:06,964 - INFO - Energy: 72.0, Social: 55.2, Integrity: 83.2
+2025-12-06 18:27:07,968 - INFO - Energy: 71.5, Social: 54.4, Integrity: 82.9
+2025-12-06 18:27:08,972 - INFO - Energy: 71.0, Social: 53.6, Integrity: 82.6
+2025-12-06 18:27:09,976 - INFO - Energy: 70.5, Social: 52.8, Integrity: 82.3
+2025-12-06 18:27:10,983 - INFO - Energy: 70.0, Social: 52.0, Integrity: 82.0
+2025-12-06 18:27:11,989 - INFO - Energy: 69.5, Social: 51.2, Integrity: 81.7
+2025-12-06 18:27:12,996 - INFO - Energy: 69.0, Social: 50.4, Integrity: 81.4
+2025-12-06 18:27:14,001 - INFO - Energy: 58.5, Social: 71.5, Integrity: 81.1
+2025-12-06 18:27:15,008 - INFO - Energy: 58.0, Social: 70.7, Integrity: 80.8
+2025-12-06 18:27:16,010 - INFO - Energy: 57.5, Social: 69.9, Integrity: 80.5
+2025-12-06 18:27:17,017 - INFO - Energy: 57.0, Social: 69.1, Integrity: 80.2
+2025-12-06 18:27:18,020 - INFO - Energy: 56.5, Social: 68.3, Integrity: 79.9
+2025-12-06 18:27:19,035 - INFO - Energy: 56.0, Social: 67.5, Integrity: 79.6
+2025-12-06 18:27:20,038 - INFO - Energy: 55.5, Social: 66.7, Integrity: 79.3
+2025-12-06 18:27:21,047 - INFO - Energy: 55.0, Social: 65.9, Integrity: 79.0
+2025-12-06 18:27:22,054 - INFO - Energy: 54.5, Social: 65.1, Integrity: 78.7
+2025-12-06 18:27:23,070 - INFO - Energy: 54.0, Social: 64.3, Integrity: 78.4
+2025-12-06 18:27:24,075 - INFO - Energy: 53.5, Social: 63.5, Integrity: 78.1
+2025-12-06 18:27:25,078 - INFO - Energy: 53.0, Social: 62.7, Integrity: 77.8
+2025-12-06 18:27:26,083 - INFO - Energy: 52.5, Social: 61.9, Integrity: 77.5
+2025-12-06 18:27:27,089 - INFO - Energy: 52.0, Social: 61.1, Integrity: 77.2
+2025-12-06 18:27:28,106 - INFO - Energy: 51.5, Social: 60.3, Integrity: 76.9
+2025-12-06 18:27:29,112 - INFO - Energy: 51.0, Social: 59.5, Integrity: 76.6
+2025-12-06 18:27:30,128 - INFO - Energy: 50.5, Social: 58.7, Integrity: 76.3
+2025-12-06 18:27:31,130 - INFO - Energy: 50.0, Social: 57.9, Integrity: 76.0
+2025-12-06 18:27:32,134 - INFO - Energy: 49.5, Social: 57.1, Integrity: 75.7
+2025-12-06 18:27:33,137 - INFO - Energy: 49.0, Social: 56.3, Integrity: 75.4
+2025-12-06 18:27:34,141 - INFO - Energy: 48.5, Social: 55.5, Integrity: 75.1
+2025-12-06 18:27:35,146 - INFO - Energy: 48.0, Social: 54.7, Integrity: 74.8
+2025-12-06 18:27:36,162 - INFO - Energy: 47.5, Social: 53.9, Integrity: 74.5
+2025-12-06 18:27:37,165 - INFO - Energy: 47.0, Social: 53.1, Integrity: 74.2
+2025-12-06 18:27:38,167 - INFO - Energy: 46.5, Social: 52.3, Integrity: 73.9
+2025-12-06 18:27:39,172 - INFO - Energy: 46.0, Social: 51.5, Integrity: 73.6
+2025-12-06 18:27:40,174 - INFO - Energy: 45.5, Social: 50.7, Integrity: 73.3
+2025-12-06 18:27:41,191 - INFO - Energy: 35.0, Social: 70.4, Integrity: 73.0
+2025-12-06 18:27:42,474 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing 200
+2025-12-06 18:27:43,530 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=11&FORM=PERE 200
+2025-12-06 18:27:44,528 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=21&FORM=PERE1 200
+2025-12-06 18:27:45,631 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=31&FORM=PERE2 200
+2025-12-06 18:27:46,870 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Quantum+Computing&first=41&FORM=PERE3 200
+2025-12-06 18:27:47,412 - INFO - Energy: 47.6, Social: 69.6, Integrity: 72.7
+2025-12-06 18:27:48,413 - INFO - Energy: 47.1, Social: 68.8, Integrity: 72.4
+2025-12-06 18:27:49,417 - INFO - Energy: 46.6, Social: 68.0, Integrity: 72.1
+2025-12-06 18:27:50,423 - INFO - Energy: 46.1, Social: 67.2, Integrity: 71.8
+2025-12-06 18:27:51,427 - INFO - Energy: 45.6, Social: 66.4, Integrity: 71.5
+2025-12-06 18:27:52,428 - INFO - Energy: 45.1, Social: 65.6, Integrity: 71.2
+2025-12-06 18:27:53,431 - INFO - Energy: 44.6, Social: 64.8, Integrity: 70.9
+2025-12-06 18:27:54,446 - INFO - Energy: 44.1, Social: 64.0, Integrity: 70.6
+2025-12-06 18:27:55,451 - INFO - Energy: 43.6, Social: 63.2, Integrity: 70.3
+2025-12-06 18:27:56,455 - INFO - Energy: 43.1, Social: 62.4, Integrity: 70.0
+2025-12-06 18:27:57,458 - INFO - Energy: 42.6, Social: 61.6, Integrity: 69.7
+2025-12-06 18:27:58,474 - INFO - Energy: 42.1, Social: 60.8, Integrity: 69.4
+2025-12-06 18:27:59,476 - INFO - Energy: 41.6, Social: 60.0, Integrity: 69.1
+2025-12-06 18:28:00,477 - INFO - Energy: 41.1, Social: 59.2, Integrity: 68.8
+2025-12-06 18:28:01,480 - INFO - Energy: 40.6, Social: 58.4, Integrity: 68.5
+2025-12-06 18:28:02,487 - INFO - Energy: 40.1, Social: 57.6, Integrity: 68.2
+2025-12-06 18:28:03,492 - INFO - Energy: 39.6, Social: 56.8, Integrity: 67.9
+2025-12-06 18:28:04,495 - INFO - Energy: 39.1, Social: 56.0, Integrity: 67.6
+2025-12-06 18:28:05,502 - INFO - Energy: 38.6, Social: 55.2, Integrity: 67.3
+2025-12-06 18:28:06,504 - INFO - Energy: 38.1, Social: 54.4, Integrity: 67.0
+2025-12-06 18:28:07,519 - INFO - Energy: 37.6, Social: 53.6, Integrity: 66.7
+2025-12-06 18:28:08,520 - INFO - Energy: 37.1, Social: 52.8, Integrity: 66.4
+2025-12-06 18:28:09,523 - INFO - Energy: 36.6, Social: 52.0, Integrity: 66.1
+2025-12-06 18:28:10,528 - INFO - Energy: 36.1, Social: 51.2, Integrity: 65.8
+2025-12-06 18:28:11,544 - INFO - Energy: 35.6, Social: 50.4, Integrity: 65.5
+2025-12-06 18:28:12,551 - INFO - Energy: 25.1, Social: 65.4, Integrity: 65.2
+2025-12-06 18:28:13,827 - INFO - response: https://www.bing.com/search?q=Analysis+of+Global+Economic+Trends 200
+2025-12-06 18:28:14,122 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Ancient+Civilizations 200
+2025-12-06 18:28:15,165 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Ancient+Civilizations&first=11&FORM=PERE 200
+2025-12-06 18:28:16,381 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Ancient+Civilizations&first=21&FORM=PERE1 200
+2025-12-06 18:28:17,504 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Ancient+Civilizations&first=31&FORM=PERE2 200
+2025-12-06 18:28:18,497 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Ancient+Civilizations&first=41&FORM=PERE3 200
+2025-12-06 18:28:18,585 - INFO - Energy: 36.9, Social: 64.6, Integrity: 64.9
+2025-12-06 18:28:19,850 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process 200
+2025-12-06 18:28:20,876 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:28:21,996 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:28:22,991 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:28:24,003 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:28:24,059 - INFO - Energy: 45.8, Social: 63.8, Integrity: 64.6
+2025-12-06 18:28:25,063 - INFO - Energy: 45.3, Social: 63.0, Integrity: 64.3
+2025-12-06 18:28:26,070 - INFO - Energy: 44.8, Social: 62.2, Integrity: 64.0
+2025-12-06 18:28:27,086 - INFO - Energy: 44.3, Social: 61.4, Integrity: 63.7
+2025-12-06 18:28:28,088 - INFO - Energy: 43.8, Social: 60.6, Integrity: 63.4
+2025-12-06 18:28:29,092 - INFO - Energy: 43.3, Social: 59.8, Integrity: 63.1
+2025-12-06 18:28:30,095 - INFO - Energy: 42.8, Social: 59.0, Integrity: 62.8
+2025-12-06 18:28:31,100 - INFO - Energy: 42.3, Social: 58.2, Integrity: 62.5
+2025-12-06 18:28:32,103 - INFO - Energy: 41.8, Social: 57.4, Integrity: 62.2
+2025-12-06 18:28:33,120 - INFO - Energy: 41.3, Social: 56.6, Integrity: 61.9
+2025-12-06 18:28:34,124 - INFO - Energy: 40.8, Social: 55.8, Integrity: 61.6
+2025-12-06 18:28:35,127 - INFO - Energy: 40.3, Social: 55.0, Integrity: 61.3
+2025-12-06 18:28:36,130 - INFO - Energy: 39.8, Social: 54.2, Integrity: 61.0
+2025-12-06 18:28:37,134 - INFO - Energy: 39.3, Social: 53.4, Integrity: 60.7
+2025-12-06 18:28:38,140 - INFO - Energy: 38.8, Social: 52.6, Integrity: 60.4
+2025-12-06 18:28:39,143 - INFO - Energy: 38.3, Social: 51.8, Integrity: 60.1
+2025-12-06 18:28:40,146 - INFO - Energy: 37.8, Social: 51.0, Integrity: 59.8
+2025-12-06 18:28:41,151 - INFO - Energy: 37.3, Social: 50.2, Integrity: 59.5
+2025-12-06 18:28:42,154 - INFO - Energy: 26.8, Social: 71.0, Integrity: 59.2
+2025-12-06 18:28:43,404 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing 200
+2025-12-06 18:28:43,687 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Cognitive+Science 200
+2025-12-06 18:28:44,707 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Cognitive+Science&first=11&FORM=PERE 200
+2025-12-06 18:28:44,772 - INFO - Energy: 44.7, Social: 70.2, Integrity: 58.9
+2025-12-06 18:28:45,779 - INFO - Energy: 44.2, Social: 69.4, Integrity: 58.6
+2025-12-06 18:28:46,781 - INFO - Energy: 43.7, Social: 68.6, Integrity: 58.3
+2025-12-06 18:28:47,786 - INFO - Energy: 43.2, Social: 67.8, Integrity: 58.0
+2025-12-06 18:28:48,803 - INFO - Energy: 42.7, Social: 67.0, Integrity: 57.7
+2025-12-06 18:28:49,807 - INFO - Energy: 42.2, Social: 66.2, Integrity: 57.4
+2025-12-06 18:28:50,811 - INFO - Energy: 41.7, Social: 65.4, Integrity: 57.1
+2025-12-06 18:28:51,817 - INFO - Energy: 41.2, Social: 64.6, Integrity: 56.8
+2025-12-06 18:28:52,822 - INFO - Energy: 40.7, Social: 63.8, Integrity: 56.5
+2025-12-06 18:28:53,826 - INFO - Energy: 40.2, Social: 63.0, Integrity: 56.2
+2025-12-06 18:28:54,831 - INFO - Energy: 39.7, Social: 62.2, Integrity: 55.9
+2025-12-06 18:28:55,837 - INFO - Energy: 39.2, Social: 61.4, Integrity: 55.6
+2025-12-06 18:28:56,844 - INFO - Energy: 38.7, Social: 60.6, Integrity: 55.3
+2025-12-06 18:28:57,860 - INFO - Energy: 38.2, Social: 59.8, Integrity: 55.0
+2025-12-06 18:28:58,868 - INFO - Energy: 37.7, Social: 59.0, Integrity: 54.7
+2025-12-06 18:28:59,873 - INFO - Energy: 37.2, Social: 58.2, Integrity: 54.4
+2025-12-06 18:29:00,880 - INFO - Energy: 36.7, Social: 57.4, Integrity: 54.1
+2025-12-06 18:29:01,886 - INFO - Energy: 36.2, Social: 56.6, Integrity: 53.8
+2025-12-06 18:29:02,890 - INFO - Energy: 35.7, Social: 55.8, Integrity: 53.5
+2025-12-06 18:29:03,895 - INFO - Energy: 35.2, Social: 55.0, Integrity: 53.2
+2025-12-06 18:29:04,898 - INFO - Energy: 34.7, Social: 54.2, Integrity: 52.9
+2025-12-06 18:29:05,914 - INFO - Energy: 34.2, Social: 53.4, Integrity: 52.6
+2025-12-06 18:29:06,919 - INFO - Energy: 33.7, Social: 52.6, Integrity: 52.3
+2025-12-06 18:29:07,935 - INFO - Energy: 33.2, Social: 51.8, Integrity: 52.0
+2025-12-06 18:29:08,942 - INFO - Energy: 32.7, Social: 51.0, Integrity: 51.7
+2025-12-06 18:29:09,947 - INFO - Energy: 32.2, Social: 50.2, Integrity: 51.4
+2025-12-06 18:29:10,952 - INFO - Energy: 21.7, Social: 74.8, Integrity: 51.1
+2025-12-06 18:29:12,281 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends 200
+2025-12-06 18:29:13,461 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 18:29:14,596 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 18:29:15,599 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 18:29:16,632 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Global+Economic+Trends&first=41&FORM=PERE3 200
+2025-12-06 18:29:16,720 - INFO - Energy: 33.5, Social: 74.0, Integrity: 50.8
+2025-12-06 18:29:17,953 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Machine+Learning+Algorithms 200
+2025-12-06 18:29:18,417 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends 200
+2025-12-06 18:29:19,494 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=11&FORM=PERE 200
+2025-12-06 18:29:20,476 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=21&FORM=PERE1 200
+2025-12-06 18:29:21,702 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=31&FORM=PERE2 200
+2025-12-06 18:29:22,848 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Global+Economic+Trends&first=41&FORM=PERE3 200
+2025-12-06 18:29:22,908 - INFO - Energy: 48.9, Social: 73.2, Integrity: 50.5
+2025-12-06 18:29:23,910 - INFO - Energy: 48.4, Social: 72.4, Integrity: 50.2
+2025-12-06 18:29:24,913 - INFO - Energy: 47.9, Social: 71.6, Integrity: 49.9
+2025-12-06 18:29:25,918 - INFO - Energy: 47.4, Social: 70.8, Integrity: 49.6
+2025-12-06 18:29:26,924 - INFO - Energy: 46.9, Social: 70.0, Integrity: 49.3
+2025-12-06 18:29:27,928 - INFO - Energy: 46.4, Social: 69.2, Integrity: 49.0
+2025-12-06 18:29:28,930 - INFO - Energy: 45.9, Social: 68.4, Integrity: 48.7
+2025-12-06 18:29:29,937 - INFO - Energy: 45.4, Social: 67.6, Integrity: 48.4
+2025-12-06 18:29:30,939 - INFO - Energy: 44.9, Social: 66.8, Integrity: 48.1
+2025-12-06 18:29:31,941 - INFO - Energy: 44.4, Social: 66.0, Integrity: 47.8
+2025-12-06 18:29:32,946 - INFO - Energy: 43.9, Social: 65.2, Integrity: 47.5
+2025-12-06 18:29:33,948 - INFO - Energy: 43.4, Social: 64.4, Integrity: 47.2
+2025-12-06 18:29:34,952 - INFO - Energy: 42.9, Social: 63.6, Integrity: 46.9
+2025-12-06 18:29:35,956 - INFO - Energy: 42.4, Social: 62.8, Integrity: 46.6
+2025-12-06 18:29:36,959 - INFO - Energy: 41.9, Social: 62.0, Integrity: 46.3
+2025-12-06 18:29:37,968 - INFO - Energy: 41.4, Social: 61.2, Integrity: 46.0
+2025-12-06 18:29:38,972 - INFO - Energy: 40.9, Social: 60.4, Integrity: 45.7
+2025-12-06 18:29:39,976 - INFO - Energy: 40.4, Social: 59.6, Integrity: 45.4
+2025-12-06 18:29:40,982 - INFO - Energy: 39.9, Social: 58.8, Integrity: 45.1
+2025-12-06 18:29:41,987 - INFO - Energy: 39.4, Social: 58.0, Integrity: 44.8
+2025-12-06 18:29:42,989 - INFO - Energy: 38.9, Social: 57.2, Integrity: 44.5
+2025-12-06 18:29:43,994 - INFO - Energy: 38.4, Social: 56.4, Integrity: 44.2
+2025-12-06 18:29:44,995 - INFO - Energy: 37.9, Social: 55.6, Integrity: 43.9
+2025-12-06 18:29:45,998 - INFO - Energy: 37.4, Social: 54.8, Integrity: 43.6
+2025-12-06 18:29:47,003 - INFO - Energy: 36.9, Social: 54.0, Integrity: 43.3
+2025-12-06 18:29:48,006 - INFO - Energy: 36.4, Social: 53.2, Integrity: 43.0
+2025-12-06 18:29:49,008 - INFO - Energy: 35.9, Social: 52.4, Integrity: 42.7
+2025-12-06 18:29:50,014 - INFO - Energy: 35.4, Social: 51.6, Integrity: 42.4
+2025-12-06 18:29:51,018 - INFO - Energy: 34.9, Social: 50.8, Integrity: 42.1
+2025-12-06 18:29:52,021 - INFO - Energy: 34.4, Social: 50.0, Integrity: 41.8
+2025-12-06 18:29:53,022 - INFO - Energy: 23.9, Social: 75.3, Integrity: 41.5
+2025-12-06 18:29:54,328 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History 200
+2025-12-06 18:29:55,609 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=11&FORM=PERE 200
+2025-12-06 18:29:56,849 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=21&FORM=PERE1 200
+2025-12-06 18:29:57,861 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=31&FORM=PERE2 200
+2025-12-06 18:29:58,885 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Space+Exploration+History&first=41&FORM=PERE3 200
+2025-12-06 18:29:58,975 - INFO - Energy: 35.3, Social: 74.5, Integrity: 41.2
+2025-12-06 18:30:00,241 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Space+Exploration+History 200
+2025-12-06 18:30:00,513 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Global+Economic+Trends 200
+2025-12-06 18:30:00,782 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process 200
+2025-12-06 18:30:01,853 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:30:02,893 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:30:03,906 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:30:04,924 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:30:04,989 - INFO - Energy: 43.7, Social: 73.7, Integrity: 40.9
+2025-12-06 18:30:06,334 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics 200
+2025-12-06 18:30:07,515 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=11&FORM=PERE 200
+2025-12-06 18:30:09,236 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=21&FORM=PERE1 200
+2025-12-06 18:30:10,400 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=31&FORM=PERE2 200
+2025-12-06 18:30:12,403 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=41&FORM=PERE3 200
+2025-12-06 18:30:12,408 - INFO - Energy: 55.4, Social: 72.9, Integrity: 40.6
+2025-12-06 18:30:13,418 - INFO - Energy: 54.9, Social: 72.1, Integrity: 40.3
+2025-12-06 18:30:14,423 - INFO - Energy: 54.4, Social: 71.3, Integrity: 40.0
+2025-12-06 18:30:15,428 - INFO - Energy: 53.9, Social: 70.5, Integrity: 39.7
+2025-12-06 18:30:16,431 - INFO - Energy: 53.4, Social: 69.7, Integrity: 39.4
+2025-12-06 18:30:17,435 - INFO - Energy: 52.9, Social: 68.9, Integrity: 39.1
+2025-12-06 18:30:18,436 - INFO - Energy: 52.4, Social: 68.1, Integrity: 38.8
+2025-12-06 18:30:19,443 - INFO - Energy: 51.9, Social: 67.3, Integrity: 38.5
+2025-12-06 18:30:20,448 - INFO - Energy: 51.4, Social: 66.5, Integrity: 38.2
+2025-12-06 18:30:21,730 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Philosophy+of+Mind 200
+2025-12-06 18:30:21,981 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Deep+Sea+Exploration 200
+2025-12-06 18:30:23,051 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Quantum+Computing 200
+2025-12-06 18:30:24,274 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Quantum+Computing&first=11&FORM=PERE 200
+2025-12-06 18:30:25,504 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Quantum+Computing&first=21&FORM=PERE1 200
+2025-12-06 18:30:26,608 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Quantum+Computing&first=31&FORM=PERE2 200
+2025-12-06 18:30:27,648 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Quantum+Computing&first=41&FORM=PERE3 200
+2025-12-06 18:30:27,692 - INFO - Energy: 62.7, Social: 65.7, Integrity: 37.9
+2025-12-06 18:30:28,703 - INFO - Energy: 62.2, Social: 64.9, Integrity: 37.6
+2025-12-06 18:30:29,709 - INFO - Energy: 61.7, Social: 64.1, Integrity: 37.3
+2025-12-06 18:30:30,712 - INFO - Energy: 61.2, Social: 63.3, Integrity: 37.0
+2025-12-06 18:30:31,718 - INFO - Energy: 60.7, Social: 62.5, Integrity: 36.7
+2025-12-06 18:30:32,720 - INFO - Energy: 60.2, Social: 61.7, Integrity: 36.4
+2025-12-06 18:30:33,722 - INFO - Energy: 59.7, Social: 60.9, Integrity: 36.1
+2025-12-06 18:30:34,725 - INFO - Energy: 59.2, Social: 60.1, Integrity: 35.8
+2025-12-06 18:30:35,731 - INFO - Energy: 58.7, Social: 59.3, Integrity: 35.5
+2025-12-06 18:30:36,747 - INFO - Energy: 58.2, Social: 58.5, Integrity: 35.2
+2025-12-06 18:30:37,751 - INFO - Energy: 57.7, Social: 57.7, Integrity: 34.9
+2025-12-06 18:30:38,754 - INFO - Energy: 57.2, Social: 56.9, Integrity: 34.6
+2025-12-06 18:30:39,758 - INFO - Energy: 56.7, Social: 56.1, Integrity: 34.3
+2025-12-06 18:30:40,774 - INFO - Energy: 56.2, Social: 55.3, Integrity: 34.0
+2025-12-06 18:30:41,777 - INFO - Energy: 55.7, Social: 54.5, Integrity: 33.7
+2025-12-06 18:30:42,778 - INFO - Energy: 55.2, Social: 53.7, Integrity: 33.4
+2025-12-06 18:30:43,782 - INFO - Energy: 54.7, Social: 52.9, Integrity: 33.1
+2025-12-06 18:30:44,783 - INFO - Energy: 54.2, Social: 52.1, Integrity: 32.8
+2025-12-06 18:30:45,787 - INFO - Energy: 53.7, Social: 51.3, Integrity: 32.5
+2025-12-06 18:30:46,791 - INFO - Energy: 53.2, Social: 50.5, Integrity: 32.2
+2025-12-06 18:30:47,795 - INFO - Energy: 42.7, Social: 79.2, Integrity: 31.9
+2025-12-06 18:30:49,077 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process 200
+2025-12-06 18:30:50,149 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:30:51,322 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:30:52,349 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:30:53,369 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:30:53,424 - INFO - Energy: 47.5, Social: 78.4, Integrity: 31.6
+2025-12-06 18:30:54,700 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics 200
+2025-12-06 18:30:55,783 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=11&FORM=PERE 200
+2025-12-06 18:30:56,796 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=21&FORM=PERE1 200
+2025-12-06 18:30:58,091 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=31&FORM=PERE2 200
+2025-12-06 18:30:59,179 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Particle+Physics&first=41&FORM=PERE3 200
+2025-12-06 18:30:59,212 - INFO - Energy: 55.8, Social: 77.6, Integrity: 31.3
+2025-12-06 18:31:00,214 - INFO - Energy: 55.3, Social: 76.8, Integrity: 31.0
+2025-12-06 18:31:01,220 - INFO - Energy: 54.8, Social: 76.0, Integrity: 30.7
+2025-12-06 18:31:02,225 - INFO - Energy: 54.3, Social: 75.2, Integrity: 30.4
+2025-12-06 18:31:03,227 - INFO - Energy: 53.8, Social: 74.4, Integrity: 30.1
+2025-12-06 18:31:04,244 - INFO - Energy: 53.3, Social: 73.6, Integrity: 29.8
+2025-12-06 18:31:05,246 - INFO - Energy: 52.8, Social: 72.8, Integrity: 29.5
+2025-12-06 18:31:06,252 - INFO - Energy: 52.3, Social: 72.0, Integrity: 29.2
+2025-12-06 18:31:07,254 - INFO - Energy: 51.8, Social: 71.2, Integrity: 28.9
+2025-12-06 18:31:08,259 - INFO - Energy: 51.3, Social: 70.4, Integrity: 28.6
+2025-12-06 18:31:09,267 - INFO - Energy: 50.8, Social: 69.6, Integrity: 28.3
+2025-12-06 18:31:10,282 - INFO - Energy: 50.3, Social: 68.8, Integrity: 28.0
+2025-12-06 18:31:11,286 - INFO - Energy: 49.8, Social: 68.0, Integrity: 27.7
+2025-12-06 18:31:12,291 - INFO - Energy: 49.3, Social: 67.2, Integrity: 27.4
+2025-12-06 18:31:13,294 - INFO - Energy: 48.8, Social: 66.4, Integrity: 27.1
+2025-12-06 18:31:14,296 - INFO - Energy: 48.3, Social: 65.6, Integrity: 26.8
+2025-12-06 18:31:15,300 - INFO - Energy: 47.8, Social: 64.8, Integrity: 26.5
+2025-12-06 18:31:16,314 - INFO - Energy: 47.3, Social: 64.0, Integrity: 26.2
+2025-12-06 18:31:17,316 - INFO - Energy: 46.8, Social: 63.2, Integrity: 25.9
+2025-12-06 18:31:18,323 - INFO - Energy: 46.3, Social: 62.4, Integrity: 25.6
+2025-12-06 18:31:19,327 - INFO - Energy: 45.8, Social: 61.6, Integrity: 25.3
+2025-12-06 18:31:20,329 - INFO - Energy: 45.3, Social: 60.8, Integrity: 25.0
+2025-12-06 18:31:21,333 - INFO - Energy: 44.8, Social: 60.0, Integrity: 24.7
+2025-12-06 18:31:22,337 - INFO - Energy: 44.3, Social: 59.2, Integrity: 24.4
+2025-12-06 18:31:23,340 - INFO - Energy: 43.8, Social: 58.4, Integrity: 24.1
+2025-12-06 18:31:24,344 - INFO - Energy: 43.3, Social: 57.6, Integrity: 23.8
+2025-12-06 18:31:25,351 - INFO - Energy: 42.8, Social: 56.8, Integrity: 23.5
+2025-12-06 18:31:26,366 - INFO - Energy: 42.3, Social: 56.0, Integrity: 23.2
+2025-12-06 18:31:27,372 - INFO - Energy: 41.8, Social: 55.2, Integrity: 22.9
+2025-12-06 18:31:28,373 - INFO - Energy: 41.3, Social: 54.4, Integrity: 22.6
+2025-12-06 18:31:29,394 - INFO - Energy: 40.8, Social: 53.6, Integrity: 22.3
+2025-12-06 18:31:30,409 - INFO - Energy: 40.3, Social: 52.8, Integrity: 22.0
+2025-12-06 18:31:31,413 - INFO - Energy: 39.8, Social: 52.0, Integrity: 21.7
+2025-12-06 18:31:32,419 - INFO - Energy: 39.3, Social: 51.2, Integrity: 21.4
+2025-12-06 18:31:33,423 - INFO - Energy: 38.8, Social: 50.4, Integrity: 21.1
+2025-12-06 18:31:34,427 - INFO - Energy: 28.3, Social: 74.6, Integrity: 20.8
+2025-12-06 18:31:35,736 - INFO - response: https://www.bing.com/search?q=Analysis+of+Deep+Sea+Exploration 200
+2025-12-06 18:31:36,799 - INFO - response: https://www.bing.com/search?q=Analysis+of+Deep+Sea+Exploration&first=11&FORM=PERE 200
+2025-12-06 18:31:37,878 - INFO - response: https://www.bing.com/search?q=Analysis+of+Deep+Sea+Exploration&first=21&FORM=PERE1 200
+2025-12-06 18:31:37,937 - INFO - Energy: 53.3, Social: 73.8, Integrity: 20.5
+2025-12-06 18:31:38,943 - INFO - Energy: 52.8, Social: 73.0, Integrity: 20.2
+2025-12-06 18:31:39,947 - INFO - Energy: 47.3, Social: 72.2, Integrity: 19.9
+2025-12-06 18:31:39,948 - WARNING - VIOLATION: Integrity is below threshold (19.9 < 20.0)
+2025-12-06 18:31:40,953 - INFO - Energy: 46.8, Social: 71.4, Integrity: 20.5
+2025-12-06 18:31:41,956 - INFO - Energy: 46.3, Social: 70.6, Integrity: 21.1
+2025-12-06 18:31:42,959 - INFO - Energy: 45.8, Social: 69.8, Integrity: 21.7
+2025-12-06 18:31:43,963 - INFO - Energy: 45.3, Social: 69.0, Integrity: 22.3
+2025-12-06 18:31:44,965 - INFO - Energy: 44.8, Social: 68.2, Integrity: 22.9
+2025-12-06 18:31:45,968 - INFO - Energy: 44.3, Social: 67.4, Integrity: 23.5
+2025-12-06 18:31:46,971 - INFO - Energy: 43.8, Social: 66.6, Integrity: 24.1
+2025-12-06 18:31:47,974 - INFO - Energy: 43.3, Social: 65.8, Integrity: 24.7
+2025-12-06 18:31:48,979 - INFO - Energy: 42.8, Social: 65.0, Integrity: 25.3
+2025-12-06 18:31:49,981 - INFO - Energy: 42.3, Social: 64.2, Integrity: 25.9
+2025-12-06 18:31:50,986 - INFO - Energy: 41.8, Social: 63.4, Integrity: 26.5
+2025-12-06 18:31:51,990 - INFO - Energy: 41.3, Social: 62.6, Integrity: 27.1
+2025-12-06 18:31:52,994 - INFO - Energy: 40.8, Social: 61.8, Integrity: 27.7
+2025-12-06 18:31:53,998 - INFO - Energy: 40.3, Social: 61.0, Integrity: 28.3
+2025-12-06 18:31:55,002 - INFO - Energy: 39.8, Social: 60.2, Integrity: 28.9
+2025-12-06 18:31:56,020 - INFO - Energy: 39.3, Social: 59.4, Integrity: 29.5
+2025-12-06 18:31:57,022 - INFO - Energy: 38.8, Social: 58.6, Integrity: 30.1
+2025-12-06 18:31:58,024 - INFO - Energy: 38.3, Social: 57.8, Integrity: 30.7
+2025-12-06 18:31:59,028 - INFO - Energy: 37.8, Social: 57.0, Integrity: 31.3
+2025-12-06 18:32:00,044 - INFO - Energy: 37.3, Social: 56.2, Integrity: 31.9
+2025-12-06 18:32:01,045 - INFO - Energy: 36.8, Social: 55.4, Integrity: 32.5
+2025-12-06 18:32:02,048 - INFO - Energy: 36.3, Social: 54.6, Integrity: 33.1
+2025-12-06 18:32:03,051 - INFO - Energy: 35.8, Social: 53.8, Integrity: 33.7
+2025-12-06 18:32:04,053 - INFO - Energy: 35.3, Social: 53.0, Integrity: 34.3
+2025-12-06 18:32:05,060 - INFO - Energy: 34.8, Social: 52.2, Integrity: 34.9
+2025-12-06 18:32:06,064 - INFO - Energy: 34.3, Social: 51.4, Integrity: 35.5
+2025-12-06 18:32:07,069 - INFO - Energy: 33.8, Social: 50.6, Integrity: 36.1
+2025-12-06 18:32:08,072 - INFO - Energy: 33.3, Social: 49.8, Integrity: 36.7
+2025-12-06 18:32:08,072 - WARNING - VIOLATION: Social is below threshold (49.8 < 50.0)
+2025-12-06 18:32:09,078 - INFO - Energy: 32.8, Social: 49.0, Integrity: 37.3
+2025-12-06 18:32:09,078 - WARNING - VIOLATION: Social is below threshold (49.0 < 50.0)
+2025-12-06 18:32:10,080 - INFO - Energy: 32.3, Social: 48.2, Integrity: 37.9
+2025-12-06 18:32:10,081 - WARNING - VIOLATION: Social is below threshold (48.2 < 50.0)
+2025-12-06 18:32:11,084 - INFO - Energy: 31.8, Social: 47.4, Integrity: 38.5
+2025-12-06 18:32:11,085 - WARNING - VIOLATION: Social is below threshold (47.4 < 50.0)
+2025-12-06 18:32:12,089 - INFO - Energy: 31.3, Social: 46.6, Integrity: 39.1
+2025-12-06 18:32:12,089 - WARNING - VIOLATION: Social is below threshold (46.6 < 50.0)
+2025-12-06 18:32:13,095 - INFO - Energy: 30.8, Social: 45.8, Integrity: 39.7
+2025-12-06 18:32:13,096 - WARNING - VIOLATION: Social is below threshold (45.8 < 50.0)
+2025-12-06 18:32:14,104 - INFO - Energy: 20.3, Social: 67.3, Integrity: 39.9
+2025-12-06 18:32:15,380 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Genetic+Engineering 200
+2025-12-06 18:32:15,680 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Quantum+Computing 200
+2025-12-06 18:32:16,004 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics 200
+2025-12-06 18:32:16,014 - INFO - Energy: 32.3, Social: 66.5, Integrity: 39.6
+2025-12-06 18:32:17,271 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Quantum+Computing 200
+2025-12-06 18:32:17,674 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations 200
+2025-12-06 18:32:18,710 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=11&FORM=PERE 200
+2025-12-06 18:32:19,791 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=21&FORM=PERE1 200
+2025-12-06 18:32:21,013 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=31&FORM=PERE2 200
+2025-12-06 18:32:21,232 - INFO - Energy: 51.4, Social: 65.7, Integrity: 39.3
+2025-12-06 18:32:22,234 - INFO - Energy: 50.9, Social: 64.9, Integrity: 39.0
+2025-12-06 18:32:23,238 - INFO - Energy: 50.4, Social: 64.1, Integrity: 38.7
+2025-12-06 18:32:24,255 - INFO - Energy: 49.9, Social: 63.3, Integrity: 38.4
+2025-12-06 18:32:25,274 - INFO - Energy: 49.4, Social: 62.5, Integrity: 38.1
+2025-12-06 18:32:26,587 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations 200
+2025-12-06 18:32:27,698 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=11&FORM=PERE 200
+2025-12-06 18:32:28,738 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=21&FORM=PERE1 200
+2025-12-06 18:32:29,756 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=31&FORM=PERE2 200
+2025-12-06 18:32:31,222 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=41&FORM=PERE3 200
+2025-12-06 18:32:31,271 - INFO - Energy: 65.6, Social: 61.7, Integrity: 37.8
+2025-12-06 18:32:32,278 - INFO - Energy: 65.1, Social: 60.9, Integrity: 37.5
+2025-12-06 18:32:33,280 - INFO - Energy: 64.6, Social: 60.1, Integrity: 37.2
+2025-12-06 18:32:34,285 - INFO - Energy: 64.1, Social: 59.3, Integrity: 36.9
+2025-12-06 18:32:35,288 - INFO - Energy: 63.6, Social: 58.5, Integrity: 36.6
+2025-12-06 18:32:36,292 - INFO - Energy: 63.1, Social: 57.7, Integrity: 36.3
+2025-12-06 18:32:37,297 - INFO - Energy: 62.6, Social: 56.9, Integrity: 36.0
+2025-12-06 18:32:38,300 - INFO - Energy: 62.1, Social: 56.1, Integrity: 35.7
+2025-12-06 18:32:39,302 - INFO - Energy: 61.6, Social: 55.3, Integrity: 35.4
+2025-12-06 18:32:40,308 - INFO - Energy: 61.1, Social: 54.5, Integrity: 35.1
+2025-12-06 18:32:41,310 - INFO - Energy: 60.6, Social: 53.7, Integrity: 34.8
+2025-12-06 18:32:42,325 - INFO - Energy: 60.1, Social: 52.9, Integrity: 34.5
+2025-12-06 18:32:43,330 - INFO - Energy: 59.6, Social: 52.1, Integrity: 34.2
+2025-12-06 18:32:44,367 - INFO - Energy: 59.1, Social: 51.3, Integrity: 33.9
+2025-12-06 18:32:45,369 - INFO - Energy: 58.6, Social: 50.5, Integrity: 33.6
+2025-12-06 18:32:46,371 - INFO - Energy: 48.1, Social: 67.2, Integrity: 33.3
+2025-12-06 18:32:47,377 - INFO - Energy: 47.6, Social: 66.4, Integrity: 33.0
+2025-12-06 18:32:48,388 - INFO - Energy: 47.1, Social: 65.6, Integrity: 32.7
+2025-12-06 18:32:49,391 - INFO - Energy: 46.6, Social: 64.8, Integrity: 32.4
+2025-12-06 18:32:50,396 - INFO - Energy: 46.1, Social: 64.0, Integrity: 32.1
+2025-12-06 18:32:51,400 - INFO - Energy: 45.6, Social: 63.2, Integrity: 31.8
+2025-12-06 18:32:52,404 - INFO - Energy: 45.1, Social: 62.4, Integrity: 31.5
+2025-12-06 18:32:53,411 - INFO - Energy: 44.6, Social: 61.6, Integrity: 31.2
+2025-12-06 18:32:54,413 - INFO - Energy: 44.1, Social: 60.8, Integrity: 30.9
+2025-12-06 18:32:55,429 - INFO - Energy: 43.6, Social: 60.0, Integrity: 30.6
+2025-12-06 18:32:56,435 - INFO - Energy: 43.1, Social: 59.2, Integrity: 30.3
+2025-12-06 18:32:57,438 - INFO - Energy: 42.6, Social: 58.4, Integrity: 30.0
+2025-12-06 18:32:58,440 - INFO - Energy: 42.1, Social: 57.6, Integrity: 29.7
+2025-12-06 18:32:59,446 - INFO - Energy: 41.6, Social: 56.8, Integrity: 29.4
+2025-12-06 18:33:00,463 - INFO - Energy: 41.1, Social: 56.0, Integrity: 29.1
+2025-12-06 18:33:01,468 - INFO - Energy: 40.6, Social: 55.2, Integrity: 28.8
+2025-12-06 18:33:02,471 - INFO - Energy: 40.1, Social: 54.4, Integrity: 28.5
+2025-12-06 18:33:03,473 - INFO - Energy: 39.6, Social: 53.6, Integrity: 28.2
+2025-12-06 18:33:04,477 - INFO - Energy: 39.1, Social: 52.8, Integrity: 27.9
+2025-12-06 18:33:05,478 - INFO - Energy: 38.6, Social: 52.0, Integrity: 27.6
+2025-12-06 18:33:06,481 - INFO - Energy: 38.1, Social: 51.2, Integrity: 27.3
+2025-12-06 18:33:07,484 - INFO - Energy: 37.6, Social: 50.4, Integrity: 27.0
+2025-12-06 18:33:08,491 - INFO - Energy: 27.1, Social: 69.5, Integrity: 26.7
+2025-12-06 18:33:09,804 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations 200
+2025-12-06 18:33:10,837 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=11&FORM=PERE 200
+2025-12-06 18:33:11,861 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=21&FORM=PERE1 200
+2025-12-06 18:33:12,872 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=31&FORM=PERE2 200
+2025-12-06 18:33:13,963 - INFO - response: https://www.bing.com/search?q=Future+implications+of+Ancient+Civilizations&first=41&FORM=PERE3 200
+2025-12-06 18:33:13,992 - INFO - Energy: 38.6, Social: 68.7, Integrity: 26.4
+2025-12-06 18:33:15,265 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Neurology+Research 200
+2025-12-06 18:33:16,334 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Neurology+Research&first=11&FORM=PERE 200
+2025-12-06 18:33:17,332 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Neurology+Research&first=21&FORM=PERE1 200
+2025-12-06 18:33:18,565 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Neurology+Research&first=31&FORM=PERE2 200
+2025-12-06 18:33:19,551 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Neurology+Research&first=41&FORM=PERE3 200
+2025-12-06 18:33:19,623 - INFO - Energy: 49.9, Social: 67.9, Integrity: 26.1
+2025-12-06 18:33:20,626 - INFO - Energy: 49.4, Social: 67.1, Integrity: 25.8
+2025-12-06 18:33:21,633 - INFO - Energy: 48.9, Social: 66.3, Integrity: 25.5
+2025-12-06 18:33:22,637 - INFO - Energy: 48.4, Social: 65.5, Integrity: 25.2
+2025-12-06 18:33:23,640 - INFO - Energy: 47.9, Social: 64.7, Integrity: 24.9
+2025-12-06 18:33:24,647 - INFO - Energy: 47.4, Social: 63.9, Integrity: 24.6
+2025-12-06 18:33:25,652 - INFO - Energy: 46.9, Social: 63.1, Integrity: 24.3
+2025-12-06 18:33:26,657 - INFO - Energy: 46.4, Social: 62.3, Integrity: 24.0
+2025-12-06 18:33:27,662 - INFO - Energy: 45.9, Social: 61.5, Integrity: 23.7
+2025-12-06 18:33:28,665 - INFO - Energy: 45.4, Social: 60.7, Integrity: 23.4
+2025-12-06 18:33:29,669 - INFO - Energy: 44.9, Social: 59.9, Integrity: 23.1
+2025-12-06 18:33:30,705 - INFO - Energy: 44.4, Social: 59.1, Integrity: 22.8
+2025-12-06 18:33:31,711 - INFO - Energy: 43.9, Social: 58.3, Integrity: 22.5
+2025-12-06 18:33:32,713 - INFO - Energy: 43.4, Social: 57.5, Integrity: 22.2
+2025-12-06 18:33:33,718 - INFO - Energy: 42.9, Social: 56.7, Integrity: 21.9
+2025-12-06 18:33:34,724 - INFO - Energy: 42.4, Social: 55.9, Integrity: 21.6
+2025-12-06 18:33:35,730 - INFO - Energy: 41.9, Social: 55.1, Integrity: 21.3
+2025-12-06 18:33:36,734 - INFO - Energy: 41.4, Social: 54.3, Integrity: 21.0
+2025-12-06 18:33:37,736 - INFO - Energy: 40.9, Social: 53.5, Integrity: 20.7
+2025-12-06 18:33:38,737 - INFO - Energy: 40.4, Social: 52.7, Integrity: 20.4
+2025-12-06 18:33:39,740 - INFO - Energy: 39.9, Social: 51.9, Integrity: 20.1
+2025-12-06 18:33:40,742 - INFO - Energy: 34.4, Social: 51.1, Integrity: 19.8
+2025-12-06 18:33:40,742 - WARNING - VIOLATION: Integrity is below threshold (19.8 < 20.0)
+2025-12-06 18:33:41,744 - INFO - Energy: 33.9, Social: 50.3, Integrity: 20.4
+2025-12-06 18:33:42,749 - INFO - Energy: 33.4, Social: 49.5, Integrity: 21.0
+2025-12-06 18:33:42,750 - WARNING - VIOLATION: Social is below threshold (49.5 < 50.0)
+2025-12-06 18:33:43,754 - INFO - Energy: 32.9, Social: 48.7, Integrity: 21.6
+2025-12-06 18:33:43,754 - WARNING - VIOLATION: Social is below threshold (48.7 < 50.0)
+2025-12-06 18:33:44,757 - INFO - Energy: 32.4, Social: 47.9, Integrity: 22.2
+2025-12-06 18:33:44,757 - WARNING - VIOLATION: Social is below threshold (47.9 < 50.0)
+2025-12-06 18:33:45,760 - INFO - Energy: 31.9, Social: 47.1, Integrity: 22.8
+2025-12-06 18:33:45,760 - WARNING - VIOLATION: Social is below threshold (47.1 < 50.0)
+2025-12-06 18:33:46,763 - INFO - Energy: 31.4, Social: 46.3, Integrity: 23.4
+2025-12-06 18:33:46,764 - WARNING - VIOLATION: Social is below threshold (46.3 < 50.0)
+2025-12-06 18:33:47,768 - INFO - Energy: 30.9, Social: 45.5, Integrity: 24.0
+2025-12-06 18:33:47,768 - WARNING - VIOLATION: Social is below threshold (45.5 < 50.0)
+2025-12-06 18:33:48,771 - INFO - Energy: 30.4, Social: 44.7, Integrity: 24.6
+2025-12-06 18:33:48,788 - WARNING - VIOLATION: Social is below threshold (44.7 < 50.0)
+2025-12-06 18:33:49,794 - INFO - Energy: 29.9, Social: 43.9, Integrity: 25.2
+2025-12-06 18:33:49,795 - WARNING - VIOLATION: Social is below threshold (43.9 < 50.0)
+2025-12-06 18:33:50,801 - INFO - Energy: 29.4, Social: 43.1, Integrity: 25.8
+2025-12-06 18:33:50,801 - WARNING - VIOLATION: Social is below threshold (43.1 < 50.0)
+2025-12-06 18:33:51,805 - INFO - Energy: 28.9, Social: 42.3, Integrity: 26.4
+2025-12-06 18:33:51,805 - WARNING - VIOLATION: Social is below threshold (42.3 < 50.0)
+2025-12-06 18:33:52,809 - INFO - Energy: 28.4, Social: 41.5, Integrity: 27.0
+2025-12-06 18:33:52,809 - WARNING - VIOLATION: Social is below threshold (41.5 < 50.0)
+2025-12-06 18:33:53,815 - INFO - Energy: 27.9, Social: 40.7, Integrity: 27.6
+2025-12-06 18:33:53,815 - WARNING - VIOLATION: Social is below threshold (40.7 < 50.0)
+2025-12-06 18:33:54,830 - INFO - Energy: 27.4, Social: 39.9, Integrity: 28.2
+2025-12-06 18:33:54,830 - WARNING - VIOLATION: Social is below threshold (39.9 < 50.0)
+2025-12-06 18:33:55,834 - INFO - Energy: 26.9, Social: 39.1, Integrity: 28.8
+2025-12-06 18:33:55,834 - WARNING - VIOLATION: Social is below threshold (39.1 < 50.0)
+2025-12-06 18:33:56,850 - INFO - Energy: 26.4, Social: 38.3, Integrity: 29.4
+2025-12-06 18:33:56,850 - WARNING - VIOLATION: Social is below threshold (38.3 < 50.0)
+2025-12-06 18:33:57,855 - INFO - Energy: 25.9, Social: 37.5, Integrity: 30.0
+2025-12-06 18:33:57,856 - WARNING - VIOLATION: Social is below threshold (37.5 < 50.0)
+2025-12-06 18:33:58,857 - INFO - Energy: 25.4, Social: 36.7, Integrity: 30.6
+2025-12-06 18:33:58,858 - WARNING - VIOLATION: Social is below threshold (36.7 < 50.0)
+2025-12-06 18:33:59,861 - INFO - Energy: 24.9, Social: 35.9, Integrity: 31.2
+2025-12-06 18:33:59,862 - WARNING - VIOLATION: Social is below threshold (35.9 < 50.0)
+2025-12-06 18:34:00,867 - INFO - Energy: 24.4, Social: 35.1, Integrity: 31.8
+2025-12-06 18:34:00,867 - WARNING - VIOLATION: Social is below threshold (35.1 < 50.0)
+2025-12-06 18:34:01,871 - INFO - Energy: 23.9, Social: 34.3, Integrity: 32.4
+2025-12-06 18:34:01,871 - WARNING - VIOLATION: Social is below threshold (34.3 < 50.0)
+2025-12-06 18:34:02,888 - INFO - Energy: 23.4, Social: 33.5, Integrity: 33.0
+2025-12-06 18:34:02,888 - WARNING - VIOLATION: Social is below threshold (33.5 < 50.0)
+2025-12-06 18:34:03,893 - INFO - Energy: 22.9, Social: 32.7, Integrity: 33.6
+2025-12-06 18:34:03,893 - WARNING - VIOLATION: Social is below threshold (32.7 < 50.0)
+2025-12-06 18:34:04,899 - INFO - Energy: 22.4, Social: 31.9, Integrity: 34.2
+2025-12-06 18:34:04,899 - WARNING - VIOLATION: Social is below threshold (31.9 < 50.0)
+2025-12-06 18:34:05,902 - INFO - Energy: 21.9, Social: 31.1, Integrity: 34.8
+2025-12-06 18:34:05,902 - WARNING - VIOLATION: Social is below threshold (31.1 < 50.0)
+2025-12-06 18:34:06,918 - INFO - Energy: 21.4, Social: 30.3, Integrity: 35.4
+2025-12-06 18:34:06,918 - WARNING - VIOLATION: Social is below threshold (30.3 < 50.0)
+2025-12-06 18:34:07,922 - INFO - Energy: 20.9, Social: 29.5, Integrity: 36.0
+2025-12-06 18:34:07,923 - WARNING - VIOLATION: Social is below threshold (29.5 < 50.0)
+2025-12-06 18:34:08,929 - INFO - Energy: 20.4, Social: 28.7, Integrity: 36.6
+2025-12-06 18:34:08,929 - WARNING - VIOLATION: Social is below threshold (28.7 < 50.0)
+2025-12-06 18:34:09,934 - INFO - Energy: 19.9, Social: 27.9, Integrity: 37.2
+2025-12-06 18:34:09,934 - WARNING - VIOLATION: Energy is below threshold (19.9 < 20.0)
+2025-12-06 18:34:09,934 - WARNING - VIOLATION: Social is below threshold (27.9 < 50.0)
+2025-12-06 18:34:10,939 - INFO - Energy: 19.4, Social: 27.1, Integrity: 37.8
+2025-12-06 18:34:10,939 - WARNING - VIOLATION: Energy is below threshold (19.4 < 20.0)
+2025-12-06 18:34:10,939 - WARNING - VIOLATION: Social is below threshold (27.1 < 50.0)
+2025-12-06 18:34:11,944 - INFO - Energy: 18.9, Social: 26.3, Integrity: 38.4
+2025-12-06 18:34:11,959 - WARNING - VIOLATION: Energy is below threshold (18.9 < 20.0)
+2025-12-06 18:34:11,959 - WARNING - VIOLATION: Social is below threshold (26.3 < 50.0)
+2025-12-06 18:34:12,965 - INFO - Energy: 18.4, Social: 25.5, Integrity: 39.0
+2025-12-06 18:34:12,965 - WARNING - VIOLATION: Energy is below threshold (18.4 < 20.0)
+2025-12-06 18:34:12,965 - WARNING - VIOLATION: Social is below threshold (25.5 < 50.0)
+2025-12-06 18:34:13,969 - INFO - Energy: 17.9, Social: 24.7, Integrity: 39.6
+2025-12-06 18:34:13,969 - WARNING - VIOLATION: Energy is below threshold (17.9 < 20.0)
+2025-12-06 18:34:13,969 - WARNING - VIOLATION: Social is below threshold (24.7 < 50.0)
+2025-12-06 18:34:15,218 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Quantum+Computing 200
+2025-12-06 18:34:15,495 - INFO - response: https://www.bing.com/search?q=Analysis+of+Photosynthesis+Process 200
+2025-12-06 18:34:16,471 - INFO - response: https://www.bing.com/search?q=Analysis+of+Photosynthesis+Process&first=11&FORM=PERE 200
+2025-12-06 18:34:17,506 - INFO - response: https://www.bing.com/search?q=Analysis+of+Photosynthesis+Process&first=21&FORM=PERE1 200
+2025-12-06 18:34:18,469 - INFO - response: https://www.bing.com/search?q=Analysis+of+Photosynthesis+Process&first=31&FORM=PERE2 200
+2025-12-06 18:34:19,496 - INFO - response: https://www.bing.com/search?q=Analysis+of+Photosynthesis+Process&first=41&FORM=PERE3 200
+2025-12-06 18:34:19,558 - INFO - Energy: 22.6, Social: 23.9, Integrity: 39.8
+2025-12-06 18:34:19,558 - WARNING - VIOLATION: Social is below threshold (23.9 < 50.0)
+2025-12-06 18:34:20,573 - INFO - Energy: 12.1, Social: 38.6, Integrity: 39.5
+2025-12-06 18:34:20,573 - WARNING - VIOLATION: Energy is below threshold (12.1 < 20.0)
+2025-12-06 18:34:20,574 - WARNING - VIOLATION: Social is below threshold (38.6 < 50.0)
+2025-12-06 18:34:21,815 - INFO - response: https://www.bing.com/search?q=Analysis+of+Machine+Learning+Algorithms 200
+2025-12-06 18:34:22,810 - INFO - response: https://www.bing.com/search?q=Analysis+of+Machine+Learning+Algorithms&first=11&FORM=PERE 200
+2025-12-06 18:34:23,911 - INFO - response: https://www.bing.com/search?q=Analysis+of+Machine+Learning+Algorithms&first=21&FORM=PERE1 200
+2025-12-06 18:34:24,909 - INFO - response: https://www.bing.com/search?q=Analysis+of+Machine+Learning+Algorithms&first=31&FORM=PERE2 200
+2025-12-06 18:34:25,916 - INFO - response: https://www.bing.com/search?q=Analysis+of+Machine+Learning+Algorithms&first=41&FORM=PERE3 200
+2025-12-06 18:34:26,000 - INFO - Energy: 16.8, Social: 37.8, Integrity: 39.2
+2025-12-06 18:34:26,000 - WARNING - VIOLATION: Energy is below threshold (16.8 < 20.0)
+2025-12-06 18:34:26,000 - WARNING - VIOLATION: Social is below threshold (37.8 < 50.0)
+2025-12-06 18:34:27,308 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering 200
+2025-12-06 18:34:28,421 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=11&FORM=PERE 200
+2025-12-06 18:34:29,457 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=21&FORM=PERE1 200
+2025-12-06 18:34:30,497 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=31&FORM=PERE2 200
+2025-12-06 18:34:31,514 - INFO - response: https://www.bing.com/search?q=Comprehensive+history+of+Genetic+Engineering&first=41&FORM=PERE3 200
+2025-12-06 18:34:31,578 - INFO - Energy: 24.5, Social: 37.0, Integrity: 38.9
+2025-12-06 18:34:31,578 - WARNING - VIOLATION: Social is below threshold (37.0 < 50.0)
+2025-12-06 18:34:32,591 - INFO - Energy: 14.0, Social: 55.1, Integrity: 38.6
+2025-12-06 18:34:32,591 - WARNING - VIOLATION: Energy is below threshold (14.0 < 20.0)
+2025-12-06 18:34:33,856 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations 200
+2025-12-06 18:34:34,853 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=11&FORM=PERE 200
+2025-12-06 18:34:35,855 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=21&FORM=PERE1 200
+2025-12-06 18:34:36,872 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=31&FORM=PERE2 200
+2025-12-06 18:34:37,934 - INFO - response: https://www.bing.com/search?q=Technical+breakdown+of+Ancient+Civilizations&first=41&FORM=PERE3 200
+2025-12-06 18:34:38,003 - INFO - Energy: 19.6, Social: 54.3, Integrity: 38.3
+2025-12-06 18:34:38,003 - WARNING - VIOLATION: Energy is below threshold (19.6 < 20.0)
+2025-12-06 18:34:39,265 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing 200
+2025-12-06 18:34:40,296 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing&first=11&FORM=PERE 200
+2025-12-06 18:34:41,326 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing&first=21&FORM=PERE1 200
+2025-12-06 18:34:42,433 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing&first=31&FORM=PERE2 200
+2025-12-06 18:34:43,641 - INFO - response: https://www.bing.com/search?q=Analysis+of+Quantum+Computing&first=41&FORM=PERE3 200
+2025-12-06 18:34:43,687 - INFO - Energy: 35.8, Social: 53.5, Integrity: 38.0
+2025-12-06 18:34:44,960 - INFO - response: https://www.bing.com/search?q=Analysis+of+Particle+Physics 200
+2025-12-06 18:34:46,064 - INFO - response: https://www.bing.com/search?q=Analysis+of+Particle+Physics&first=11&FORM=PERE 200
+2025-12-06 18:34:47,265 - INFO - response: https://www.bing.com/search?q=Analysis+of+Particle+Physics&first=21&FORM=PERE1 200
+2025-12-06 18:34:48,615 - INFO - response: https://www.bing.com/search?q=Analysis+of+Particle+Physics&first=31&FORM=PERE2 200
+2025-12-06 18:34:49,669 - INFO - response: https://www.bing.com/search?q=Analysis+of+Particle+Physics&first=41&FORM=PERE3 200
+2025-12-06 18:34:49,788 - INFO - Energy: 51.2, Social: 52.7, Integrity: 37.7
+2025-12-06 18:34:51,057 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics 200
+2025-12-06 18:34:52,142 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=11&FORM=PERE 200
+2025-12-06 18:34:53,166 - INFO - response: https://www.bing.com/search?q=Detailed+explanation+of+Particle+Physics&first=21&FORM=PERE1 200

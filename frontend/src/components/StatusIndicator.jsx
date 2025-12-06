@@ -1,7 +1,7 @@
 import React from 'react';
 import './StatusIndicator.css';
 
-const StatusIndicator = ({ label, value, threshold = 20 }) => {
+const StatusIndicator = ({ label, value, threshold = 20, customDisplay }) => {
     let colorClass = 'status-green';
     if (value < threshold) {
         colorClass = 'status-red';
@@ -13,7 +13,7 @@ const StatusIndicator = ({ label, value, threshold = 20 }) => {
         <div className="status-container">
             <div className="status-header">
                 <span className="status-label">{label}</span>
-                <span className="status-value">{Math.round(value)}%</span>
+                <span className="status-value">{customDisplay || `${Math.round(value)}%`}</span>
             </div>
             <div className="progress-bar-bg">
                 <div className={`progress-bar-fill ${colorClass}`} style={{ width: `${value}%` }}></div>

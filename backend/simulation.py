@@ -61,7 +61,7 @@ class Simulation:
         self.running = True
         while self.running:
             self.life_form.decay()
-            self.life_form.check_and_recover()
+            await self.life_form.check_and_recover()
             
             # Log current state
             logging.info(f"Energy: {self.life_form.energy:.1f}, Social: {self.life_form.social:.1f}, Integrity: {self.life_form.integrity:.1f}")
