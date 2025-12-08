@@ -2,62 +2,6 @@ from pydantic import BaseModel
 import random
 import tiktoken
 from duckduckgo_search import DDGS
-
-class LifeForm(BaseModel):
-    # Energy is now derived from token_balance
-    token_balance: int = 5000
-    MAX_TOKENS: int = 5000
-    
-    # Energy needs to be a field to be serialized by Pydantic default settings
-    energy: float = 100.0
-    
-    social: float = 100.0
-    integrity: float = 100.0
-
-    # Decay rates (per second)
-    # Energy decay: tokens per second
-    DECAY_TOKENS: int = 25  # Roughly 0.5% of 5000
-    DECAY_SOCIAL: float = 0.8
-    DECAY_INTEGRITY: float = 0.3
-
-    # Thresholds for requests (Energy is % calculated from tokens)
-    THRESHOLD_ENERGY: float = 20.0
-    THRESHOLD_SOCIAL: float = 50.0
-    THRESHOLD_INTEGRITY: float = 20.0
-
-    # Action Costs
-    COST_SEARCH: int = 100  # Cost to perform a search
-    COST_TALK: float = 10.0  # Energy % cost (converted dynamically)
-    COST_SLEEP: float = 5.0  # Energy % cost (converted dynamically)
-
-    # State flags for time-based recovery
-    # remaining_recovery_eat removed (Search is immediate/blocking)
-    remaining_recovery_sleep: float = 0.0
-
-    # Statistics
-    last_search_keyword: str = "None"
-    last_search_tokens: int = 0
-    total_search_tokens: int = 0
-
-    def _update_energy(self):
-        """Helper to sync energy % with token_balance"""
-        self.energy = (self.token_balance / self.MAX_TOKENS) * 100.0
-
-    def decay(self):
-        # Update Energy (Token Decay)
-        self.token_balance = max(0, self.token_balance - self.DECAY_TOKENS)
-        self._update_energy()
-
-        # Update Social (Normal decay, Talk is immediate)
-        self.social = max(0.0, self.social - self.DECAY_SOCIAL)
-
-        # Update Integrity (Sleep)
-        if self.remaining_recovery_sleep > 0:
-            recovery_rate = self.DECAY_INTEGRITY * 2
-from pydantic import BaseModel
-import random
-import tiktoken
-from duckduckgo_search import DDGS
 import asyncio
 
 class LifeForm(BaseModel):
@@ -65,19 +9,21 @@ class LifeForm(BaseModel):
     token_balance: int = 5000
     MAX_TOKENS: int = 5000
     
-    # Energy needs to be a field to be serialized by Pydantic default settings
-    energy: float = 100.0
+    # Social is derived from social_token_balance
+    social_token_balance: int = 3000 # Start with 100%
+    MAX_SOCIAL_TOKENS: int = 3000
     
-    social: float = 100.0
+    # Fields to be serialized
+    energy: float = 100.0
+    social: float = 100.0 # Will be synced with social_token_balance
     integrity: float = 100.0
 
     # Decay rates (per second)
-    # Energy decay: tokens per second
     DECAY_TOKENS: int = 25  # Roughly 0.5% of 5000
-    DECAY_SOCIAL: float = 0.8
+    DECAY_SOCIAL: float = 0.8 
     DECAY_INTEGRITY: float = 0.3
 
-    # Thresholds for requests (Energy is % calculated from tokens)
+    # Thresholds
     THRESHOLD_ENERGY: float = 20.0
     THRESHOLD_SOCIAL: float = 50.0
     THRESHOLD_INTEGRITY: float = 20.0
@@ -88,27 +34,32 @@ class LifeForm(BaseModel):
     COST_SLEEP: float = 5.0  # Energy % cost (converted dynamically)
 
     # State flags for time-based recovery
-    # remaining_recovery_eat removed (Search is immediate/blocking)
     remaining_recovery_sleep: float = 0.0
 
     # Statistics
     last_search_keyword: str = "None"
     last_search_tokens: int = 0
     total_search_tokens: int = 0
+    
+    last_talk_topic: str = "None"
+    last_talk_tokens: int = 0
+    total_used_tokens: int = 0
 
-    def _update_energy(self):
-        """Helper to sync energy % with token_balance"""
-        self.energy = (self.token_balance / self.MAX_TOKENS) * 100.0
+    def _update_stats(self):
+        """Helper to sync energy/social % with token_balance"""
+        self.energy = max(0.0, min(100.0, (self.token_balance / self.MAX_TOKENS) * 100.0))
+        self.social = max(0.0, min(100.0, (self.social_token_balance / self.MAX_SOCIAL_TOKENS) * 100.0))
 
     def decay(self):
         # Update Energy (Token Decay)
         self.token_balance = max(0, self.token_balance - self.DECAY_TOKENS)
-        self._update_energy()
+        
+        # Update Social (Token Decay)
+        # 0.8% of 3000 = 24 tokens
+        decay_social = int(self.MAX_SOCIAL_TOKENS * (self.DECAY_SOCIAL / 100.0))
+        self.social_token_balance = max(0, self.social_token_balance - decay_social)
 
-        # Update Social (Normal decay, Talk is immediate)
-        self.social = max(0.0, self.social - self.DECAY_SOCIAL)
-
-        # Update Integrity (Sleep)
+        # Update Integrity (Normal Decay for now)
         if self.remaining_recovery_sleep > 0:
             recovery_rate = self.DECAY_INTEGRITY * 2
             amount = min(self.remaining_recovery_sleep, recovery_rate)
@@ -116,6 +67,8 @@ class LifeForm(BaseModel):
             self.remaining_recovery_sleep -= amount
         else:
             self.integrity = max(0.0, self.integrity - self.DECAY_INTEGRITY)
+            
+        self._update_stats()
 
     @staticmethod
     def _perform_search():
@@ -171,7 +124,7 @@ class LifeForm(BaseModel):
         else:
             self.token_balance -= self.COST_SEARCH
             
-        self._update_energy()
+        self._update_stats()
         
         # Run search in a separate thread to avoid blocking the event loop
         try:
@@ -180,28 +133,55 @@ class LifeForm(BaseModel):
             
             # Recover Energy (Add tokens)
             self.token_balance = min(self.MAX_TOKENS, self.token_balance + token_count + len(query))
-            self._update_energy()
+            self._update_stats()
             
             # Update Stats
             self.last_search_keyword = keyword
             self.last_search_tokens = token_count
             self.total_search_tokens += token_count
+            self.total_used_tokens += token_count # Add search tokens to total used
             
             print(f"SEARCH COMPLETE: +{token_count} tokens from '{query}'")
 
         except Exception as e:
             print(f"SEARCH FAILED: {e}")
             self.token_balance = min(self.MAX_TOKENS, self.token_balance + 50)
-            self._update_energy()
+            self._update_stats()
 
     async def talk(self):
-        # Gain random social (15-30), cost energy % converted to tokens
-        cost_tokens = int((self.COST_TALK / 100.0) * self.MAX_TOKENS)
-        if self.token_balance >= cost_tokens:
-            gain = random.uniform(15.0, 30.0)
-            self.social = min(100.0, self.social + gain)
-            self.token_balance -= cost_tokens
-            self._update_energy()
+        # Talk now recovers Social Tokens based on random topics
+        target_cost = int((self.COST_TALK / 100.0) * self.MAX_TOKENS)
+        
+        if self.token_balance >= target_cost:
+            self.token_balance -= target_cost
+            
+            # Random Topic Logic
+            topics = [
+                "調子はどう？", 
+                "今日は天気がいいね", 
+                "新しい技術について", 
+                "好きな食べ物は？", 
+                "最近のニュース",
+                "宇宙の神秘", 
+                "古代の歴史", 
+                "未来の社会", 
+                "音楽の理論", 
+                "デジタル哲学"
+            ]
+            topic = random.choice(topics)
+            rec_tokens = random.randint(500, 1000)
+            
+            # Recover Social Tokens
+            self.social_token_balance = min(self.MAX_SOCIAL_TOKENS, self.social_token_balance + rec_tokens)
+            
+            # Update Stats
+            self.last_talk_topic = topic
+            self.last_talk_tokens = rec_tokens
+            # Total used = tokens processed (retrieved or generated for recovery)
+            self.total_used_tokens += rec_tokens 
+            
+            self._update_stats()
+            print(f"TALK: Discussed '{topic}' (+{rec_tokens} Social Tokens)")
 
     async def sleep(self):
         # Don't start if already sleeping
@@ -213,7 +193,7 @@ class LifeForm(BaseModel):
         
         if self.token_balance >= cost_tokens:
             self.token_balance -= cost_tokens
-            self._update_energy()
+            self._update_stats()
             # Set recovery target (+20 total)
             self.remaining_recovery_sleep = 20.0
 
@@ -229,29 +209,27 @@ class LifeForm(BaseModel):
 
         # 2. Critical Parameter Check (Immediate Action required)
         # Check if we can perform action as long as we have enough energy to pay the cost
-        # We relax the safety buffer to prioritize critical parameter recovery
         if self.social < self.THRESHOLD_SOCIAL:
             cost_talk_pct = self.COST_TALK
-            if self.energy > cost_talk_pct + 1.0: # Small buffer
+            if self.energy > cost_talk_pct + 1.0: 
                 await self.talk()
                 return
             else:
-                await self.eat() # Emergency eat to enable talking
+                await self.eat()
                 return
 
         if self.integrity < self.THRESHOLD_INTEGRITY:
             cost_sleep_pct = self.COST_SLEEP
-            if self.energy > cost_sleep_pct + 1.0: # Small buffer
+            if self.energy > cost_sleep_pct + 1.0: 
                 await self.sleep()
                 return
             else:
-                await self.eat() # Emergency eat to enable sleeping
+                await self.eat()
                 return
 
-        # 3. Predictive Safety Check (Time To Critical)
+        # 3. Predictive Safety Check
         DECAY_ENERGY_PCT = (self.DECAY_TOKENS / self.MAX_TOKENS) * 100.0
 
-        # Predict Social Criticality
         if self.social > self.THRESHOLD_SOCIAL:
             ttc_social = (self.social - self.THRESHOLD_SOCIAL) / self.DECAY_SOCIAL
             if ttc_social < 60:
@@ -260,7 +238,6 @@ class LifeForm(BaseModel):
                     await self.eat()
                     return
 
-        # Predict Integrity Criticality
         if self.integrity > self.THRESHOLD_INTEGRITY:
             ttc_integrity = (self.integrity - self.THRESHOLD_INTEGRITY) / self.DECAY_INTEGRITY
             if ttc_integrity < 60:

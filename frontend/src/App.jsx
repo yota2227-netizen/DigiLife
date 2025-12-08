@@ -98,6 +98,20 @@ function App() {
                 <div style={{ fontWeight: 'bold', color: '#10b981' }}>{lifeForm.total_search_tokens || 0}</div>
               </div>
             </div>
+
+            <div className="talk-stats" style={{ marginTop: '10px', padding: '15px', background: 'rgba(255,255,255,0.8)', borderRadius: '10px', color: '#1f2937' }}>
+              <h3 style={{ fontSize: '1rem', marginBottom: '10px', color: '#111827', fontWeight: 'bold' }}>Talk Stats</h3>
+              <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '8px 15px', fontSize: '0.9rem', alignItems: 'center' }}>
+                <div style={{ color: '#4b5563' }}>Last Topic:</div>
+                <div style={{ fontWeight: 'bold', color: '#111827', fontStyle: 'italic' }}>"{lifeForm.last_talk_topic || '-'}"</div>
+
+                <div style={{ color: '#4b5563' }}>Tokens Used:</div>
+                <div style={{ fontWeight: 'bold', color: '#8b5cf6' }}>{lifeForm.last_talk_tokens || 0}</div>
+
+                <div style={{ color: '#4b5563', borderTop: '1px solid #e5e7eb', paddingTop: '5px', marginTop: '5px' }}>Total Used:</div>
+                <div style={{ fontWeight: 'bold', color: '#f59e0b', borderTop: '1px solid #e5e7eb', paddingTop: '5px', marginTop: '5px' }}>{lifeForm.total_used_tokens || 0}</div>
+              </div>
+            </div>
           </div>
 
           <div className="right-panel">

@@ -18,10 +18,12 @@ class Simulation:
         self.life_form = life_form
         self.active_connections: List[WebSocket] = []
         self.running = False
+        self.is_active = False # Paused until first connection
 
     async def connect(self, websocket: WebSocket):
         await websocket.accept()
         self.active_connections.append(websocket)
+        self.is_active = True # Start simulation on first connection
         # Cancel shutdown if a client reconnects
         if hasattr(self, 'shutdown_task') and self.shutdown_task:
             self.shutdown_task.cancel()
@@ -60,21 +62,36 @@ class Simulation:
     async def start(self):
         self.running = True
         while self.running:
-            self.life_form.decay()
-            await self.life_form.check_and_recover()
-            
-            # Log current state
-            logging.info(f"Energy: {self.life_form.energy:.1f}, Social: {self.life_form.social:.1f}, Integrity: {self.life_form.integrity:.1f}")
+            if self.is_active:
+                self.life_form.decay()
+                await self.life_form.check_and_recover()
+                
+                # Log current state
+                logging.info(f"Energy: {self.life_form.energy:.1f}, Social: {self.life_form.social:.1f}, Integrity: {self.life_form.integrity:.1f}")
 
-            # Check for violations
-            if self.life_form.energy < self.life_form.THRESHOLD_ENERGY:
-                 logging.warning(f"VIOLATION: Energy is below threshold ({self.life_form.energy:.1f} < {self.life_form.THRESHOLD_ENERGY})")
-            if self.life_form.social < self.life_form.THRESHOLD_SOCIAL:
-                 logging.warning(f"VIOLATION: Social is below threshold ({self.life_form.social:.1f} < {self.life_form.THRESHOLD_SOCIAL})")
-            if self.life_form.integrity < self.life_form.THRESHOLD_INTEGRITY:
-                 logging.warning(f"VIOLATION: Integrity is below threshold ({self.life_form.integrity:.1f} < {self.life_form.THRESHOLD_INTEGRITY})")
+                # Check for violations
+                if self.life_form.energy < self.life_form.THRESHOLD_ENERGY:
+                     logging.warning(f"VIOLATION: Energy is below threshold ({self.life_form.energy:.1f} < {self.life_form.THRESHOLD_ENERGY})")
+                if self.life_form.social < self.life_form.THRESHOLD_SOCIAL:
+                     logging.warning(f"VIOLATION: Social is below threshold ({self.life_form.social:.1f} < {self.life_form.THRESHOLD_SOCIAL})")
+                if self.life_form.integrity < self.life_form.THRESHOLD_INTEGRITY:
+                     logging.warning(f"VIOLATION: Integrity is below threshold ({self.life_form.integrity:.1f} < {self.life_form.THRESHOLD_INTEGRITY})")
 
-            await self.broadcast()
+                await self.broadcast()
+            else:
+                 # Should we broadcast initial state even if paused? 
+                 # Yes, so client gets initial "100%" data immediately on connect, 
+                 # but broadcast is usually called after update.
+                 # Let's rely on 'connect' or 'main' to send initial state? 
+                 # Actually main.py doesn't send initial state on connect.
+                 # Let's add broadcast here to ensure client gets data even if paused?
+                 # No, better to just broadcast once when client connects?
+                 # The loop runs every second. If paused, it sleeps.
+                 # Problem: Client connects, is_active becomes true. Loop picks up next second.
+                 # Immediate feedback is needed.
+                 pass
+
+            await asyncio.sleep(1)  # Decay every second
             await asyncio.sleep(1)  # Decay every second
 
     def stop(self):

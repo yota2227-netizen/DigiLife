@@ -1,62 +1,99 @@
 # DigiLife 仕様書 (Specification)
 
-## 1. システム概要
-DigiLifeは、以下の3つのパラメータを持つデジタル生命体の自律シミュレーションシステムです。
-- **エネルギー (Energy)**: 生命活動の源。情報の摂取（Web検索）によって回復します。
-- **社交性 (Social)**: 他者との関わり。会話によって回復します。
-- **整合性 (Integrity)**: システムの安定性。睡眠（デフラグ/メンテナンス）によって回復します。
+## 1. システム構成 (System Architecture)
+DigiLifeは、Python (FastAPI) バックエンドと React フロントエンドで構成されるクライアント・サーバー型のアプリケーションです。両者はWebSocketを用いて双方向のリアルタイム通信を行います。
 
-## 2. パラメータモデル (`backend/model.py`)
+### アーキテクチャ図解
+```mermaid
+graph LR
+    User[ユーザー] -->|操作| Frontend[Frontend (React)]
+    Frontend -->|HTTP POST| API[API Endpoints]
+    API -->|Action| Model[LifeForm Model]
+    
+    subgraph Backend (Python/FastAPI)
+        Model -->|State Update| Sim[Simulation Loop]
+        Sim -->|Decay/Recover| Model
+        Sim -->|WebSocket Broadcast| Frontend
+    end
+    
+    Model -->|Search Query| DuckDuckGo[DuckDuckGo API]
+    DuckDuckGo -->|Text Content| Model
+```
 
-### 2.1 エネルギーシステム (Token-based Energy)
-- **概念**: エネルギーは「トークン」として定量化されます。
-- **最大値**: 5000 Token (100%)
-- **減衰**: `DECAY_TOKENS = 25 tokens / sec` (約0.5%/秒)
-- **表示**: UI上では `% (現在値 / 最大値)` で表示されます。
+## 2. ディレクトリ構成と役割
+### Backend (`/backend`)
+- **`main.py`**: アプリケーションのエントリーポイント。FastAPIサーバーの起動、WebSocketエンドポイントの定義、CORS設定を行います。
+- **`model.py`**: `LifeForm` クラスを定義。エネルギー、社交性、整合性のデータモデルと、それらを操作するビジネスロジック（`eat`, `talk`, `decay`等）を含みます。
+- **`simulation.py`**: `Simulation` クラスを定義。非同期ループを管理し、1秒ごとの減衰処理 (`decay`) と自律行動チェック (`check_and_recover`) を実行し、結果をクライアントにブロードキャストします。
 
-### 2.2 その他のパラメータ
-- **Social**: 0-100% (減衰: 0.8 / sec)
-- **Integrity**: 0-100% (減衰: 0.3 / sec)
+### Frontend (`/frontend`)
+- **`src/App.jsx`**: メインUIコンポーネント。WebSocket接続の管理、アプリの状態保持 (`lifeForm` state)、全体のレイアウト定義を行います。
+- **`src/components/StatusIndicator.jsx`**: パラメータの数値をプログレスバーとして可視化するコンポーネント。
+- **`src/components/ActionPanel.jsx`**: ユーザーが操作するアクションボタン（食事、会話、睡眠）のパネル。
+- **`src/components/CharacterDisplay.jsx`**: 現在のパラメータ状態に基づいて、キャラクターの画像（ドット絵）とアニメーションを制御します。
+- **`src/components/RetroDevice.jsx`**: SVGフィルターを使用した高精細なレトロゲーム機風のフレームを描画します。
 
-### 2.3 閾値 (Thresholds)
-- **Energy**: 20.0% (下回ると餓死の危険/自律回復トリガー)
-- **Social**: 50.0% (下回ると孤独を感じる)
-- **Integrity**: 20.0% (下回るとシステム不安定)
+## 3. データモデル詳細 (`backend/model.py`)
 
-## 3. アクション (Interactions)
+### `LifeForm` クラス
+PyDanticの `BaseModel` を継承し、以下の状態を管理します。
 
-### 3.1 食事 (Web検索) - `eat()`
-- **動作**: 外部Web検索API (`duckduckgo-search`) を使用して情報を取得します。
-- **コスト**: 100 Token (検索実行コスト)
-- **回復量**: 取得した情報のテキスト量（トークン数）に応じて回復。
-- **挙動**:
-    - ランダムな「高度なトピック（量子コンピュータ、哲学など）」をキーワードに選定。
-    - 「詳細な説明」などを求めるクエリで検索。
-    - 上位20件の結果を取得し、トークン数を合算してエネルギーに加算。
-    - **緊急回避**: 検索コストが不足している場合でも、残存トークンを0にして検索を強行可能（デッドロック防止）。
-    - **非同期処理**: バックグラウンドスレッドで実行されるため、パラメータ減衰を停止させません。
+#### パラメータ
+| パラメータ名 | 型 | 範囲 | 説明 |
+| :--- | :--- | :--- | :--- |
+| `token_balance` | int | 0 - 5000 | エネルギーの実体値（トークン数）。 |
+| `social_token_balance` | int | 0 - 3000 | 社交性の実体値（トークン数）。 |
+| `energy` | float | 0.0 - 100.0 | `token_balance` から算出される表示用％値。 |
+| `social` | float | 0.0 - 100.0 | `social_token_balance` から算出される表示用％値。 |
+| `integrity` | float | 0.0 - 100.0 | システム整合性。時間とともに減少。 |
 
-### 3.2 会話 (Talk) - `talk()`
-- **コスト**: エネルギーの10%相当のトークン。
-- **回復量**: Social +15.0 ~ +30.0 (ランダム)。
+#### 減衰レート (1秒あたり)
+- **Energy**: 25 Tokens (約0.5%)
+- **Social**: 24 Tokens (約0.8%)
+- **Integrity**: 0.3%
 
-### 3.3 睡眠 (Sleep) - `sleep()`
+#### 統計情報フィールド
+ユーザーへのフィードバック用に以下の統計を保持します。
+- **Search Stats**: `last_search_keyword`, `last_search_tokens`
+- **Talk Stats**: `last_talk_topic`, `last_talk_tokens`
+- **Overall**: `total_used_tokens` (Search獲得トークン + Talk消費トークンの合計)
+
+## 4. 通信プロトコル
+
+### WebSocket (`ws://localhost:8000/ws`)
+- **方向**: Server -> Client (Broadcast)
+- **頻度**: 1秒ごとのループ更新時。
+- **初期接続待機**: バックエンド起動後、最初のクライアント接続があるまでシミュレーション（減衰）は開始されません（パラメータ低下の防止）。
+- **フォーマット (JSON)**:
+  ```json
+  {
+    "token_balance": 5000,
+    "social_token_balance": 3000,
+    "last_talk_topic": "デジタル哲学",
+    ...
+  }
+  ```
+
+## 5. アクションとロジック
+
+### 5.1 食事 (Web検索) - `eat()`
+- **プロセス**: ランダムキーワードでのWeb検索を実行し、テキスト量に応じて `token_balance` を回復します。
+- **統計**: 検索結果のトークン数は `total_used_tokens` に加算されます。
+
+### 5.2 会話 (Talk) - `talk()`
+- **プロセス**: 定義済み10種類の話題からランダムに1つ選択し、**500 ~ 1000** の範囲でランダムな量のトークンを `social_token_balance` に加算します。
+- **コスト**: エネルギーの10%相当のトークンを消費。
+- **統計**: 回復したトークン量は `total_used_tokens` に加算されます。
+
+### 5.3 睡眠 (Sleep) - `sleep()`
 - **コスト**: エネルギーの5%相当のトークン。
 - **回復量**: Integrity +20.0 (時間をかけて徐々に回復する場合あり)。
 
-## 4. 自律行動ロジック (Autonomous Behavior)
-システムは毎秒 (`backend/simulation.py`) 状態をチェックし、必要に応じて自律的に行動します。
+### 5.4 自律行動 (Autonomous Recovery)
+1. **餓死回避**: Energy < 20% なら即座に `eat()`。
+2. **パラメータ維持**: Social < 50% や Integrity < 20% の場合、**現在のエネルギーでコストが支払えるなら** 回復アクションを実行。
+3. **予知保全**: 現在の減少スピードから「60秒以内に枯渇する」と予測された場合、事前に `eat()` してエネルギーを蓄える。
 
-### `check_and_recover()`
-1.  **エネルギー危機管理**:
-    - Energy < 20% の場合、最優先で `eat()` を実行。
-2.  **パラメータ回復**:
-    - Social < 50% または Integrity < 20% の場合、回復アクション (`talk` / `sleep`) を試行。
-    - **安全判定**: 「現在エネルギー > アクションコスト」であれば実行。（以前は実行後の残量が20%以上あることを求めていたが、緊急回復を優先するために緩和）。
-    - エネルギー不足で実行できない場合は `eat()` を行う。
-3.  **未来予測**:
-    - SocialやIntegrityの減衰速度から「枯渇までの時間」を計算し、その時点でエネルギー不足に陥る予測が出た場合、事前に `eat()` して備える。
-
-## 5. UI / UX
-- **レトロデバイス風表示**: ドット絵キャラクターが状態に応じてアニメーション（Normal, Hungry, Lonely, Sleepy）。
-- **リアルタイム統計**: 直近の検索キーワードや獲得トークン数を表示。
+## 6. UI / UX 仕様
+- **Talk Stats**: 最後の会話トピックと消費トークン数を表示。
+- **接続期待機**: フロントエンド接続待ちの間は減衰しないため、アプリ起動直後は常にパラメータ100%から開始されます。
